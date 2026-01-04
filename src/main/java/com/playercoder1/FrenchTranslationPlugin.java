@@ -9,7 +9,7 @@ import net.runelite.api.events.BeforeRender;
 import net.runelite.api.events.MenuEntryAdded;
 import net.runelite.api.events.PostItemComposition;
 import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetInfo;
+import net.runelite.api.widgets.WidgetUtil;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
@@ -40,7 +40,6 @@ public class FrenchTranslationPlugin extends Plugin
     @Override
     protected void shutDown()
     {
-
         try
         {
             for (Map.Entry<Integer, String> e : originalItemNames.entrySet())
@@ -98,7 +97,6 @@ public class FrenchTranslationPlugin extends Plugin
 
     private String translateMenuTarget(MenuEntry entry, String targetWithTags)
     {
-
         String clean = Text.removeTags(targetWithTags);
         String base = stripCombatLevelSuffix(clean);
 
@@ -176,9 +174,12 @@ public class FrenchTranslationPlugin extends Plugin
             return;
         }
 
-        int groupId = WidgetInfo.TO_GROUP(widget.getId());
-        final int CHAT_MESSAGE = 162, PRIVATE_MESSAGE = 163, FRIENDS_LIST = 429;
-        if (groupId == CHAT_MESSAGE || groupId == PRIVATE_MESSAGE || groupId == FRIENDS_LIST)
+        // Replace WidgetInfo.TO_GROUP(widget.getId()) with WidgetUtil.componentToInterface(widget.getId())
+        final int interfaceId = WidgetUtil.componentToInterface(widget.getId()); // :contentReference[oaicite:1]{index=1}
+
+        // Skip chat/friends UI to avoid translating player-written text
+        final int CHATBOX = 162, PRIVATE_CHAT = 163, FRIENDS_LIST = 429;
+        if (interfaceId == CHATBOX || interfaceId == PRIVATE_CHAT || interfaceId == FRIENDS_LIST)
         {
             return;
         }
@@ -221,4 +222,3 @@ public class FrenchTranslationPlugin extends Plugin
         }
     }
 }
-
