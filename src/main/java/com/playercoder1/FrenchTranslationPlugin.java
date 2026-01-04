@@ -34,6 +34,8 @@ public class FrenchTranslationPlugin extends Plugin
     @Override
     protected void startUp()
     {
+        FrenchItemTranslations.init();
+        FrenchNpcTranslations.init();
         log.info("French Translation started");
     }
 
@@ -145,12 +147,8 @@ public class FrenchTranslationPlugin extends Plugin
 
     private static String stripCombatLevelSuffix(String s)
     {
-        int idx = s.indexOf(" (level-");
-        if (idx > 0)
-        {
-            return s.substring(0, idx);
-        }
-        return s;
+        if (s == null) return null;
+        return s.replaceAll("\\s*\\(level-\\d+\\)$", "");
     }
 
     @Subscribe
@@ -174,10 +172,8 @@ public class FrenchTranslationPlugin extends Plugin
             return;
         }
 
-        // Replace WidgetInfo.TO_GROUP(widget.getId()) with WidgetUtil.componentToInterface(widget.getId())
-        final int interfaceId = WidgetUtil.componentToInterface(widget.getId()); // :contentReference[oaicite:1]{index=1}
+        final int interfaceId = WidgetUtil.componentToInterface(widget.getId());
 
-        // Skip chat/friends UI to avoid translating player-written text
         final int CHATBOX = 162, PRIVATE_CHAT = 163, FRIENDS_LIST = 429;
         if (interfaceId == CHATBOX || interfaceId == PRIVATE_CHAT || interfaceId == FRIENDS_LIST)
         {
@@ -222,3 +218,4 @@ public class FrenchTranslationPlugin extends Plugin
         }
     }
 }
+

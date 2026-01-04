@@ -79,6 +79,7 @@ public final class FrenchMenuTranslations {
 
             Map.entry("pay (north)", "Payer (nord)"),
             Map.entry("pay (south)", "Payer (sud)"),
+            Map.entry("pay", "Payer"),
 
             Map.entry("top-floor", "Étage supérieur"),
             Map.entry("bottom-floor", "Étage inférieur"),
@@ -180,8 +181,77 @@ public final class FrenchMenuTranslations {
             Map.entry("fill", "Remplir"),
             Map.entry("check-ammo", "Vérifier les munitions"),
             Map.entry("tether", "Attacher"),
-            Map.entry("forfeit", "Abandonner")
-    );
+            Map.entry("forfeit", "Abandonner"),
+            Map.entry("pet", "Caresser"),
+            Map.entry("shoo-away", "Chasser"),
+            Map.entry("view-stats", "Voir les statistiques"),
+            Map.entry("view-glory", "Voir Glory"),
+            Map.entry("exit", "Sortie"),
+            Map.entry("craft", "Fabriquer"),
+            Map.entry("holiday-items", "Objets de fêtes"),
+            Map.entry("redeem-code", "Utiliser le code"),
+            Map.entry("take-boat", "Prendre le bateau"),
+            Map.entry("buy-boat", "Acheter un bateau"),
+            Map.entry("customise-boat", "Personnaliser le bateau"),
+            Map.entry("recover-boat", "Récupérer le bateau"),
+
+            Map.entry("take-cargo", "Prendre la cargaison"),
+            Map.entry("take-last-cargo", "Prendre la dernière cargaison"),
+            Map.entry("take-any-cargo", "Prendre n'importe quelle cargaison"),
+
+            Map.entry("charter", "Affréter"),
+            Map.entry("steal-from", "Voler à"),
+
+            Map.entry("quick-deposits", "Dépôts rapides"),
+            Map.entry("navigate", "Naviguer"),
+            Map.entry("escape", "S'échapper"),
+            Map.entry("disembark", "Débarquer"),
+            Map.entry("collect-data", "Collecter des données"),
+            Map.entry("tend-to", "S'occuper de"),
+            Map.entry("rest", "Se reposer"),
+            Map.entry("set-trap", "Poser un piège"),
+            Map.entry("catch", "Attraper"),
+
+            Map.entry("craft-rune", "Fabriquer une rune"),
+            Map.entry("dismantle", "Démonter"),
+            Map.entry("investigate", "Enquêter"),
+            Map.entry("reset", "Réinitialiser"),
+
+            Map.entry("lay", "Poser"),
+            Map.entry("move", "Déplacer"),
+            Map.entry("crawl-through", "Ramper à travers"),
+            Map.entry("grapple", "S'agripper"),
+
+            Map.entry("remove-room", "Supprimer la salle"),
+            Map.entry("challenge-mode", "Mode défi"),
+            Map.entry("items", "Objets"),
+
+            Map.entry("enter-member", "Entrer (membre)"),
+            Map.entry("enter-guest", "Entrer (invité)"),
+            Map.entry("claim", "Réclamer"),
+            Map.entry("use-rod", "Utiliser la canne"),
+            Map.entry("private", "Privé"),
+            Map.entry("pass", "Passer"),
+            Map.entry("bury", "Enterrer"),
+            Map.entry("toggle", "Activer/Désactiver"),
+            Map.entry("unload", "Décharger"),
+            Map.entry("load", "Charger"),
+            Map.entry("break", "Briser"),
+            Map.entry("inside", "À l'intérieur"),
+            Map.entry("outside", "À l'extérieur"),
+            Map.entry("group", "Groupe"),
+            Map.entry("reminisce", "Se remémorer"),
+            Map.entry("remove default", "Retirer par défaut"),
+            Map.entry("recite-prayer", "Réciter une prière"),
+            Map.entry("functions", "Fonctions"),
+            Map.entry("chase", "Chasser"),
+            Map.entry("interact", "Interagir"),
+            Map.entry("combine", "Combiner"),
+            Map.entry("check-keys", "Vérifier les clés"),
+            Map.entry("sets", "Ensembles"),
+            Map.entry("history", "Historique"),
+            Map.entry("jump-over", "Sauter par dessus")
+            );
 
     public static String translateOption(String englishOption) {
         if (englishOption == null || englishOption.isEmpty()) {
