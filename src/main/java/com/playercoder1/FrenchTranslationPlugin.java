@@ -22,7 +22,7 @@ import java.util.Map;
 @Slf4j
 @PluginDescriptor(
         name = "Osrs In French",
-        description = "Translates the game in French"
+        description = "Translating basic stuff in French"
 )
 public class FrenchTranslationPlugin extends Plugin
 {
