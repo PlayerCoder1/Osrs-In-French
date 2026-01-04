@@ -1,5 +1,6 @@
 package com.playercoder1;
 
+import com.google.inject.Provides;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
 import net.runelite.api.GameState;
@@ -10,6 +11,7 @@ import net.runelite.api.events.MenuEntryAdded;
 import net.runelite.api.events.PostItemComposition;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.widgets.WidgetUtil;
+import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
@@ -22,12 +24,24 @@ import java.util.Map;
 @Slf4j
 @PluginDescriptor(
         name = "Osrs In French",
-        description = "Translating basic stuff in French"
+        description = "Translates partially the game in French"
 )
 public class FrenchTranslationPlugin extends Plugin
 {
     @Inject
     private Client client;
+
+    @Inject
+    private FrenchTranslationConfig config;
+
+    @Inject
+    private ConfigManager configManager;
+
+    @Provides
+    FrenchTranslationConfig provideConfig(ConfigManager configManager)
+    {
+        return configManager.getConfig(FrenchTranslationConfig.class);
+    }
 
     private final Map<Integer, String> originalItemNames = new HashMap<>();
 
@@ -42,6 +56,7 @@ public class FrenchTranslationPlugin extends Plugin
     @Override
     protected void shutDown()
     {
+        // Only revert if item translation was active (still safe either way)
         try
         {
             for (Map.Entry<Integer, String> e : originalItemNames.entrySet())
@@ -61,6 +76,11 @@ public class FrenchTranslationPlugin extends Plugin
     @Subscribe
     public void onPostItemComposition(PostItemComposition event)
     {
+        if (!config.translateItems())
+        {
+            return;
+        }
+
         final int itemId = event.getItemComposition().getId();
 
         String fr = FrenchItemTranslations.translateItemName(event.getItemComposition().getName());
@@ -78,10 +98,20 @@ public class FrenchTranslationPlugin extends Plugin
     {
         MenuEntry entry = event.getMenuEntry();
 
-        String optFr = FrenchMenuTranslations.translateOption(entry.getOption());
-        if (optFr != null)
+        // 1) Menu option (verb)
+        if (config.translateMenu())
         {
-            entry.setOption(optFr);
+            String optFr = FrenchMenuTranslations.translateOption(entry.getOption());
+            if (optFr != null)
+            {
+                entry.setOption(optFr);
+            }
+        }
+
+        // 2) Target (NPC/item/object name area)
+        if (!config.translateNpcs() && !config.translateItems())
+        {
+            return;
         }
 
         String target = entry.getTarget();
@@ -102,15 +132,20 @@ public class FrenchTranslationPlugin extends Plugin
         String clean = Text.removeTags(targetWithTags);
         String base = stripCombatLevelSuffix(clean);
 
+        // --- NPC target ---
         NPC npc = entry.getNpc();
         if (npc != null)
         {
+            if (!config.translateNpcs())
+            {
+                return null;
+            }
+
             String frNpc = FrenchNpcTranslations.translateNpcName(npc.getName());
             if (frNpc == null)
             {
                 frNpc = FrenchNpcTranslations.translateNpcName(base);
             }
-
             if (frNpc == null)
             {
                 return null;
@@ -119,9 +154,15 @@ public class FrenchTranslationPlugin extends Plugin
             return targetWithTags.replace(base, frNpc);
         }
 
+        // --- Item target ---
         int itemId = entry.getItemId();
         if (itemId > 0)
         {
+            if (!config.translateItems())
+            {
+                return null;
+            }
+
             String frItem = FrenchItemTranslations.translateItemName(base);
             if (frItem == null)
             {
@@ -131,18 +172,26 @@ public class FrenchTranslationPlugin extends Plugin
             return targetWithTags.replace(base, frItem);
         }
 
-        String fr = FrenchNpcTranslations.translateNpcName(base);
-        if (fr == null)
+        // --- Fallback: plain target string (sometimes just a name) ---
+        if (config.translateNpcs())
         {
-            fr = FrenchItemTranslations.translateItemName(base);
+            String fr = FrenchNpcTranslations.translateNpcName(base);
+            if (fr != null)
+            {
+                return targetWithTags.replace(base, fr);
+            }
         }
 
-        if (fr == null)
+        if (config.translateItems())
         {
-            return null;
+            String fr = FrenchItemTranslations.translateItemName(base);
+            if (fr != null)
+            {
+                return targetWithTags.replace(base, fr);
+            }
         }
 
-        return targetWithTags.replace(base, fr);
+        return null;
     }
 
     private static String stripCombatLevelSuffix(String s)
@@ -155,6 +204,12 @@ public class FrenchTranslationPlugin extends Plugin
     public void onBeforeRender(BeforeRender event)
     {
         if (client.getGameState() != GameState.LOGGED_IN)
+        {
+            return;
+        }
+
+        // If both are off, no point scanning widgets every frame
+        if (!config.translateNpcs() && !config.translateItems())
         {
             return;
         }
@@ -174,6 +229,7 @@ public class FrenchTranslationPlugin extends Plugin
 
         final int interfaceId = WidgetUtil.componentToInterface(widget.getId());
 
+        // Skip chat/friends UI to avoid translating player-written text
         final int CHATBOX = 162, PRIVATE_CHAT = 163, FRIENDS_LIST = 429;
         if (interfaceId == CHATBOX || interfaceId == PRIVATE_CHAT || interfaceId == FRIENDS_LIST)
         {
@@ -185,8 +241,14 @@ public class FrenchTranslationPlugin extends Plugin
         {
             String clean = Text.removeTags(text);
 
-            String fr = FrenchNpcTranslations.translateNpcName(clean);
-            if (fr == null)
+            String fr = null;
+
+            if (config.translateNpcs())
+            {
+                fr = FrenchNpcTranslations.translateNpcName(clean);
+            }
+
+            if (fr == null && config.translateItems())
             {
                 fr = FrenchItemTranslations.translateItemName(clean);
             }
@@ -218,4 +280,3 @@ public class FrenchTranslationPlugin extends Plugin
         }
     }
 }
-
