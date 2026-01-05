@@ -38,4 +38,14 @@ public interface FrenchTranslationConfig extends Config
     {
         return true;
     }
+
+    @ConfigItem(
+            keyName = "translateDialogs",
+            name = "Translate dialogs",
+            description = "Translate NPC dialog text, dialog options, and \"Click here to continue\""
+    )
+    default boolean translateDialogs()
+    {
+        return true;
+    }
 }

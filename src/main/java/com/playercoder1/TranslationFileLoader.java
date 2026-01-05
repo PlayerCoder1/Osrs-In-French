@@ -17,7 +17,6 @@ public final class TranslationFileLoader
 
     public static int loadPipeSeparated(String resourceName, Map<String, String> out)
     {
-
         InputStream in = TranslationFileLoader.class.getClassLoader().getResourceAsStream(resourceName);
         if (in == null)
         {
@@ -50,7 +49,6 @@ public final class TranslationFileLoader
                 if (sep <= 0 || sep >= line.length() - 1)
                 {
                     continue;
-
                 }
 
                 String key = normKey(line.substring(0, sep));
@@ -72,11 +70,56 @@ public final class TranslationFileLoader
         return loaded;
     }
 
+    public static String visibleText(String s)
+    {
+        if (s == null)
+        {
+            return "";
+        }
+
+        String t = s
+                .replace("<br>", " ")
+                .replace("<br/>", " ")
+                .replace("<br />", " ");
+
+        t = Text.removeTags(t);
+        t = t.replace('\u00A0', ' ');
+
+        return t;
+    }
+
     public static String normKey(String s)
     {
+        String clean = visibleText(s);
+        int n = clean.length();
+        if (n == 0)
+        {
+            return "";
+        }
 
-        String clean = Text.removeTags(s == null ? "" : s);
-        return clean.trim().replaceAll("\\s+", " ").toLowerCase(Locale.ROOT);
+        StringBuilder sb = new StringBuilder(n);
+        boolean inWs = true;
+
+        for (int i = 0; i < n; i++)
+        {
+            char c = clean.charAt(i);
+
+            if (Character.isWhitespace(c))
+            {
+                inWs = true;
+                continue;
+            }
+
+            if (inWs && sb.length() > 0)
+            {
+                sb.append(' ');
+            }
+
+            sb.append(Character.toLowerCase(c));
+            inWs = false;
+        }
+
+        return sb.toString().trim();
     }
 
     private static String stripBom(String s)

@@ -250,7 +250,9 @@ public final class FrenchMenuTranslations {
             Map.entry("check-keys", "Vérifier les clés"),
             Map.entry("sets", "Ensembles"),
             Map.entry("history", "Historique"),
-            Map.entry("jump-over", "Sauter par dessus")
+            Map.entry("jump-over", "Sauter par dessus"),
+            Map.entry("quick-board", "Monter rapidement"),
+            Map.entry("descend", "Descendre")
             );
 
     public static String translateOption(String englishOption) {

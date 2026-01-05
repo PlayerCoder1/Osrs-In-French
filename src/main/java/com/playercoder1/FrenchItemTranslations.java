@@ -51,13 +51,13 @@ public final class FrenchItemTranslations
             suffix = m.group(2) + "(" + m.group(3) + ")";
         }
 
-        String frBase = MAP.get(normKey(base));
+        String frBase = MAP.get(TranslationFileLoader.normKey(base));
         if (frBase != null)
         {
             return frBase + suffix;
         }
 
-        String frExact = MAP.get(normKey(original));
+        String frExact = MAP.get(TranslationFileLoader.normKey(original));
         if (frExact != null)
         {
             return frExact;
