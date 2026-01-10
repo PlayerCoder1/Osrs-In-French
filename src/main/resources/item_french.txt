@@ -9270,3 +9270,3857 @@ zuriel's hood|Capuche de Zuriel
 zuriel's robe bottom|Bas de robe de Zuriel
 zuriel's robe top|Haut de la robe de Zuriel
 zuriel's staff|Bâton de Zuriel
+A Goblin standard|Un étendard gobelin
+A Goblin|Un gobelin
+A Kingdom Divided Display|Une exposition sur un royaume divisé
+A Shayzien State|Un État shayzien
+A Sinking Canoe|Un canoë en train de couler
+A barrel of rainwater|Un tonneau d'eau de pluie
+A bunk bed|Un lit superposé
+A chasm|Un gouffre
+A crack|Une fissure
+A dark crystal|Un cristal noir
+A fallen barrel|Un tonneau renversé
+A flag|Un drapeau
+A gap through the wall|Une brèche dans le mur
+A rock|Un rocher
+A shabby tent|Une tente délabrée
+A singular circle|Un cercle singulier
+A tropical tree|Un arbre tropical
+A wall|Un mur
+A wooden log|Une bûche de bois
+Abandoned Cart|Chariot abandonné
+Abandoned Equipment|Équipement abandonné
+Absorption potion|Potion d'absorption
+Abstract mural|Fresque abstraite
+Abyssal Growth|Croissance abyssale
+Abyssal Rift|Faille abyssale
+Abyssal Sire display|Affichage du seigneur abyssal
+Abyssal Stem|Tige abyssale
+Abyssal Tether|Longe abyssale
+Abyssal demon head|Tête de démon abyssal
+Acacia tree|Acacia
+Accomplishment scroll space|Espace pour parchemin de réussite
+Achey Tree|Arbre douloureux
+Achey Tree stump|Souche d'arbre douloureux
+Achievement diary display|Affichage du journal des réalisations
+Acid blood|Sang acide
+Acidic miasma|Miasme acide
+Adamant cannon|Canon adamantin
+Adamant helm|Casque adamantin
+Adamant keel|Quille adamantine
+Adamant ore vein|Veine de minerai adamantin
+Adamant salvaging hook|Crochet de récupération adamantin
+Adamantite armour|Armure en adamantite
+Adamantite rocks|Roches en adamantite
+Advanced arena|Arène avancée
+Advanced chum station|Station d'appât avancée
+Adventure log space|Espace pour le journal d'aventure
+Advert|Publicité
+Aga lever|Levier Aga
+Aged log|Bûche vieillie
+Aggie's Cauldron|Chaudron d'Aggie
+Agility dispenser|Distributeur d'agilité
+Agitator|Agitateur
+Air Altar|Autel de l'air
+Air balloon|Ballon à air
+Air rift|Faille d'air
+Air rune|Rune d'air
+Alan|Alan
+Alarm button|Bouton d'alarme
+Alchemical Hydra display|Affichage de l'hydre alchimique
+Alchemical chart|Tableau alchimique
+Alchemical door|Porte alchimique
+Alchemical hydra heads|Têtes d'hydre alchimique
+Alchemists Teleport|Téléportation des alchimistes
+Ale Barrel|Fût de bière
+Alembic|Alambic
+Ali M's Market|Marché d'Ali M
+Almost a Statue|Presque une statue
+Altar|Autel
+Altar of Guthix|Autel de Guthix
+Altar of Zamorak|Autel de Zamorak
+Altar of nature|Autel de la nature
+Altar slab|Dalle d'autel
+Altar space|Espace d'autel
+Amalgamation|Amalgame
+Amascut statue|Statue d'Amascut
+Amethyst crystals|Cristaux d'améthyste
+Amlodd Banner|Bannière d'Amlodd
+Ammunition crate|Caisse de munitions
+Amulet of Glory|Amulette de gloire
+Amulet space|Espace pour amulette
+An anonymous looking door|Porte d'apparence anonyme
+An experimental anvil|Enclume expérimentale
+An ogre standard|Étendard d'ogre
+Ancestral Glyph|Glyphe ancestral
+Anchor|Ancre
+Ancient Barrier|Barrière ancienne
+Ancient Doors|Portes anciennes
+Ancient Equipment|Équipement ancien
+Ancient Fire|Feu ancien
+Ancient Forge|Forge ancienne
+Ancient Furnace|Fourneau ancien
+Ancient Gate|Porte ancienne
+Ancient Grave|Tombe ancienne
+Ancient Icon|Icône ancienne
+Ancient Incubator|Incubateur ancien
+Ancient Machinery|Machinerie ancienne
+Ancient Mural|Fresque ancienne
+Ancient Pillar|Pilier ancien
+Ancient Plaque|Plaque ancienne
+Ancient Relic|Relique ancienne
+Ancient Rock|Roche ancienne
+Ancient Shroom|Champignon ancien
+Ancient Tablet|Tablette ancienne
+Ancient altar|Autel ancien
+Ancient banner|Bannière ancienne
+Ancient brazier|Brasero ancien
+Ancient bush|Buisson ancien
+Ancient button|Bouton ancien
+Ancient chest|Coffre ancien
+Ancient essence crystals|Cristaux d'essence anciens
+Ancient fountainhead|Source ancienne
+Ancient gallows|Potence ancienne
+Ancient machinery|Machinerie ancienne
+Ancient mould|Moule ancien
+Ancient tablet|Tablette ancienne
+Anima Portal|Portail Anima
+Animal skull|Crâne d'animal
+Anna's barrel|Tonneau d'Anna
+Annakarl Portal|Portail d'Annakarl
+Anti-dragon shield|Bouclier anti-dragon
+Antique wine|Vin antique
+Antiques Shop Stall|Étal d'antiquités
+Anvil|Enclume
+Ape Atoll Dungeon Portal|Portail du donjon de l'atoll des singes
+Apmeken statue|Statue d'Apmeken
+Apparatus|Appareil
+Appendage|Appendice
+Apple Press|Presse à pommes
+Apple Tree|Pommier
+Apple basket|Panier de pommes
+Apple tree|Pommier
+Aquarium|Aquarium
+Arcane crystal|Cristal arcanique
+Arceuus Library Portal|Portail de la bibliothèque d'Arceuus
+Archery target|Cible de tir à l'arc
+Archway|Arcade
+Arctic pine tree|Pin arctique
+Arder mushrooms|Champignons d'Arder
+Ardougne Portal|Portail d'Ardougne
+Ardougne Wall Door|Porte du mur d'Ardougne
+Arena recruitment board|Tableau de recrutement de l'arène
+Arena space|Espace de l'arène
+Argento|Argento
+Argian bush|Buisson d'Argian
+Arm|Bras
+Armadyl altar|Autel d'Armadyl
+Armadyl armour display case|Vitrine d'armure d'Armadyl
+Armed Forces Report|Rapport des forces armées
+Armillary sphere|Sphère armillaire
+Armour|Armure
+Armour case space|Espace pour coffre d'armure
+Armour display|Présentoir d'armure
+Armour of the Cloud Titan|Armure du Titan des nuages
+Armour space|Espace pour armure
+Armour stall|Étal d'armure
+Armour stand|Support d'armure
+Arrow|Flèche
+Arrows|Flèches
+Artefact|Artefact
+Artefacts|Artefacts
+Asgarnian Ale|Bière d'Asgarn
+Asgarnian Hops|Houblon d'Asgarnia
+Asgarnian ale|Bière d'Asgarnia
+Ash pile|Tas de cendres
+Aspidistra plant|Plante aspidistra
+Astral Altar|Autel astral
+Astronomical chart|Carte astronomique
+Atoll cape flag|Drapeau du cap Atoll
+Attacker item machine|Machine à objets d'attaquant
+Attas plant display|Présentoir de plantes attas
+Attas plant|Plante attas
+Avalanche|Avalanche
+Aviary Hatch|Trappe de volière
+Awakened Altar|Autel éveillé
+Awowogei|Awowogei
+Axe cabinet|Armoire à haches
+Axe case|Étui à haches
+Axeman's Folly|Folie du bûcheron
+Axes|Haches
+Ba-Ba's Throne|Trône de Ba-Ba
+Baby red dragon|Bébé dragon rouge
+Backpack|Sac à dos
+Backstage entrance|Entrée des coulisses
+Badly repaired wall|Mur mal réparé
+Bags for sale|Sacs à vendre
+Bailing buckets|Seaux d'épuisette
+Baker's stall|Étal de boulanger
+Bakery stall|Étal de boulangerie
+Balance beam|Poutre d'équilibre
+Balancing ledge|Corniche d'équilibre
+Balancing rope|Corde d'équilibre
+Balcony|Balcon
+Ball|Balle
+Ballista|Baliste
+Balloon toad pile|Tas de crapauds ballons
+Bamboo Bed|Lit en bambou
+Bamboo Bookcase|Bibliothèque en bambou
+Bamboo Desk|Bureau en bambou
+Bamboo Gate|Porte en bambou
+Bamboo Pipes|Tuyaux en bambou
+Bamboo Stool|Tabouret en bambou
+Banana peel|Peau de banane
+Banana tree|Banane
+Bananaless boat|Bateau sans bananes
+Bandage table|Table à bandages
+Bandos altar|Autel de Bandos
+Bandos armour display case|Vitrine d'armures de Bandos
+Bank Camel|Chameau de banque
+Bank Chest-wreck|Coffre de banque
+Bank Crab|Crabe de banque
+Bank Deposit Box|Coffre-fort de banque
+Bank Deposit Chest|Coffre de dépôt de banque
+Bank Deposit Pot|Pot de dépôt de banque
+Bank Table|Table de banque
+Bank booth|Cabine de banque
+Bank buffalo|Buffle de banque
+Bank chest|Coffre de banque
+Bank counter|Comptoir de banque
+Bank notice board|Tableau d'affichage de banque
+Bank papers|Papiers de banque
+Bank safe|Coffre-fort de banque
+Bank table|Table de banque
+Banner|Bannière
+Banner easel|Chevalet pour bannière
+Banner stand space|Emplacement pour support de bannière
+Banner stand|Support de bannière
+Bar|Bar
+Bar dispenser|Distributeur de bar
+Bar pumps|Pompes de bar
+Barbarian anvil|Enclume barbare
+Barbarian bed|Lit barbare
+Barbarian chair|Chaise barbare
+Barbarian table|Table barbare
+Barley|Orge
+Barracuda boat|Bateau barracuda
+Barracuda grade rope|Corde de qualité barracuda
+Barracuda shipwreck|Épave de barracuda
+Barracuda trial exit|Sortie d'essai barracuda
+Barracuda's Bounty|Prime barracuda
+Barred window|Fenêtre grillagée
+Barrel|Tonneau
+Barrel of Mud|Baril de boue
+Barrel of Spears|Baril de lances
+Barrel of Water|Baril d'eau
+Barrel of ale|Baril de bière
+Barrel of fish|Baril de poissons
+Barrel of fishbones|Baril d'arêtes de poisson
+Barrel of flour|Baril de farine
+Barrel of halberd poles|Baril de hallebardes
+Barrel of liquid|Baril de liquide
+Barrel rack|Râtelier à barils
+Barrel space|Espace pour barils
+Barrels|Barils
+Barren patch|Terrain stérile
+Barricade|Barricade
+Barrier|Barrière
+Barronite Crusher|Concasseur de barronite
+Barronite rocks|Roches de barronite
+Barrow|Brouette
+Barrows Portal|Portail des brouettes
+Barstool|Tabouret de bar
+Basalt rock|Roche basaltique
+Basalt rocks|Roches basaltiques
+Basic cargo hold|Cale de chargement basique
+Basic jewellery box|Boîte à bijoux basique
+Basilisk head|Tête de basilic
+Basket|Panier
+Basket Fungi|Champignons en panier
+Bath|Baignoire
+Bath pipes|Tuyaux de baignoire
+Bathroom table|Table de salle de bain
+Battering ram|Bélier
+Battle tower|Tour de combat
+Battlefront Portal|Portail du front de bataille
+Battlement|Battement
+Bay window|Baie vitrée
+Beach|Plage
+Beacon|Balise
+Beacon.|Balise.
+Beam|Poutre
+Bean Mound|Monticule de haricots
+Beanstump|Souche de haricot
+Bear droppings|Excréments d'ours
+Beard|Barbe
+Bearhead|Tête d'ours
+Beautiful log|Belle bûche
+Beautiful rock|Belle roche
+Beautiful tree stump|Belle souche d'arbre
+Bed|Lit
+Bed hotspot|Point d'accès au lit
+Bed space|Espace lit
+Bedroom door|Porte de chambre
+Beehive|Ruche
+Beer barrel|Fût de bière
+Beer barrels|Fûts de bière
+Beer taps|Robinets à bière
+Beetle|Coléoptère
+Beige pumpkins|Citrouilles beiges
+Bell|Cloche
+Bell mechanism|Mécanisme de cloche
+Bell pull space|Espace pour tirette de cloche
+Bell rope|Corde de cloche
+Bell-pull|Tirette de cloche
+Belladonna|Belladone
+Belle's remains|Dépouille de Belle
+Bellows|Soufflet
+Bells|Clochettes
+Bellshroom|Champignon cloche
+Below Ice Mountain Display|Exposition sous la montagne de glace
+Belt system|Système de courroies
+Bench|Banc
+Bench with lathe|Banc avec tour
+Bench with vice|Banc avec étau
+Betty's cauldron|Chaudron de Betty
+Big Button|Gros bouton
+Big Compost Bin|Gros bac à compost
+Big Plant space 1|Espace pour grande plante 1
+Big Plant space 2|Espace pour grande plante 2
+Big Tree space|Espace pour grand arbre
+Big beer barrel|Grand tonneau de bière
+Big chest|Grand coffre
+Big door|Grande porte
+Big egg|Gros œuf
+Big fish|Gros poisson
+Big hole|Grand trou
+Big plant|Grande plante
+Big plant 2|Grande plante 2
+Big vase|Grand vase
+Big window|Grande fenêtre
+Bird bath|Bain d'oiseaux
+Bird feeder|Mangeoire à oiseaux
+Bird hide structure|Abri pour oiseaux
+Bird nest|Nid d'oiseaux
+Bird snare|Piège à oiseaux
+Birdhouse|Nichoir
+Birdseed holder|Récipient à graines pour oiseaux
+Birthday Balloons|Ballons d'anniversaire
+Birthday cake|Gâteau d'anniversaire
+Birthday plushies|Peluche d'anniversaire
+Bittercap Mushrooms|Champignons amers
+Bitternut Sign|Panneau « Bitternut »
+Bitternut Tree|Arbre « Bitternut »
+Black Chest|Coffre noir
+Black mushrooms|Champignons noirs
+Blackboard|Tableau noir
+Blacksmith's tools|Outils de forgeron
+Blacksmiths' tools|Outils de forgeron
+Blade|Lame
+Blindweed Patch|Patch « Blindweed »
+Blisterwood tree|Arbre « Blisterwood »
+Blockage|Blocage
+Blocked Tunnel|Tunnel bloqué
+Blocked entry|Entrée bloquée
+Blocked tunnel|Tunnel bloqué
+Blocked volcanic chamber|Chambre volcanique bloquée
+Blood Altar|Autel de sang
+Blood Mural|Peinture murale de sang
+Blood Orb|Orbe de sang
+Blood Stinkhorn|Phallus impudicus
+Blood Stinktree|Arbre puant
+Blood Tithe|Dîme de sang
+Blood crystal|Cristal de sang
+Blood rift|Faille de sang
+Blood rune|Rune de sang
+Blue Fire|Feu bleu
+Blue Mural|Peinture murale bleue
+Blue Water Sign|Panneau bleu
+Blue banner|Bannière bleue
+Blue chemical|Produit chimique bleu
+Blue door|Porte bleue
+Blue flowers|Fleurs bleues
+Bluebells|Jacinthes des bois
+Bluefin shoal|Banc de thons rouges
+Blurberry bar|Barre de myrtilles
+Blurite rocks|Rochers de blurite
+Boarded-up door|Porte barricadée
+Boardgame|Jeu de société
+Boards|Planches
+Boat|Bateau
+Boat Chute|Toboggan à bateau
+Boat schematics|Schéma de bateau
+Boat shaped ice|Glace en forme de bateau
+Boat station|Station nautique
+Boaty|Boaty
+Bob icon|Icône Bob
+Bob's barrel|Baril de Bob
+Body Altar|Autel corporel
+Body rift|Faille corporelle
+Boil|Ébullition
+Boiler|Chaudière
+Boils|Ébullitions
+Bologano plant|Plante Bologano
+Bone Crane|Grue osseuse
+Bone barrel|Baril osseux
+Bone cage|Cage osseuse
+Bone door|Porte osseuse
+Bone grinder|Broyeur osseux
+Bone rack|Étagère osseuse
+Bones|Os
+Boney ladder|Échelle osseuse
+Bonfire|Feu de joie
+Bonzo's Table|Table de Bonzo
+Book|Livre
+Book of Earthen Might|Livre de la puissance terrestre
+Book of Eternal Flame|Livre de la flamme éternelle
+Book of Storms|Livre des tempêtes
+Book table|Table à livres
+Bookcase|Bibliothèque
+Bookcase space|Espace bibliothèque
+Books|Livres
+Bookshelf|Étagère
+Bookshelf passage|Passage bibliothèque
+Bookshelves|Étagères
+Boss lair display|Affichage repaire du boss
+Boss lair space|Espace repaire du boss
+Bottle|Bouteille
+Bottle Machine|Machine à bouteilles
+Boulder|Rochers
+Boulders|Rochers
+Boundary stones|Pierres de délimitation
+Bounty Hunter portal|Portail chasseur de primes
+Bounty supply crate|Caisse de ravitaillement chasseur de primes
+Bow cabinet|Armoire à arcs
+Bow case|Étui à arcs
+Box|Boîte
+Box of Health|Boîte de santé
+Box of bones|Boîte d'os
+Box of outfits|Boîte de tenues
+Boxes|Boîtes
+Boxing ring|Ring de boxe
+Brain Pillar|Pilier cérébral
+Brazier|Brasero
+Breach|Brèche
+Brew Barrel|Tonneau de brasserie
+Brewer's Barrel|Tonneau de brasseur
+Bridge|Pont
+Bright crystal|Cristal brillant
+Brimstone chest|Coffre en soufre
+Broken Brazier|Brasero cassé
+Broken Chair|Chaise cassée
+Broken Cupboard|Armoire cassée
+Broken Door|Porte cassée
+Broken Drawers|Tiroirs cassés
+Broken Dresser|Commode cassée
+Broken Fence|Clôture cassée
+Broken Fountain|Fontaine cassée
+Broken Grandfather Clock|Horloge comtoise cassée
+Broken Grate|Grille cassée
+Broken Lecturn|Pupitre cassé
+Broken Mirror|Miroir cassé
+Broken Nerve Ending|Terminaison nerveuse cassée
+Broken Old Bookshelf|Vieille bibliothèque cassée
+Broken Plantpot|Pot de fleur cassé
+Broken Potter's Wheel|Tour de potier cassé
+Broken Raft|Radeau cassé
+Broken Range|Cuisinière cassée
+Broken Roof|Toit cassé
+Broken Spinning Wheel|Rouet cassé
+Broken Statue|Statue cassée
+Broken Sunflowers|Tournesols cassés
+Broken Table|Table cassée
+Broken Window|Fenêtre cassée
+Broken altar|Autel cassé
+Broken bars|Barres cassées
+Broken bath|Baignoire cassée
+Broken battering ram|Bélier cassé
+Broken beer glass|Verre à bière cassé
+Broken bridge|Pont cassé
+Broken candy canes|Canne en sucre cassée
+Broken cart|Chariot cassé
+Broken chain|Chaîne cassée
+Broken chair|Chaise cassée
+Broken coconut crate|Caisse à noix de coco cassée
+Broken counter|Comptoir cassé
+Broken crafting stall|Étalage d'artisanat cassé
+Broken crane|Grue cassée
+Broken crate|Caisse cassée
+Broken crossbow|Arbalète cassée
+Broken dead tree|Arbre mort cassé
+Broken equipment table|Table d'équipement cassée
+Broken experiment tube|Tube à essai cassé
+Broken fence|Clôture cassée
+Broken fish display|Étalage de poissons cassé
+Broken fish stall|Étalage de poissons cassé
+Broken gibbet|Potence cassée
+Broken ground|Sol cassé
+Broken keystone|Clé de voûte cassée
+Broken log raft|Radeau en rondins cassé
+Broken machinery|Machinerie cassée
+Broken mast|Mât cassé
+Broken pottery|Poterie cassée
+Broken rail|Rail cassé
+Broken range|Gamme cassée
+Broken rowboat|Barque cassée
+Broken rune case|Boîte à runes cassée
+Broken stool|Tabouret cassé
+Broken sun altar|Autel solaire cassé
+Broken trap|Piège cassé
+Broken wall|Mur cassé
+Broken weapons|Armes cassées
+Broken window|Fenêtre cassée
+Bronze Chest|Coffre en bronze
+Bronze Door|Porte en bronze
+Bronze axe|Hache en bronze
+Bronze cannon|Canon en bronze
+Bronze helm|Casque en bronze
+Bronze keel|Quille en bronze
+Bronze pickaxe|Pioche en bronze
+Bronze salvaging hook|Crochet de sauvetage en bronze
+Brown rug|Tapis marron
+Brown spice|Épice brune
+Bruma roots|Racines de Bruma
+Bryophyta display|Exposition de bryophytes
+Bubbles|Bulles
+Buchu|Buchu
+Bucket|Seau
+Bucket of Blood|Seau de sang
+Buckets|Seaux
+Buffers|Tampons
+Buffet table|Table de buffet
+Building Supplies|Matériaux de construction
+Bull's head|Tête de taureau
+Bullrushes|Juncs
+Bunkbed|Lit superposé
+Bunsen burner|Bénier de Bunsen
+Buoy|Bouée
+Burial cairn|Cairn funéraire
+Burial mound|Tumulus funéraire
+Buried skeleton|Squelette enterré
+Burning bones|Os en train de brûler
+Burning brazier|Brasero en train de brûler
+Burning driftwood|Bois flotté en feu
+Burning tent|Tente en feu
+Burnt chest|Coffre brûlé
+Burnt tree|Arbre brûlé
+Burrow hole|Terrier
+Burst boil|Furoncle éclaté
+Bush|Buisson
+Button|Bouton
+Cabbage|Chou
+Cabbage evidence|Preuve de chou
+Cabbages|Choux
+Cabinet|Armoire
+Cabinet space|Espace de rangement
+Cable|Câble
+Cacao tree|Cacaoyer
+Cactus|Cactus
+Cadarn Banner|Bannière Cadarn
+Cadava bush|Buisson Cadava
+Cadavaberry bush|Buisson Cadavaberry
+Caerula bush|Buisson Caerula
+Cage|Cage
+Caged Killerwatt|Killerwatt en cage
+Calcified rocks|Roches calcifiées
+Calquat tree|Arbre Calquat
+Camelot Portal|Portail Camelot
+Camp barrier|Barrière de campement
+Camp fire|Feu de camp
+Camp spot|Emplacement de campement
+Campfire|Feu de camp
+Camphor Pyre|Bûcher de camphre
+Camphor cargo hold|Cale de camphre
+Camphor hull|Coque en camphre
+Camphor mast and canvas sails|Mât et voiles en camphre
+Camphor tree|Arbre à camphre
+Camping Equipment|Équipement de camping
+Camping fire|Feu de camp
+Camping gear|Matériel de camping
+Campsite bed|Lit de campement
+Canary|Canari
+Candelabrum|Chandelier
+Candle|Bougie
+Candle stand|Bougeoir
+Candles|Bougies
+Candy Bowl|Bol de bonbons
+Candy cane|Canne en sucre
+Candy cane crate|Caisse de cannes en sucre
+Candy cane fence|Clôture en cannes en sucre
+Candycane|Canne en sucre
+Cannon|Canon
+Cannonball stall|Étal de boulets de canon
+Cannonballs|Boulets de canon
+Canoe Station|Station de canoë
+Cape hanger|Cintre à cape
+Cape of legends|Cape légendaire
+Cape rack space|Espace de rangement pour capes
+Captain's Table|Table du capitaine
+Capybara Dung|Excréments de capybara
+Carol's barrel|Tonneau de Carol
+Carpet Exhibit|Exposition de tapis
+Carpet hotspot|Point d'intérêt tapis
+Carrallanger Portal|Portail Carrallanger
+Carrot Pin|Épingle à carotte
+Carrot scraps|Restes de carottes
+Cart|Chariot
+Cart Track|Trace de chariot
+Cart track sign|Panneau de voie de charrette
+Carved doors|Portes sculptées
+Carved oak bench|Banc en chêne sculpté
+Carved oak magic wardrobe|Armoire magique en chêne sculpté
+Carved oak table|Table en chêne sculpté
+Carved rock|Roche sculptée
+Carved teak bench|Banc en teck sculpté
+Carved teak magic wardrobe|Armoire magique en teck sculpté
+Carved teak table|Table en teck sculpté
+Carving|Sculpture
+Caster statue|Statue de Caster
+Castle Gates|Portes du château
+Castle Wars portal|Portail des guerres du château
+Casual|Décontracté
+Cat|Chat
+Cat Shrine|Sanctuaire du chat
+Cat basket|Panier pour chat
+Cat basket space|Espace pour panier pour chat
+Cat bed|Lit pour chat
+Cat blanket|Couverture pour chat
+Catalytic guide|Guide catalytique
+Catapult|Catapulte
+Catapult-lever|Levier de catapulte
+Catapult-winch|Treuil de catapulte
+Catherby Portal|Portail de Catherby
+Cauldron|Chaudron
+Cauldron of Thunder|Chaudron de tonnerre
+Cave|Grotte
+Cave Entrance|Entrée de grotte
+Cave Exit|Sortie de grotte
+Cave entrance|Entrée de grotte
+Cave exit|Sortie de grotte
+Cave gobins|Gobelins des grottes
+Cave in|Effondrement de grotte
+Cave rocks|Rochers de grotte
+Cave web|Toile d'araignée de grotte
+Cavern|Caverne
+Cavern exit|Sortie de caverne
+Cavity|Cavité
+Ceiling support|Support de plafond
+Celastrus tree|Arbre Celastrus
+Celestial globe|Globe céleste
+Cell Gate|Porte de cellule
+Cell door|Porte de cellule
+Cell tile|Carreau de cellule
+Cell wall|Mur de cellule
+Cell wall window|Fenêtre de mur de cellule
+Cellar entrance|Entrée de cave
+Cellar stairs|Escaliers de cave
+Cello|Violoncelle
+Cemetery Portal|Portail du cimetière
+Cenotaph|Cénotaphe
+Centrepiece space|Espace central
+Cerberus display|Présentoir Cerbère
+Ceremonial Brazier|Brasero cérémoniel
+Ceremonial Pillar|Pilier cérémoniel
+Ceremonial Pillow|Oreiller cérémoniel
+Ceremonial Pillow Stack|Pile d'oreillers cérémoniels
+Ceremonial table|Table cérémonielle
+Ceril Carnillean|Ceril Carnillean
+Certificate of healing|Certificat de guérison
+Chain|Chaîne
+Chains|Chaînes
+Chair|Chaise
+Chair hotspot|Point d'intérêt chaise
+Chair space|Espace chaise
+Chaise lounge|Chaise longue
+Chalice of Eternity|Calice de l'éternité
+Chalk patterns|Motifs à la craie
+Challenge portal|Portail du défi
+Champion Statue|Statue du champion
+Chandelier|Lustre
+Changing Curtain|Rideau changeant
+Chaos Altar|Autel du chaos
+Chaos altar|Autel du chaos
+Chaos rift|Faille du chaos
+Chaos rune|Rune du chaos
+Charcoal furnace|Four à charbon
+Charm of Boost|Charme d'amplification
+Charm of Defence|Charme de défense
+Charm of Fishing|Charme de pêche
+Charm of Luck|Charme de chance
+Charm of Mining|Charme de minage
+Charm of Preparation|Charme de préparation
+Charred bones|Os calcinés
+Charred remains of a table|Restes calcinés d'une table
+Chart|Carte
+Charts in a bottle|Cartes dans une bouteille
+Chasm|Gouffre
+Cheese|Fromage
+Chef's Delight|Délices du chef
+Chef's delight|Délices du chef
+Chemical vent|Évent chimique
+Chemical waste pipe|Tuyau d'évacuation des déchets chimiques
+Chemistry Table|Table de chimie
+Chess|Échecs
+Chest|Coffre
+Chest of Champions|Coffre des champions
+Chest of equipment|Coffre d'équipement
+Chest pieces|Pièces de coffre
+Chicken|Poulet
+Chicken Shrine|Sanctuaire du poulet
+Chicken coop|Poulailler
+Child's bed|Lit d'enfant
+Chimney|Cheminée
+Chimney pipe|Tuyau de cheminée
+Choc-Ice Stall|Stand de glaces
+Chocolate Vat|Cuve à chocolat
+Chopping table|Table à découper
+Christmas portal|Portail de Noël
+Chronicles of Xeric|Chroniques de Xeric
+Chum spreader|Épandeur d'appâts
+Chum station|Station d'appâts
+Church organ|Orgue d'église
+Church pew|Banc d'église
+Cider|Cidre
+Cider barrel|Tonneau de cidre
+City gate|Porte de la ville
+Civitas illa Fortis Portal|Portail Civitas illa Fortis
+Clam|Palourde
+Clan Coffer|Coffre du clan
+Clan Cup Trophy|Trophée de la coupe du clan
+Clan Cup portal|Portail de la coupe du clan
+Clan hall portal|Portail de la salle du clan
+Clan recruitment board|Tableau de recrutement du clan
+Clarinet|Clarinette
+Clay attack stone|Pierre d'attaque en argile
+Clay fireplace|Cheminée en argile
+Clay forge|Forge en argile
+Clay ore vein|Filons de minerai d'argile
+Clay oven|Four en argile
+Clay rocks|Rochers en argile
+Cleaning supplies|Produits d'entretien
+Climbing rocks|Rochers d'escalade
+Climbing rope|Corde d'escalade
+Cloak of Ranul|Cape de Ranul
+Cloak rack|Porte-manteau
+Clock spindle|Axe d'horloge
+Clockmaking space|Atelier d'horlogerie
+Closed Chest|Coffre fermé
+Closed booth|Cabine fermée
+Closed chest|Coffre fermé
+Cloth altar|Autel en tissu
+Cloth covered table|Table recouverte d'un tissu
+Clothes Stand|Porte-vêtements
+Clothes equipment|Équipement vestimentaire
+Clothes line|Corde à linge
+Clothes rack|Porte-vêtements
+Clothes stall|Stand de vêtements
+Clothing shelves|Étagères à vêtements
+Cloud bank|Nuage
+Clovers|Trèfles
+Clump of rocks|Amoncellement de rochers
+Coal Tar|Goudron de houille
+Coal Truck|Camion à charbon
+Coal ore vein|Filons de charbon
+Coal pile|Tas de charbon
+Coal rocks|Rochers de charbon
+Coat rack|Porte-manteau
+Cockatrice head|Tête de cockatrice
+Cocoa basket|Panier à cacao
+Coconut crate|Caisse à noix de coco
+Cocoon|Cocon
+Coffer|Coffre
+Coffin|Cercueil
+Coffin hotspot|Point d'intérêt cercueil
+Cog|Roue dentée
+Cogs|Roues dentées
+Coin Collector|Collectionneur de pièces
+Coins|Pièces
+Coke|Coke
+Collapsed crab hole|Trou de crabe effondré
+Collector Converter|Convertisseur de collectionneur
+Colony gate|Porte de la colonie
+Colosseum scoreboard|Tableau d'affichage du Colisée
+Column|Colonne
+Column of Imafore's Betrayal|Colonne de la trahison d'Imafore
+Column of Kourend|Colonne de Kourend
+Combat Achievements Display|Affichage des exploits de combat
+Combat Scroll|Parchemin de combat
+Combat dummy|Mannequin d'entraînement
+Combat dummy space|Espace pour mannequin d'entraînement
+Combat ring|Ring de combat
+Combat ring space|Espace pour ring de combat
+Competitive|Compétitif
+Compost|Compost
+Compost Bin|Bac à compost
+Compost heap|Tas de compost
+Compromised floorboards|Plancher endommagé
+Compromised support|Support endommagé
+Confusing door|Porte déroutante
+Connected stalagmites|Stalagmites connectées
+Consecrated house|Maison consacrée
+Console|Console
+Conspicuous carrot scraps|Restes de carottes visibles
+Construction display|Affichage de construction
+Construction expansion display|Affichage d'extension de construction
+Contortion Bars|Barres de contorsion
+Control panel|Panneau de contrôle
+Conveyor Belt|Bande transporteuse
+Conveyor belt|Bande transporteuse
+Cooker|Cuisinière
+Cooking Pots|Casseroles
+Cooking pot|Casserole
+Cooking range|Cuisinière
+Cooking shelves|Étagères de cuisine
+Cooking stove|Réchaud
+Coolant Dispenser|Distributeur de liquide de refroidissement
+Coop|Coop
+Copper ore vein|Veine de minerai de cuivre
+Copper rocks|Roches de cuivre
+Coral Reef|Récif corallien
+Coral dredger|Drague à corail
+Coral nursery|Pépinière de corail
+Coral refiner|Raffineur de corail
+Corkscrew lever|Levier tire-bouchon
+Corn basket|Panier à maïs
+Corner Table|Table d'angle
+Corner space|Coin
+Corporeal Beast display|Affichage de la bête corporelle
+Corpse|Cadavre
+Corpse cart|Chariot à cadavres
+Corpses|Cadavres
+Corrupt Deposit|Dépôt corrompu
+Corrupt Fishing Spot|Spot de pêche corrompu
+Corrupt Grym Root|Racine de Grym corrompue
+Corrupt Linum Tirinum|Linum Tirinum corrompu
+Corrupt Phren Roots|Racines de Phren corrompues
+Corrupted seed|Graine corrompue
+Cosmic Altar|Autel cosmique
+Cosmic Energy|Énergie cosmique
+Cosmic rift|Faille cosmique
+Costume Bag|Sac à costumes
+Costume rack|Porte-costumes
+Cosy Cat|Chat douillet
+Cotton|Coton
+Cotton trawling net|Filet de pêche au coton
+Council members|Membres du conseil
+Counter|Compteur
+Cow wheel|Roue de vache
+Crab apple tree|Pommier sauvage
+Crab monument|Monument au crabe
+Crab trap|Piège à crabes
+Crack|Fissure
+Crack the Clue II Display|Présentoir Crack the Clue II
+Cracked shells|Coquilles fissurées
+Cracked wall|Mur fissuré
+Cradle of Life|Berceau de la vie
+Craft stall|Étal d'artisanat
+Crafting stall|Étal d'artisanat
+Crafting table 1|Table d'artisanat 1
+Crafting table 2|Table d'artisanat 2
+Crafting table 3|Table d'artisanat 3
+Crafting table 4|Table d'artisanat 4
+Crane|Grue
+Crashed Star|Étoile écrasée
+Crashed glider|Planeur écrasé
+Crate|Caisse
+Crate of crowbars|Caisse de pieds-de-biche
+Crate of hammers|Caisse de marteaux
+Crate of rune caskets|Caisse de coffrets runiques
+Crate of saws|Caisse de scies
+Crate of wands|Caisse de baguettes magiques
+Crates|Caisses
+Crawling hand|Main rampante
+Crazy penguin|Pingouin fou
+Creature|Créature
+Creature keeper|Gardien de créature
+Creeping plant|Plante rampante
+Crevice|Crevasse
+Crib|Berceau
+Crimson Vein|Veine cramoisie
+Crondis statue|Statue de Crondis
+Crop circle|Crop circle
+Cross|Croix
+Crossbow Tree|Arbre à arbalète
+Crossbow stall|Étal d'arbalète
+Crossbowman Statue|Statue d'arbalétrier
+Crow nest|Nid de corbeaux
+Crowd of dwarves|Foule de nains
+Crown of Ralos|Couronne de Ralos
+Crucible|Creuset
+Crude boat|Bateau rudimentaire
+Crude raft|Radeau rudimentaire
+Crude wooden chair|Chaise en bois rudimentaire
+Crumbled wall|Mur effondré
+Crumbling wall|Mur en ruine
+Crushed barricade|Barricade détruite
+Crwys Banner|Bannière de Crwys
+Crypt|Crypte
+Crypt Entrance|Entrée de la crypte
+Crypt staircase|Escalier de la crypte
+Crystal Deposit|Gisement de cristal
+Crystal Dispenser|Distributeur de cristal
+Crystal Singing Recipes|Recettes chantantes de cristal
+Crystal Staircase|Escalier de cristal
+Crystal ball|Boule de cristal
+Crystal ball space|Espace boule de cristal
+Crystal bomb|Bombe de cristal
+Crystal bridge|Pont de cristal
+Crystal chest|Coffre de cristal
+Crystal dinghy|Dériveur de cristal
+Crystal extractor|Extracteur de cristal
+Crystal glider's flag|Drapeau du planeur de cristal
+Crystal growth|Croissance de cristal
+Crystal mote|Particule de cristal
+Crystal of Amlodd|Cristal d'Amlodd
+Crystal of Cadarn|Cristal de Cadarn
+Crystal of Crwys|Cristal de Crwys
+Crystal of Hefin|Cristal d'Hefin
+Crystal of Iorwerth|Cristal d'Iorwerth
+Crystal of Ithell|Cristal d'Ithell
+Crystal of Meilyr|Cristal de Meilyr
+Crystal of Trahaearn|Cristal de Trahaearn
+Crystal of power|Cristal de pouvoir
+Crystal outcrop|Affleurement cristallin
+Crystal spire|Flèche cristalline
+Crystal structure|Structure cristalline
+Crystal throne|Trône cristallin
+Crystal tree|Arbre cristallin
+Crystalline portal nexus|Nœud portail cristallin
+Crystallised helm|Casque cristallisé
+Cube Pile|Pile de cubes
+Cupboard|Armoire
+Cupboard space|Espace armoire
+Curiously positioned crate of carrots|Caisse de carottes curieusement positionnée
+Curling plant|Plante recourbée
+Current|Courant
+Curry tree|Arbre à curry
+Cursed Altar|Autel maudit
+Cursed remains|Restes maudits
+Curtain|Rideau
+Curtain space|Espace rideau
+Curtains|Rideaux
+Cushioned basket|Panier rembourré
+Cutting Table|Table de découpe
+Cw armour 1|Armure Cw 1
+Cw armour 2|Armure Cw 2
+Cw armour 3|Armure Cw 3
+Cyan Crystal|Cristal cyan
+Cylinder Pile|Pile de cylindres
+Cypress Tree|Cyprès
+Daconia rocks|Rochers Daconia
+Daeyalt Essence|Essence Daeyalt
+Daeyalt rocks|Rochers Daeyalt
+Daffodils|Jonquilles
+Dagannoth|Dagannoth
+Dairy Buffalo|Buffle laitier
+Dairy churn|Baratte à lait
+Dairy cow|Vache laitière
+Daisies|Marguerites
+Damaged Earth|Terre endommagée
+Damaged Growth|Croissance endommagée
+Damaged Table|Table endommagée
+Damaged cart|Chariot endommagé
+Damaged wall|Mur endommagé
+Damiana|Damiana
+Danger sign|Panneau de danger
+Dark Altar|Autel sombre
+Dark Chest|Coffre sombre
+Dark Wizards' Tower Portal|Portail de la tour des sorciers sombres
+Dark altar|Autel sombre
+Dark green pumpkins|Citrouilles vert foncé
+Dark hole|Trou sombre
+Dark lace|Dentelle sombre
+Dark tunnel|Tunnel sombre
+Darklight|Lumière sombre
+Darkmeyer Display|Exposition Darkmeyer
+Dart trap|Piège à fléchettes
+Dartboard|Cible
+David's barrel|Tonneau de David
+Dead Bear|Ours mort
+Dead Boar|Sanglier mort
+Dead Explorer|Explorateur mort
+Dead Goat|Chèvre morte
+Dead Lynx|Lynx mort
+Dead Oak|Chêne mort
+Dead Tree|Arbre mort
+Dead bat|Chauve-souris morte
+Dead guy|Homme mort
+Dead herbs|Herbes mortes
+Dead magical plant|Plante magique morte
+Dead tree|Arbre mort
+Dead tree stump|Souche d'arbre mort
+Dead vine|Vigne morte
+Deadfall|Arbre mort
+Deadly rapids|Rapides mortels
+Deadman Supply Chest|Coffre de ravitaillement Deadman
+Deadman chest|Coffre Deadman
+Deadman display|Présentoir Deadman
+Deadman rug|Tapis Deadman
+Deadman: Reborn Display|Présentoir Deadman : Reborn
+Death Altar|Autel de la mort
+Death Energy|Énergie de la mort
+Death Rework Display|Présentoir Death Rework
+Death rift|Faille de la mort
+Death rune|Rune de la mort
+Death rune pile|Pile de runes de la mort
+Death's Coffer|Coffre de la mort
+Death's scythe|Faux de la mort
+Debris|Débris
+Debug Block|Bloc de débogage
+Debug Wall|Mur de débogage
+Decaying trunk|Tronc en décomposition
+Deckchair|Chaise longue
+Decorated festive fireplace|Cheminée festive décorée
+Decorated wall|Mur décoré
+Decoration space|Espace de décoration
+Decorative blood|Sang décoratif
+Decorative pipe|Pipe décorative
+Decorative rock|Roche décorative
+Decorative window|Fenêtre décorative
+Defender item machine|Machine à objets de défense
+Delphinium patch|Patch de delphiniums
+Delphiniums|Delphiniums
+Demon|Démon
+Demon lectern|Pupitre démoniaque
+Demonic Symbol|Symbole démoniaque
+Demonic throne|Trône démoniaque
+Dense Jungle|Jungle dense
+Dense forest|Forêt dense
+Dense runestone|Pierre runique dense
+Depleted vein|Veine épuisée
+Deposit Box|Coffre-fort
+Deposit Pool|Réserve
+Deposit pot|Pot de dépôt
+Desecrated Tomb|Tombe profanée
+Desecrated house|Maison profanée
+Desert habitat|Habitat désertique
+Desk|Bureau
+Destroyed bird hide|Cache-oiseaux détruit
+Device|Appareil
+Dial|Cadran
+Dice|Dés
+Dictionary|Dictionnaire
+Dig Site specimen rocks|Échantillons de roches provenant du site de fouilles
+Digweed|Digweed
+Dim crystal|Cristal terne
+Dirt|Saleté
+Discarded plough|Charrue abandonnée
+Diseased coral|Corail malade
+Diseased herbs|Herbes malades
+Display|Présentoir
+Display Case|Vitrine
+Display Eggs|Œufs de présentoir
+Display board|Panneau d'affichage
+Display space|Espace d'exposition
+Disturbed sand|Sable remué
+Dizana's Quiver|Carquois de Dizana
+Dock buoy|Bouée d'amarrage
+Dock leaf|Feuille d'amarrage
+Dock leaf plant|Plante à feuilles d'amarrage
+Dodgy ground|Sol instable
+Dog Burrow|Tanière de chien
+Dolls and balls|Poupées et balles
+Dolmen|Dolmen
+Dolphin|Dauphin
+Dominic's coffer|Coffre de Dominic
+Door|Porte
+[[Door|[[Porte
+Door hotspot|Point d'intérêt de la porte
+Door space|Espace de la porte
+Doors of Dinh|Portes de Dinh
+Doorway|Entrée
+Doric's Whetstone|Pierre à aiguiser de Doric
+Dragon Bitter|Dragon Bitter
+Dragon activity marker|Marqueur d'activité du dragon
+Dragon bitter|Dragon Bitter
+Dragon cannon|Canon dragon
+Dragon egg|Œuf de dragon
+Dragon forge|Forge dragon
+Dragon helm|Casque dragon
+Dragon keel|Quille dragon
+Dragon salvaging hook|Crochet de sauvetage dragon
+Dragon scales|Écailles de dragon
+Dragon statue|Statue dragon
+Dragonfruit tree|Arbre dragon fruit
+Dragonhide Leather|Cuir dragon
+Drain|Égout
+Drain Pipe|Tuyau d'égout
+Drained Crystal|Cristal drainé
+Dramen tree|Arbre Dramen
+Drapes|Rideaux
+Drawer space|Espace tiroir
+Drawers|Tiroirs
+Draynor Manor Portal|Portail du manoir Draynor
+Dream List|Liste de rêves
+Dream puff|Puff de rêve
+Dream tree|Arbre de rêve
+Dresser space|Espace commode
+Drift net anchors|Ancres de filets dérivants
+Driftwood|Bois flotté
+Drill|Perceuse
+Drilling machine|Machine à percer
+Dripping vine|Vigne ruisselante
+Drive belt|Courroie d'entraînement
+Droppings|Excréments
+Druid's robes|Robes de druide
+Dry patch|Patch sec
+Dry stone wall|Mur de pierres sèches
+Drying line|Corde à linge
+Dug hole|Trou creusé
+Dummy|Mannequin
+Dung|Fumier
+Dungeon entrance|Entrée du donjon
+Dust Nerve Ending|Poussière Terminaison nerveuse
+Dwarf|Nain
+Dwarf MultiCannon|Multicanon nain
+Dwarf bath|Bain nain
+Dwarf mirror|Miroir nain
+Dwarf multicannon|Multicanon nain
+Dwarf statue|Statue naine
+Dwarven Consortium Table|Table du Consortium nain
+Dwarven Stout|Stout nain
+Dwarven machinery|Machinerie naine
+Dwellberry bush|Buisson de baies sauvages
+Dye pots|Pots de teinture
+Dying tree|Arbre mourant
+Dying tree Stump|Souche d'arbre mourant
+Eagle lectern|Pupitre aigle
+Earth Altar|Autel de terre
+Earth Energy|Énergie de la terre
+Earth Mound|Monticule de terre
+Earth rift|Faille terrestre
+Earth rune|Rune de la terre
+Easel|Chevalet
+Easter egg rock|Pierre de Pâques
+Easter mine cart|Chariot de mine de Pâques
+Easter tree|Arbre de Pâques
+Eclipse Mural|Fresque de l'éclipse
+Ectofuntus|Ectofuntus
+Edge|Bord
+Eerie statue|Statue inquiétante
+Efh salt rocks|Roches salines d'Efh
+Egg|Œuf
+Egg Plinth|Socle à œufs
+Egg hopper|Trémie à œufs
+Egg launcher|Lanceur d'œufs
+Egg sac|Sac à œufs
+Eggs|Œufs
+Egniol Potions|Potions d'Egniol
+Eight|Huit
+Elder Horn|Corne d'aîné
+Elemental balance space|Espace d'équilibre élémentaire
+Elemental guide|Guide élémentaire
+Elemental sphere|Sphère élémentaire
+Elena|Elena
+Elevator|Ascenseur
+Elevator controls|Commandes d'ascenseur
+Elidinis Statuette|Statuette d'Elidinis
+Elite clue scroll display|Présentoir de parchemins d'indices d'élite
+Elizabeth's barrel|Tonneau d'Elizabeth
+Elk kelp|Kelp d'élan
+Elkhorn coral|Corail d'élan
+Elven Crystal Chest|Coffre de cristal elfique
+Elven lamp|Lampe elfique
+Elven pictogram|Pictogramme elfique
+Elven river mine|Mine fluviale elfique
+Embalming tube|Tube d'embaumement
+Embers|Braises
+Emir's Arena Display|Présentoir de l'arène d'Emir
+Empty Display|Présentoir vide
+Empty Sarcophagus|Sarcophage vide
+Empty Stall|Étal vide
+Empty basket|Panier vide
+Empty chest|Coffre vide
+Empty clothes|Vêtements vides
+Empty desk|Bureau vide
+Empty display|Présentoir vide
+Empty pedestal|Piédestal vide
+Empty rowboat|Barque vide
+Empty sac|Sac vide
+Empty vial|Fiole vide
+Enchanters Teleport|Téléportation des enchanteurs
+End of Rainbow|Fin de l'arc-en-ciel
+End of bridge|Fin du pont
+Energy Barrier|Barrière d'énergie
+Energy Pylon|Pylône d'énergie
+Energy Sphere|Sphère d'énergie
+Energy well|Puits d'énergie
+Engine Platform|Plateforme moteur
+Enormous skeleton|Squelette énorme
+Ent trail|Sentier des Ents
+Entling|Entling
+Entrails|Entrailles
+Entrance|Entrée
+Equipment table|Table d'équipement
+Eric|Eric
+Escape rope|Corde de sauvetage
+Essence orifice|Orifice d'essence
+Eternal brazier|Brasero éternel
+Evergreen tree|Arbre à feuilles persistantes
+Evil Dave|Dave le maléfique
+Evil claw|Griffes maléfiques
+Excalibur|Excalibur
+Exercise mat|Tapis d'exercice
+Exhumed|Exhumé
+Exit|Sortie
+Exit Sign|Panneau de sortie
+Exit Teleport|Téléportation de sortie
+Exit cavern|Sortie de la caverne
+Exit door|Porte de sortie
+Exit path|Chemin de sortie
+Exit portal|Portail de sortie
+Experiment booth|Cabine d'expérimentation
+Experiment cabinet|Armoire d'expérimentation
+Experiment table|Table d'expérimentation
+Experiment tube|Tube d'expérimentation
+Exposed altar|Autel exposé
+Extra anchor|Ancre supplémentaire
+Extra weapons rack|Râtelier d'armes supplémentaire
+Extract orifice|Orifice d'extraction
+Extractor|Extracteur
+Extractor gun|Pistolet extracteur
+Extractor hat|Chapeau extracteur
+Extremity|Extrémité
+Eye|Œil
+Eye decoration|Décoration pour les yeux
+Eyes|Yeux
+Fabric rack|Râtelier à tissus
+Facility hotspot|Point d'intérêt de l'installation
+Fairly dark crystal|Cristal assez sombre
+Fairy Queen throne|Trône de la reine des fées
+Fairy bank|Banque des fées
+Fairy fountain|Fontaine des fées
+Fairy market stall|Étal de marché des fées
+Fairy ring|Cercle des fées
+Fairy workbench|Établi des fées
+Falador Portal|Portail de Falador
+Fallen Tree|Arbre tombé
+Fallen guardian|Gardien tombé
+Fallen statue|Statue tombée
+Fallen tree|Arbre tombé
+Falling door|Porte tombée
+Fan blade|Pale de ventilateur
+Fancy chest|Coffre fantaisie
+Fancy dress box space|Espace pour boîte à déguisements
+Fancy hedge|Haie fantaisie
+Fancy jewellery box|Boîte à bijoux fantaisie
+Fancy range|Gamme fantaisie
+Fancy rejuvenation pool|Bassin de rajeunissement fantaisie
+Fancy teak dresser|Commode en teck fantaisie
+Fang of the Colossal Wyrm|Croc du wyrm colossal
+Farm door|Porte de ferme
+Farming attempts|Tentatives d'agriculture
+Farming rack|Râtelier agricole
+Farming stall|Étal agricole
+Fathom pearl|Perle de fathom
+Fathom stone|Pierre de fathom
+Feathers|Plumes
+Fence|Clôture
+Fence end|Extrémité de clôture
+Fence space|Espace de clôture
+Fencing|Clôture
+Fencing ring|Ring d'escrime
+Fenkenstrain's Castle Portal|Portail du château de Fenkenstrain
+Fermentation Vat|Cuve de fermentation
+Fermenting Vat|Cuve de fermentation
+Fern|Fougère
+Ferox Enclave Display|Présentoir de l'enclave Ferox
+Ferry|Ferry
+Fertile Soil|Sol fertile
+Festive Present|Cadeau festif
+Festive Table|Table festive
+Figurehead|Figure de proue
+Filled Recess|Renfoncement rempli
+Final Pillar|Pilier final
+Fire|Feu
+Fire Altar|Autel du feu
+Fire Energy|Énergie du feu
+Fire Wall|Mur de feu
+Fire altar|Autel du feu
+Fire of Dehumidification|Feu de déshumidification
+Fire of Domination|Feu de domination
+Fire of Eternal Light|Feu de lumière éternelle
+Fire of Nourishment|Feu de nourriture
+Fire of Unseasonal Warmth|Feu de chaleur hors saison
+Fire pit|Foyer
+Fire remains|Restes de feu
+Fire rift|Faille de feu
+Fire rune|Rune de feu
+Fire rune pile|Pile de runes de feu
+Fire trap|Piège de feu
+Firebox|Foyer
+Firepit|Foyer
+Firepit with hook|Foyer avec crochet
+Firepit with pot|Foyer avec marmite
+Fireplace|Cheminée
+Fireplace space|Espace cheminée
+Fireplace surround|Entourage de cheminée
+Firm snow patch|Plaque de neige ferme
+First aid box|Trousse de premiers secours
+Fish basket|Panier à poissons
+Fish stall|Étal de poisson
+Fisherman's shipwreck|Épave de pêcheur
+Fishing Contest Banner|Bannière du concours de pêche
+Fishing Crane|Grue de pêche
+Fishing Guild Portal|Portail de la guilde des pêcheurs
+Fishing Spot|Spot de pêche
+Fishing rod|Canne à pêche
+Fishing spot|Lieu de pêche
+Fishing trophy space|Espace trophée de pêche
+Fishing weights|Plombs de pêche
+Fissure|Fissure
+Five|Cinq
+Flagpole|Mât
+Flame pit|Fosse à flammes
+Flames|Flammes
+Flashing landing light|Feu de position clignotant
+Flat ground|Sol plat
+Flat rock|Roche plate
+Flat stone|Pierre plate
+Flax|Lin
+Fleshy Strand|Brin charnu
+Fleshy growth|Excroissance charnue
+Floating Book|Livre flottant
+Floating brooms|Balais flottants
+Floating eggs|Œufs flottants
+Floating sled|Traîneau flottant
+Floats|Flotteurs
+Floor|Sol
+Floor decoration|Décoration de sol
+Floor space|Espace au sol
+Floor space corner|Coin de l'espace au sol
+Floor space mid|Milieu de l'espace au sol
+Floor space side|Côté de l'espace au sol
+Floor spikes|Pointes au sol
+Floor tile|Carreau de sol
+Flour|Farine
+Flour bin|Bac à farine
+Flower|Fleur
+Flower patch|Parcelle de fleurs
+Flowerbed|Parterre de fleurs
+Flowers|Fleurs
+Flute|Flûte
+Fog marker|Marqueur de brouillard
+Font|Police
+Food Pile|Pile de nourriture
+Food Stall|Étal de nourriture
+Food Trough|Mangeoire
+Food basket|Panier à nourriture
+Food chute|Goulotte à nourriture
+Food cupboard|Placard à nourriture
+Food pot|Pot à nourriture
+Food trough|Mangeoire
+Foot lockers|Casiers
+Footprints|Empreintes
+Forest Mushrooms|Champignons de forêt
+Forest habitat|Habitat forestier
+Forester's Campfire|Feu de camp du forestier
+Forge|Forge
+Formidable passage|Passage redoutable
+Forthos Dungeon Display|Exposition du donjon de Forthos
+Fortified gate|Porte fortifiée
+Fossil Island display case|Vitrine de l'île aux fossiles
+Fossil Storage|Entrepôt de fossiles
+Fossil cleaning bench|Banc de nettoyage des fossiles
+Fountain|Fontaine
+Fountain of Heroes|Fontaine des héros
+Fountain of Rune|Fontaine de Rune
+Fountain of Uhld|Fontaine d'Uhld
+Four|Quatre
+Fox|Renard
+Fractionalising still|Alambic fractionnaire
+Fragment of Seren|Fragment de Seren
+Frame|Cadre
+Frank's barrel|Tonneau de Frank
+Free-for-all portal|Portail libre d'accès
+Fremennik Boat|Bateau Fremennik
+Fremennik boat|Bateau Fremennik
+Fremennik drummer|Batteur Fremennik
+Fremennik shipwreck|Épave Fremennik
+Frog spit|Crachat de grenouille
+Frozen Door|Porte gelée
+Frozen Throne|Trône gelé
+Frozen platform|Plateforme gelée
+Frozen table|Table gelée
+Fruit Stall|Étal de fruits
+Fruit cart|Chariot de fruits
+Fruit stall|Étal de fruits
+Full fishing net|Filet de pêche plein
+Funeral Pyre|Bûcher funéraire
+Funeral pyre|Bûcher funéraire
+Fungi|Champignons
+Fungus|Champignon
+Fungus covered Cavern wall|Mur de caverne recouvert de champignons
+Fungus doormat|Paillasson champignon
+Fungus pattern|Motif champignon
+Fungus seat|Siège champignon
+Fur stall|Étal de fourrure
+Furnace|Fourneau
+Furnace Coolant|Liquide de refroidissement pour fourneau
+G.A.G. banner|Bannière G.A.G.
+Gabion defence|Défense gabion
+Gale catcher|Capteur de vent
+Gallows|Potence
+Galvek|Galvek
+Game space|Espace de jeu
+Gangplank|Passerelle
+Gap|Fente
+Garden fence|Clôture de jardin
+Gas cylinder|Bouteille de gaz
+Gas hole|Trou de gaz
+Gate|Porte
+Gate of War|Porte de la guerre
+Gates|Portails
+Gauntlet Portal|Portail du gantelet
+Gazebo|Gazebo
+Gear box|Boîte de vitesses
+Gem rocks|Rochers précieux
+Gem stall|Étal de pierres précieuses
+Gemstone rock|Rochers précieux
+General Bentnoze|Général Bentnoze
+General Graardor display|Étal du général Graardor
+General Stall|Étal général
+General Wartface|Général Wartface
+Gentle rapids|Rapides doux
+Geyser|Geyser
+Ghorrock Portal|Portail Ghorrock
+Giant Anvil|Enclume géante
+Giant Dwarf|Nain géant
+Giant anvil|Enclume géante
+Giant crystal|Cristal géant
+Giant display egg|Œuf géant d'exposition
+Giant dwarf|Nain géant
+Giant feathers|Plumes géantes
+Giant krill shoal|Banc de krill géant
+Giant vial|Fiole géante
+Giants' Foundry Display|Exposition de la fonderie des géants
+Gibbet|Gibet
+Gift of Peace|Cadeau de paix
+Gigantic penguin|Pingouin géant
+Gilded 4-poster|Lit à baldaquin doré
+Gilded adventure log|Journal d'aventure doré
+Gilded altar|Autel doré
+Gilded bench|Banc doré
+Gilded cape rack|Porte-capes doré
+Gilded clock|Horloge dorée
+Gilded decoration|Décoration dorée
+Gilded display|Présentoir doré
+Gilded dresser|Commode dorée
+Gilded magic wardrobe|Armoire magique dorée
+Gilded portal nexus|Portail doré
+Gilded throne|Trône doré
+Gilded wardrobe|Armoire dorée
+Gingerbread hopper|Trémie en pain d'épice
+Glarial's Tomb|Tombe de Glarial
+Glarial's Tombstone|Pierre tombale de Glarial
+Glass table|Table en verre
+Glistening shoal|Banc de poissons scintillants
+Globe|Globe
+Globe of Gielinor|Globe de Gielinor
+Globe space|Espace globe
+Glorious arena|Arène glorieuse
+Glove rack|Porte-gants
+Glowing Orb|Orbe lumineux
+Glowing fungus|Champignon lumineux
+Glowing portal|Portail lumineux
+Glowing symbol|Symbole lumineux
+Glyphs|Glyphes
+Gnome Statue|Statue de gnome
+Gnome barrel|Tonneau de gnome
+Gnome bench|Banc de gnome
+Gnome cabinet|Armoire de gnome
+Gnome chair|Chaise de gnome
+Gnome child icon|Icône d'enfant gnome
+Gnome cooker|Cuisinière de gnome
+Gnome crate|Caisse de gnome
+Gnome crates|Caisses de gnomes
+Gnome crowd|Foule de gnomes
+Gnome glider|Planeur de gnome
+Gnome goal|But de gnome
+Gnome landing light|Feu d'atterrissage de gnome
+Gnome skeleton|Squelette de gnome
+Gnome statue|Statue de gnome
+Gnome table|Table de gnome
+Gnome the ball|Balle de gnome
+Goat poo|Crottes de chèvre
+Goblin crowd|Foule de gobelins
+Goblin stove|Poêle de gobelin
+Gold|Or
+Gold Chest|Coffre en or
+Gold Screen|Écran en or
+Gold candlesticks|Chandeliers en or
+Gold cannon|Canon en or
+Gold cannonball|Boulet de canon en or
+Gold rocks|Rochers en or
+Gold sink|Évier en or
+Gold vein|Veine d'or
+Golden Gnome|Gnome doré
+Golden cage|Cage dorée
+Golden lantern|Lanterne dorée
+Golden tree|Arbre doré
+Golem|Golem
+Golem arm|Bras de golem
+Golem body|Corps de golem
+Golem corpse|Cadavre de golem
+Golem foot|Pied de golem
+Golem head|Tête de golem
+Golem rubble|Débris de golem
+Golf-cart|Voiturette de golf
+Golovanova plant|Plante Golovanova
+Golpar|Golpar
+Goo covered vine|Vigne recouverte de boue
+Gorilla Statue|Statue de gorille
+Gourd tree|Arbre à calebasses
+Gout Tuber Plant|Plante tubéreuse goutteuse
+Goutweed|Goutweed
+Goutweed Crate|Caisse de goutweed
+Grain|Céréales
+Grain of Plenty|Grain de l'abondance
+Gramophone|Gramophone
+Grand Exchange Portal|Portail du Grand Marché
+Grand Exchange booth|Cabine du Grand Marché
+Grand Exchange display|Présentoir du Grand Marché
+Grand Gold Chest|Grand coffre en or
+Grand Hallowed Coffin|Grand cercueil sacré
+Grand bookshelf|Grande bibliothèque
+Grandfather Clock|Horloge comtoise
+Granite rocks|Rochers de granit
+Grape arbor|Pergola à raisins
+Grape storage|Stockage de raisins
+Grape vine|Vigne
+Grapevine|Vigne
+Grapevines|Vignes
+Grass|Herbe
+Grassland habitat|Habitat de prairie
+Grave|Tombe
+Grave marker|Pierre tombale
+Grave of Scorpius|Tombe de Scorpius
+Gravestone|Pierre tombale
+Graveyard Teleport|Téléportation au cimetière
+Great Olm display|Présentoir du Grand Olm
+Great Olmic Statue|Grande statue olmique
+Great cauldron|Grand chaudron
+Greater magic cage|Grande cage magique
+Greater magical balance|Grande balance magique
+Greater teleport focus|Grand foyer de téléportation
+Green chemical|Produit chimique vert
+Green door|Porte verte
+Green flowers|Fleurs vertes
+Green leaves|Feuilles vertes
+Greenman carving|Sculpture du Greenman
+Greenman statue|Statue du Greenman
+Greenman's ale|Bière du Greenman
+Greenmans Ale|Bière du Greenman
+Grid Master Icon|Icône du maître de la grille
+Grill|Grill
+Grim lilly|Lys sinistre
+Grimgnash|Grimgnash
+Grindstone|Meule
+Grotto tree|Arbre de la grotte
+Group Ironman Display|Affichage Ironman de groupe
+Group storage|Stockage de groupe
+Grouping Obelisk|Obélisque de regroupement
+Growing vine|Vigne en croissance
+Growing wheat|Blé en croissance
+Grubby Chest|Coffre sale
+Grubby Door|Porte sale
+Grubby sapling|Jeune arbre sale
+Grym Root|Racine sinistre
+Gryphon droppings|Excréments de griffon
+Gryphon feathers|Plumes de griffon
+Guard|Garde
+Guard dog|Chien de garde
+Guard space|Espace de garde
+Guardian of Air|Gardien de l'air
+Guardian of Blood|Gardien du sang
+Guardian of Body|Gardien du corps
+Guardian of Chaos|Gardien du chaos
+Guardian of Cosmic|Gardien du cosmos
+Guardian of Death|Gardien de la mort
+Guardian of Earth|Gardien de la terre
+Guardian of Fire|Gardien du feu
+Guardian of Law|Gardien de la loi
+Guardian of Mind|Gardien de l'esprit
+Guardian of Nature|Gardien de la nature
+Guardian of Water|Gardien de l'eau
+Guardian parts|Pièces de gardien
+Guardian remains|Restes de gardien
+Guardians of the Rift Display|Affichage des gardiens de la faille
+Guild Door|Porte de guilde
+Guild door|Porte de guilde
+Guild trophy space|Espace trophée de guilde
+Guildmaster's chest|Coffre du maître de guilde
+Guitar|Guitare
+Guthix Portal|Portail de Guthix
+Guthix icon|Icône de Guthix
+Guthix symbol|Symbole de Guthix
+Haar-Tok|Haar-Tok
+Habitat space|Espace habitat
+Haddock shoal|Banc de haddock
+Hairstyles Poster|Poster de coiffures
+Half-built Loom|Métier à tisser à moitié construit
+Halibut shoal|Banc de flétan
+Hammer|Marteau
+Hammers|Marteaux
+Hammerstone Hops|Marteau-pilon Houblon
+Hammock|Hamac
+Hand holds|Poignées
+Handholds|Poignées
+Hanger|Cintre
+Hanging banner|Bannière suspendue
+Hanging cape|Cape suspendue
+Hanging dye|Teinture suspendue
+Hanging log|Bûche suspendue
+Hanging meat|Viande suspendue
+Hanging pirate|Pirate suspendu
+Hanging skeleton|Squelette suspendu
+Hanging tapestry|Tapisserie suspendue
+Hanging wheel|Roue suspendue
+Hangman|Bourreau
+Hank|Hank
+Hardcore Ironman|Hardcore Ironman
+Hardy goutweed|Goutweed robuste
+Harmony Island Portal|Portail de l'île Harmony
+Harold|Harold
+Harp|Harpe
+Harpoonfish cannon|Canon à harpon
+Harpoons|Harpons
+Hat rack|Porte-chapeaux
+Hat stand|Porte-chapeaux
+Hay bale|Balle de foin
+Haystack|Meule de foin
+Hazelmere statue|Statue de Hazelmere
+Head|Tête
+Head trophy space|Emplacement pour trophée de tête
+Headless statue|Statue sans tête
+Healer item machine|Machine à objets de guérison
+Healer spring|Source de guérison
+Healing certificate|Certificat de guérison
+Healthorg statue|Statue de Healthorg
+Heap of bricks|Tas de briques
+Hearth|Foyer
+Heat|Chaleur
+Heater|Chauffage
+Heather|Bruyère
+Heavy Door|Porte lourde
+Heavy door|Porte lourde
+Hedge|Haie
+Hedging|Haie vive
+Hefin Banner|Bannière Hefin
+Hellhound|Chien de l'enfer
+Hemp|Chanvre
+Hemp trawling net|Filet de pêche au chanvre
+Hend was here|Hend était ici
+Heraldry space|Emplacement pour héraldique
+Herb|Herbe
+Herb Stall|Étal d'herbes
+Herb patch|Parcelle d'herbes
+Herbalist stall|Étal d'herboriste
+Herbs|Herbes
+Herman's desk|Bureau d'Herman
+Heroic statue|Statue héroïque
+Het statue|Statue de Het
+Het's Seal|Sceau de Het
+Hidden Statue|Statue cachée
+Hidden trapdoor|Trappe cachée
+High Stakes|Enjeux élevés
+Hill|Colline
+History|Histoire
+Hobgoblin guard|Garde hobgobelin
+Holding area|Zone de détention
+Hole|Trou
+Hollow tree|Arbre creux
+Holos mushrooms|Champignons holos
+Holy barrier|Barrière sacrée
+Hook briar|Épine crochue
+Hoop and stick|Cerceau et bâton
+Hopper|Trémie
+Hopper controls|Commandes de trémie
+Horde of tiny sea creatures|Horde de minuscules créatures marines
+Horn of glory|Corne de gloire
+Hosidius Rework Display|Présentoir Hosidius Rework
+Hot vent door|Porte de cheminée chaude
+Houndmaster's Diary|Journal du maître-chien
+House Advertisement|Publicité pour la maison
+House window|Fenêtre de la maison
+Huge Gate|Enorme porte
+Huge Mushroom|Enorme champignon
+Huge door|Enorme porte
+Huge guardian remains|Enormes restes de gardien
+Huge plant|Enorme plante
+Huge spider|Enorme araignée
+Huge vat|Enorme cuve
+Human detection spell|Sortilège de détection humaine
+Human food|Nourriture humaine
+Hunting stall|Étal de chasse
+Hurdle|Haie
+Iasor plant|Plante Iasor
+Iban's Throne|Trône d'Iban
+Ice|Glace
+Ice Column|Colonne de glace
+Ice Light|Lumière de glace
+Ice Throne|Trône de glace
+Ice blockage|Blocage de glace
+Ice bridge|Pont de glace
+Ice chunks|Morceaux de glace
+Ice covered boulder|Roche recouverte de glace
+Ice crystal|Cristal de glace
+Ice cube|Glaçon
+Ice gate|Porte de glace
+Ice steps|Marchepieds de glace
+Ice storm|Tempête de glace
+Ice wall|Mur de glace
+Icicles|Glaçons
+Icon of Ralos|Icône de Ralos
+Icon space|Espace pour icône
+Icosahedron Pile|Pile d'icosaèdres
+Icthlarin statue|Statue d'Icthlarin
+Icy ledge|Corniche glacée
+Icy pool|Bassin glacé
+Icy rock|Roche glacée
+Icy rocks|Rochers glacés
+Icyene Statue|Statue d'Icyene
+Idol|Idole
+Illuminated Symbol|Symbole illuminé
+Imp statue|Statue d'Imp
+Imposing Doors|Portes imposantes
+Inactive Rune|Rune inactive
+Inactive Symbol|Symbole inactif
+Inactive cell tile|Tuile de cellule inactive
+Incense burner|Brûle-parfum
+Incinerator|Incinérateur
+Incubator|Incubateur
+Indigo flowers|Fleurs indigo
+Infected root|Racine infectée
+Infernal Rift|Faille infernale
+Infernal chart|Carte infernale
+Infernal shale deposit|Gisement de schiste infernal
+Infernal shale rocks|Rochers de schiste infernal
+Info Board|Panneau d'information
+Information|Informations
+Information Scroll|Parchemin d'information
+Information booth|Kiosque d'information
+Information scroll|Parchemin d'information
+Injured fairy|Fée blessée
+Innoculation station|Station de vaccination
+Insurance stall|Stand d'assurance
+Intermediate Flag|Drapeau intermédiaire
+Interrogation chair|Chaise d'interrogatoire
+Invocation Board|Tableau d'invocation
+Iorwerth Banner|Bannière d'Iorwerth
+Iron Winch|Treuil en fer
+Iron cannon|Canon en fer
+Iron helm|Casque en fer
+Iron keel|Quille en fer
+Iron ore vein|Veine de minerai de fer
+Iron pickaxe|Pioche en fer
+Iron railings|Balustrades en fer
+Iron rocks|Rochers en fer
+Iron salvaging hook|Crochet de récupération en fer
+Ironman & Ultimate Ironwoman|Ironman et Ultimate Ironwoman
+Ironwood Pyre|Bûcher en bois de fer
+Ironwood cargo hold|Cale en bois de fer
+Ironwood hull|Coque en bois de fer
+Ironwood mast and cotton sails|Mât en bois de fer et voiles en coton
+Ironwood tree|Arbre en bois de fer
+Isafdar|Isafdar
+Item Chest|Coffre à objets
+Ithell Banner|Bannière d'Ithell
+Ivy|Lierre
+Jagged wall|Mur dentelé
+Jangerberry bush|Buisson de jangerberries
+Jatizso coat of arms|Armoiries de Jatizso
+Jatoba tree|Arbre jatoba
+Javelin|Javelot
+Jellyfish|Méduse
+Jester|Bouffon
+Jewellery box space|Boîte à bijoux
+Jewellery case|Coffret à bijoux
+Jewellery stall|Étal de bijoux
+Jolly Roger|Jolly Roger
+Jormungand Display|Présentoir Jormungand
+Jug|Cruche
+Juice press|Presse-agrumes
+Juna|Juna
+Junction box|Boîte de jonction
+Jungle Bush|Buisson de jungle
+Jungle Flower|Fleur de jungle
+Jungle Grass|Herbe de jungle
+Jungle tree|Arbre de jungle
+Jungle tree stump|Souche d'arbre de jungle
+Junk|Débris
+Justiciar armour|Armure de justicier
+Jute|Jute
+Jutting wall|Mur en saillie
+Kaleef|Kaleef
+Kalphite Queen head|Tête de reine kalphite
+Kalphite queen legs|Jambes de reine kalphite
+Kalphite soldier|Soldat kalphite
+Karamja|Karamja
+Katana|Katana
+Kbd head|Tête de Kbd
+Kebab|Kebab
+Keg|Fût
+Keg of cider|Fût de cidre
+Keg of grog|Fût de grog
+Keg of horizon's lure|Fût d'appât de l'horizon
+Keg of kraken ink sout|Fût d'encre de kraken
+Keg of perildance bitter|Fût de perildance bitter
+Keg of trawler's trust|Fût de confiance du chalutier
+Keg of whirlpool surprise|Fût de surprise du tourbillon
+Kelda Hops|Kelda Hops
+Kelda Stout|Kelda Stout
+Kelp|Kelp
+Kennith's ball|Balle de Kennith
+Kettle|Bouilloire
+Key|Clé
+Keyhole|Trou de serrure
+Keystone|Keystone
+Keystone crystal|Cristal Keystone
+Kharidian cactus|Cactus kharidien
+Kharyrll Portal|Portail Kharyrll
+King Arthur|Roi Arthur
+King arthur|Roi Arthur
+King worm|Ver royal
+Kings' ladder|Échelle des rois
+Kitchen Drawers|Tiroirs de cuisine
+Kitchen cabinet|Armoire de cuisine
+Kitchen table|Table de cuisine
+Kite shield|Bouclier Kite
+Knight|Chevalier
+Knight Statue|Statue de chevalier
+Korbal herbs|Herbes Korbal
+Kourend Portal|Portail Kourend
+Kourend Shield|Bouclier Kourend
+Kourend map display case|Vitrine de la carte de Kourend
+Kourend sigil|Sceau de Kourend
+Kraken display|Présentoir Kraken
+Kraken slime|Bave de kraken
+Krandorian Hops|Houblon krandorien
+Kronos plant|Plante Kronos
+Kualti Daggers|Dagues Kualti
+Kurask head|Tête de Kurask
+LMS Rework Display|Présentoir LMS Rework
+Lab books|Cahiers de laboratoire
+Lab notes|Notes de laboratoire
+Lab table|Table de laboratoire
+Lab tube|Tube de laboratoire
+Ladder|Échelle
+Ladder space|Espace échelle
+Lalli's Stew|Ragoût de Lalli
+Lamp|Lampe
+Lamp oil still|Alambic à huile de lampe
+Lamp space|Espace lampe
+Lamp stall|Étal de lampes
+Lamp still|Alambic à lampes
+Lancalliums|Lancalliums
+Lander hatch|Trappe d'atterrissage
+Landing Site|Site d'atterrissage
+Landscape|Paysage
+Landscape space|Espace paysage
+Lantern|Lanterne
+Larder|Garde-manger
+Larder space|Espace garde-manger
+Large Barrel|Grand tonneau
+Large Display|Grand présentoir
+Large Fossil Display|Grand présentoir de fossiles
+Large Geyser|Grand geyser
+Large Magical Snow|Grande neige magique
+Large Pile of Coal|Grand tas de charbon
+Large Rock|Grand rocher
+Large Vial|Grande fiole
+Large bone|Grand os
+Large cave|Grande grotte
+Large crystals|Grands cristaux
+Large cupboard|Grand placard
+Large door|Grande porte
+Large fountain|Grande fontaine
+Large geyser|Grand geyser
+Large grave|Grande tombe
+Large grave stone|Grande pierre tombale
+Large guardian remains|Grands restes de gardien
+Large leaf bush|Grand buisson de feuilles
+Large map|Grande carte
+Large oak bed|Grand lit en chêne
+Large orrery|Grand planétaire
+Large oven|Grand four
+Large rock|Grand rocher
+Large sewer pipe|Grand tuyau d'égout
+Large shipwreck|Grande épave
+Large stalagmite|Grande stalagmite
+Large statue|Grande statue
+Large stone ledges|Grandes corniches rocheuses
+Large storage unit|Grand espace de rangement
+Large teak bed|Grand lit en teck
+Large urn|Grande urne
+Large vase|Grand vase
+Larran's big chest|Grand coffre de Larran
+Larran's small chest|Petit coffre de Larran
+Laundry Basket|Panier à linge
+Lava Nerve Ending|Terminaison nerveuse de lave
+Lava crater|Cratère de lave
+Lava forge|Forge de lave
+Lava gap|Faille de lave
+Lava pool|Bassin de lave
+Lava trough|Auge de lave
+Law Altar|Autel de la loi
+Law Energy|Énergie de la loi
+Law rift|Faille de la loi
+Lead rocks|Rochers de plomb
+Leaflets|Feuillets
+Leafy Palm Tree|Palmier feuillu
+Leafy bush|Buisson feuillu
+League Firsts Board|Tableau des premières de la ligue
+League accomplishments scroll|Parchemin des accomplissements de la ligue
+League statue|Statue de la ligue
+Leak|Fuite
+Leather shields|Boucliers en cuir
+Leaves|Feuilles
+Lectern|Pupitre
+Lectern space|Espace pupitre
+Ledge|Corniche
+Ledger table|Tableau grand livre
+Left side of a fireplace|Côté gauche d'une cheminée
+Leftovers|Restes
+Legends Guild door|Porte de la guilde des légendes
+Lesser magic cage|Cage magique mineure
+Lesser magical balance|Équilibre magique mineur
+Lever|Levier
+Lever bracket|Support de levier
+Lever space|Espace levier
+Levers|Leviers
+Leviathan|Leviathan
+Libation bowl|Bol à libations
+Life buoy|Bouée de sauvetage
+Lifelilly|Lifelilly
+Lift|Ascenseur
+Lift Platform|Plateforme élévatrice
+Light|Lumière
+Light Jungle|Jungle lumineuse
+Light door|Porte lumineuse
+Lighting mechanism|Mécanisme d'éclairage
+Lighting space|Espace d'éclairage
+Lightning conductor|Paratonnerre
+Lightning rod|Paratonnerre
+Lily|Lys
+Lily pad|Nénuphar
+Limestone altar|Autel en calcaire
+Limestone attack stone|Pierre d'attaque en calcaire
+Limestone rock|Roche calcaire
+Limestone spiral staircase|Escalier en colimaçon en calcaire
+Limpwurt plant|Plante Limpwurt
+Linen trawling net|Filet de pêche en lin
+Linum Tirinum|Linum Tirinum
+Little boulder|Petit rocher
+Little crack|Petite fissure
+Little tent|Petite tente
+Lizard dwelling|Habitation de lézard
+Lizardman corpse|Cadavre de lézard
+Lock|Serrure
+Lockbox|Coffre-fort
+Locked Door|Porte verrouillée
+Locked Ogre chest|Coffre d'ogre verrouillé
+Locked gate|Porte verrouillée
+Locker|Casiers
+Lockers|Casiers
+Log Store|Bûcher
+Log balance|Balance à bûches
+Log pile|Pile de bûches
+Log raft|Radeau de bûches
+Log storage|Stockage de bûches
+Logavano plant|Plante Logavano
+Logs|Bûches
+Long branched tree|Arbre à longues branches
+Long grass|Herbe haute
+Long planks|Longues planches
+Loom|Métier à tisser
+Loose Mud|Boue meuble
+Loose Railing|Balustrade meuble
+Loose rocks|Rochers meubles
+Loot Chest|Coffre au trésor
+Loot beam|Poutre de butin
+Lost supplies|Fournitures perdues
+Lovakite furnace|Fourneau en lovakite
+Lovakite rocks|Rochers en lovakite
+Low fence|Clôture basse
+Low wall|Mur bas
+Lumber transport|Transport de bois
+Lumbridge|Lumbridge
+Lumbridge Guide|Guide de Lumbridge
+Lumbridge Portal|Portail de Lumbridge
+Luminescent Growth|Croissance luminescente
+Lumpy rug|Tapis bosselé
+Lunar Chest|Coffre lunaire
+Lunar Isle Portal|Portail de l'île lunaire
+Lunar altar|Autel lunaire
+Lunar globe|Globe lunaire
+Lure cave|Grotte de leurre
+Lurking Shadow|Ombre tapie
+Lye lever|Levier à lessive
+Machine|Machine
+Machine panel|Panneau de machine
+Machinery|Machinerie
+Magenta Crystal|Cristal magenta
+Magenta door|Porte magenta
+Magic Gate|Porte magique
+Magic Mirror|Miroir magique
+Magic Stall|Étal magique
+Magic ball|Boule magique
+Magic barrier|Barrière magique
+Magic birdhouse|Nichoir magique
+Magic box failed|Boîte magique défectueuse
+Magic brazier|Brasero magique
+Magic chest|Coffre magique
+Magic door|Porte magique
+Magic guild door|Porte de guilde magique
+Magic logs pile|Pile de bûches magiques
+Magic secateurs|Sécateur magique
+Magic spell|Sortilège magique
+Magic table|Table magique
+Magic totem|Totem magique
+Magic tree|Arbre magique
+Magic wardrobe space|Espace magique dans l'armoire
+Magical Animator|Animateur magique
+Magical Barrier|Barrière magique
+Magical Chest|Coffre magique
+Magical Obelisk|Obélisque magique
+Magical Snow|Neige magique
+Magical cape rack|Porte-cape magique
+Magical fire|Feu magique
+Magical rocks|Rochers magiques
+Magical shield|Bouclier magique
+Magical symbol|Symbole magique
+Magical wards|Protections magiques
+Magical wheat|Blé magique
+Mahogany Homes Display|Présentoir en acajou
+Mahogany adventure log|Journal d'aventure en acajou
+Mahogany altar|Autel en acajou
+Mahogany armchair|Fauteuil en acajou
+Mahogany armour case|Coffre à armure en acajou
+Mahogany bed|Lit en acajou
+Mahogany bench|Banc en acajou
+Mahogany birdhouse|Nichoir en acajou
+Mahogany bookcase|Bibliothèque en acajou
+Mahogany cabinet|Armoire en acajou
+Mahogany cape rack|Porte-capes en acajou
+Mahogany cargo hold|Cargo en acajou
+Mahogany chair|Chaise en acajou
+Mahogany chest|Coffre en acajou
+Mahogany cupboard|Placard en acajou
+Mahogany demon lectern|Pupitre démoniaque en acajou
+Mahogany display|Présentoir en acajou
+Mahogany drawers|Tiroirs en acajou
+Mahogany dresser|Commode en acajou
+Mahogany eagle lectern|Pupitre aigle en acajou
+Mahogany fancy dress box|Boîte à déguisements en acajou
+Mahogany feeder|Mangeoire en acajou
+Mahogany house|Maison en acajou
+Mahogany hull|Coque en acajou
+Mahogany ladder|Échelle en acajou
+Mahogany lever|Levier en acajou
+Mahogany magic wardrobe|Armoire magique en acajou
+Mahogany mast and canvas sails|Mât et voiles en acajou
+Mahogany outfit stand|Porte-vêtements en acajou
+Mahogany portal|Portail en acajou
+Mahogany prize chest|Coffre à trésor en acajou
+Mahogany scratching post|Griffoir en acajou
+Mahogany shelves|Étagères en acajou
+Mahogany table|Table en acajou
+Mahogany telescope|Télescope en acajou
+Mahogany throne|Trône en acajou
+Mahogany toy box|Coffre à jouets en acajou
+Mahogany trapdoor|Trappe en acajou
+Mahogany treasure chest|Coffre au trésor en acajou
+Mahogany tree|Arbre en acajou
+Mahogany trophy case|Vitrine à trophées en acajou
+Mahogany wardrobe|Armoire en acajou
+Making Friends with My Arm display|Présentoir « Se faire des amis avec mon bras »
+Man trap|Piège à hommes
+Mangrove|Mangrove
+Manhole|Regard
+Manhole cover|Couvercle de regard
+Mannequin|Mannequin
+Map|Carte
+Map board|Tableau de carte
+Map in a bottle|Carte dans une bouteille
+Map space|Espace carte
+Map table|Table à carte
+Maple birdhouse|Nichoir en érable
+Maple totem|Totem en érable
+Maple tree|Érable
+Marble adventure log|Journal d'aventure en marbre
+Marble altar|Autel en marbre
+Marble attack stone|Pierre d'attaque en marbre
+Marble cape rack|Porte-capes en marbre
+Marble decorative bench|Banc décoratif en marbre
+Marble door|Porte en marbre
+Marble fireplace|Cheminée en marbre
+Marble lectern|Pupitre en marbre
+Marble magic wardrobe|Armoire magique en marbre
+Marble portal nexus|Portail en marbre
+Marble portal|Portail en marbre
+Marble spiral|Spirale en marbre
+Marble staircase|Escalier en marbre
+Marble trap|Piège en marbre
+Marble wall|Mur en marbre
+Marigold|Souci
+Marigolds|Soucis
+Marim Portal|Portail Marim
+Mark of Power|Marque du pouvoir
+Marked wall|Mur marqué
+Market Stall|Étal de marché
+Market stall|Étal de marché
+Marlin shoal|Banc de marlins
+Marshy jungle vine|Liane de la jungle marécageuse
+Marv|Marv
+Massive ribs|Côtes massives
+Massive storage unit|Unité de stockage massive
+Mast|Mât
+Master clue scroll display|Présentoir de parchemins d'indices maîtres
+Mature Asgarnian Ale|Bière Asgarnienne mûre
+Mature Axeman's Folly|Folie mûre du bûcheron
+Mature Chef's Delight|Délices mûrs du chef
+Mature Cider|Cidre mûr
+Mature Dragon Bitter|Amer mûr du dragon
+Mature Dwarven Stout|Stout mûre des nains
+Mature Greenmans Ale|Bière mûre de Greenman
+Mature Moonlight Mead|Hydromel mûr au clair de lune
+Mature Slayer's Respite|Répit mûr du tueur
+Mature Wizards Mind Bomb|Bombe mentale mûre du sorcier
+Mature juniper tree|Genévrier mûr
+Mausoleum|Mausolée
+Mausoleum Door|Porte du mausolée
+Meat table|Table à viande
+Meat tree|Arbre à viande
+Medical box|Trousse médicale
+Medical table|Table médicale
+Medium Barrier|Barrière moyenne
+Medium Fossil Display|Présentoir à fossiles moyen
+Medium Jungle|Jungle moyenne
+Medium balance|Équilibre moyen
+Medium cell tile|Carreau de cellule moyen
+Medium fence|Clôture moyenne
+Medium map|Carte moyenne
+Medium statue|Statue moyenne
+Medium storage unit|Unité de stockage moyenne
+Medivaemia root|Racine de medivaemia
+Medpack Box|Boîte de trousse médicale
+Meeting flag|Drapeau de réunion
+Megashrimp droppings|Excréments de méga-crevette
+Meilyr Banner|Bannière de Meilyr
+Melee brazier|Brasero de mêlée
+Melting Pot|Creuset
+Memorial|Mémorial
+Memoriam Device|Dispositif commémoratif
+Mercenary shipwreck|Épave de mercenaire
+Merchant ship|Navire marchand
+Merchant shipwreck|Épave de navire marchand
+Mermaid's blessing|Bénédiction de la sirène
+Mess|Désordre
+Metal Press|Presse à métal
+Metal pieces|Morceaux de métal
+Mid Feldip Ridge|Crête de Mid Feldip
+Mill|Moulin
+Millstones|Meules
+Mimic Display|Présentoir mimétique
+Mind Altar|Autel de l'esprit
+Mind Altar Portal|Portail de l'autel de l'esprit
+Mind rift|Faille de l'esprit
+Mine Cart|Chariot de mine
+Mine cart|Chariot de mine
+Mine cart sign|Panneau de chariot de mine
+Minecart|Chariot de mine
+Mirror|Miroir
+Miscellanians|Divers
+Mithril armour|Armure en mithril
+Mithril cannon|Canon en mithril
+Mithril door|Porte en mithril
+Mithril helm|Casque en mithril
+Mithril keel|Quille en mithril
+Mithril ore vein|Veine de minerai de mithril
+Mithril rocks|Roches de mithril
+Mithril salvaging hook|Crochet de récupération en mithril
+Mixing vessel|Récipient de mélange
+Mole hill|Taupinière
+Molten Sand|Sable fondu
+Money Pot|Pot d'argent
+Monkey Madness II display|Affichage Monkey Madness II
+Monkey Statue|Statue de singe
+Monkey bars|Barres de singe
+Monkeybars|Barres de singe
+Monolith|Monolithe
+Monster space|Espace monstre
+Monument|Monument
+Monumental chest|Coffre monumental
+Moon Statue|Statue de lune
+Moonlight Antelope Trophy|Trophée d'antilope au clair de lune
+Moonlight Mead|Hydromel au clair de lune
+Mooring point|Point d'amarrage
+Mortuary Table|Table mortuaire
+Morytania|Morytania
+Mossy rock|Roche moussue
+Moth|Papillon de nuit
+Mould jig|Gabarit de moulage
+Mound of earth|Monticule de terre
+Mounted Head|Tête empaillée
+Mounted Head Space|Espace pour tête empaillée
+Mounted Sailing Cape|Cap de voile empaillé
+Mounted bass|Bar empaillé
+Mounted coins|Pièces de monnaie empaillées
+Mounted digsite pendant|Pendentif de site de fouilles empaillé
+Mounted emblem|Emblème empaillé
+Mounted giant blue krill|Krill bleu géant empaillé
+Mounted golden haddock|Aiglefin doré empaillé
+Mounted harpoonfish|Poisson-harpon empaillé
+Mounted huge halibut|Flétan géant empaillé
+Mounted orangefin|Orpine empaillée
+Mounted purplefin|Orpine violette empaillée
+Mounted shark|Requin empaillé
+Mounted swift marlin|Marlin rapide empaillé
+Mounted swordfish|Espadon empaillé
+Mounted xeric's talisman|Talisman de Xeric empaillé
+Mouse hole|Trou de souris
+Mox lever|Levier Mox
+Mud mound|Monticule de boue
+Mud pile|Tas de boue
+Muddy chest|Coffre boueux
+Muddy patch|Tache boueuse
+Mummy ashes|Cendres de momie
+Mural|Peinture murale
+Musca mushrooms|Champignons Musca
+Mushroom|Champignon
+Mushroom torch|Torche champignon
+Mushrooms|Champignons
+Mushtree|Arbre Mushtree
+Mushy Bed|Lit boueux
+Music Scores|Partitions musicales
+Music stand|Pupitre
+Musical space|Espace musical
+Musty bookshelf|Étagère moisie
+My life|Ma vie
+Mycelium Transportation System|Système de transport mycélien
+Mysterious Stairs|Escaliers mystérieux
+Mysterious pipe|Tuyau mystérieux
+Mysterious pool|Bassin mystérieux
+Mysterious ruins|Ruines mystérieuses
+Mysterious statue|Statue mystérieuse
+Mysterious stone|Pierre mystérieuse
+Mystic symbol|Symbole mystique
+Mystical barrier|Barrière mystique
+Mystical mirror|Miroir mystique
+Mythic Statue|Statue mythique
+Mythical cape|Cap mythique
+Narrow crevice|Fissure étroite
+Narrow gap|Fente étroite
+Narrow wall|Mur étroit
+Nasturtium|Capucine
+Nature Altar|Autel de la nature
+Nature Energy|Énergie de la nature
+Nature house|Maison de la nature
+Nature rift|Faille de la nature
+Navigator's table|Table du navigateur
+Ned's Table|Table de Ned
+Neitiznot coat of arms|Armoiries de Neitiznot
+Nerve Ending|Terminaison nerveuse
+Nest|Nid
+Net trap|Piège en filet
+Net|Filet
+Nettles|Orties
+Neural Gateway|Passerelle neuronale
+Neural Teleporter|Téléporteur neuronal
+New farming patch|Nouvelle parcelle agricole
+Newspapers|Journaux
+Nex Display|Affichage Nex
+Nice hedge|Jolie haie
+Nice tree|Joli arbre
+Nickel rocks|Rochers en nickel
+Nightmare Berries|Baies cauchemardesques
+Nightmare Blossom|Fleur cauchemardesque
+Nightmare zone display|Affichage de la zone cauchemardesque
+Nine|Neuf
+Nistirio's manifesto|Manifeste de Nistirio
+Notice|Avis
+Notice board|Tableau d'affichage
+Notice from General Khazard|Avis du général Khazard
+Noticeboard|Tableau d'affichage
+Notices|Avis
+Novice Flag|Drapeau de novice
+Noxifer|Noxifer
+Noxious tendrils|Vignes toxiques
+Oak altar|Autel en chêne
+Oak and steel cage|Cage en chêne et en acier
+Oak armchair|Fauteuil en chêne
+Oak armour case|Coffre en chêne
+Oak bed|Lit en chêne
+Oak bench|Banc en chêne
+Oak birdhouse|Nichoir en chêne
+Oak bookcase|Bibliothèque en chêne
+Oak cabinet|Armoire en chêne
+Oak cage|Cage en chêne
+Oak cape rack|Porte-capes en chêne
+Oak cargo hold|Cargo en chêne
+Oak chair|Chaise en chêne
+Oak chest|Coffre en chêne
+Oak clock|Horloge en chêne
+Oak cupboard|Armoire en chêne
+Oak dining table|Table à manger en chêne
+Oak display|Présentoir en chêne
+Oak door|Porte en chêne
+Oak drawers|Tiroirs en chêne
+Oak dresser|Commode en chêne
+Oak fancy dress box|Boîte à déguisements en chêne
+Oak feeder|Mangeoire en chêne
+Oak house|Maison en chêne
+Oak hull|Coque en chêne
+Oak kitchen table|Table de cuisine en chêne
+Oak ladder|Échelle en chêne
+Oak larder|Garde-manger en chêne
+Oak lectern|Pupitre en chêne
+Oak lever|Levier en chêne
+Oak magic wardrobe|Armoire magique en chêne
+Oak mast and linen sails|Mât en chêne et voiles en lin
+Oak outfit stand|Porte-vêtements en chêne
+Oak prize chest|Coffre à trophées en chêne
+Oak scratching post|Griffoir en chêne
+Oak shaving stand|Porte-rasoir en chêne
+Oak shelves|Étagères en chêne
+Oak shelves 1|Étagères en chêne 1
+Oak shelves 2|Étagères en chêne 2
+Oak staircase|Escalier en chêne
+Oak table|Table en chêne
+Oak telescope|Télescope en chêne
+Oak throne|Trône en chêne
+Oak totem|Totem en chêne
+Oak toy box|Coffre à jouets en chêne
+Oak trapdoor|Trappe en chêne
+Oak treasure chest|Coffre au trésor en chêne
+Oak tree|Chêne
+Oak trophy case|Vitrine à trophées en chêne
+Oak wall decoration|Décoration murale en chêne
+Oak wardrobe|Armoire en chêne
+Oak workbench|Établi en chêne
+Oaknock statue|Statue d'Oaknock
+Oaknock's Machine|Machine d'Oaknock
+Oaknock's exchanger|Échangeur d'Oaknock
+Oaknock's machine|Machine d'Oaknock
+Obelisk|Obélisque
+Obelisk Hand|Main d'obélisque
+Obelisk of Air|Obélisque de l'air
+Obelisk of Earth|Obélisque de la terre
+Obelisk of Fire|Obélisque du feu
+Obelisk of Water|Obélisque de l'eau
+Obsidian decorative bench|Banc décoratif en obsidienne
+Obsidian fence|Clôture en obsidienne
+Obstacle net|Filet d'obstacle
+Obstacle pipe|Tuyau d'obstacle
+Occult altar|Autel occulte
+Occupied Cormorant perch|Perchoir occupé par un cormoran
+Occupied perch|Perchoir occupé
+Odd looking wall|Mur étrange
+Odd markings|Marques étranges
+Offerings|Offrandes
+Office table|Table de bureau
+Official Order of Construction|Ordre officiel de construction
+Ogre Coffin|Cercueil d'ogre
+Ogre Drums|Tambours d'ogre
+Ogre barricade|Barricade d'ogre
+Ogre bed|Lit d'ogre
+Ogre bench|Banc d'ogre
+Ogre fire|Feu d'ogre
+Ogre spit-roast|Rôtissoire d'ogre
+Olaf's boat|Bateau d'Olaf
+Old Bookshelf|Vieille bibliothèque
+Old Memorial|Vieux mémorial
+Old One Statue|Statue du Vieux
+Old Shrine|Vieux sanctuaire
+Old Stall|Vieille étable
+Old axe|Vieille hache
+Old battered door|Vieille porte abîmée
+Old bookcase|Vieille bibliothèque
+Old bookshelf|Vieille étagère
+Old camp|Vieux campement
+Old campfire|Vieux feu de camp
+Old chest|Vieil coffre
+Old crane|Vieille grue
+Old fire pit|Vieil emplacement de feu
+Old log|Vieille bûche
+Old man's coffin|Cercueil de vieillard
+Old passageway|Vieux passage
+Old ruin entrance|Entrée de vieilles ruines
+Old sacks|Vieux sacs
+Old tools|Vieux outils
+Old wall|Vieux mur
+Olmic pillar|Pilier olmique
+Ominous Fishing Spot|Lieu de pêche sinistre
+Ominous sea light|Lumière marine sinistre
+One|Un
+Onion|Oignon
+Onion basket|Panier d'oignons
+Onion plant|Plante d'oignons
+Oojimaflip|Oojimaflip
+Oozing barrier|Barrière suintante
+Open chest|Coffre ouvert
+Opening|Ouverture
+Operating table|Table d'opération
+Operation chair|Chaise d'opération
+Operation table|Table d'opération
+Opulent curtains|Rideaux somptueux
+Opulent rug|Tapis somptueux
+Opulent table|Table somptueuse
+Orange door|Porte orange
+Orange flowers|Fleurs orange
+Orange hibiscus|Hibiscus orange
+Orange pumpkins|Citrouilles orange
+Orange spice|Épice orange
+Orange tree|Oranger
+Orb of light|Orbe de lumière
+Orchid|Orchidée
+Orchids|Orchidées
+Ore crate|Caisse de minerai
+Ore sack|Sac de minerai
+Ore stall|Étal de minerai
+Ore stones|Pierres de minerai
+Ore table|Table de minerai
+Ore vein|Veine de minerai
+Organ|Orgue
+Ornament|Ornement
+Ornamental globe|Globe décoratif
+Ornate banner stand|Support de bannière décoratif
+Ornate candle|Bougie décorative
+Ornate jewellery box|Boîte à bijoux décorative
+Ornate league statue|Statue décorative de la ligue
+Ornate railing|Balustrade décorative
+Ornate rejuvenation pool|Bassin de rajeunissement décoratif
+Ornate trophy pedestal|Piédestal décoratif pour trophée
+Ornate undead combat dummy|Mannequin de combat décoratif pour morts-vivants
+Ornate vase|Vase décoratif
+Orrery|Planétaire
+Otherworldly theme|Thème d'un autre monde
+Our lives|Nos vies
+Ourania Altar|Autel d'Ourania
+Outcrop|Affleurement
+Outfit stand space|Espace pour support de tenue
+Output Tap|Robinet de sortie
+Oven|Four
+Overcharged Barrier|Barrière surchargée
+Overgrown pillar|Pilier envahi par la végétation
+Overhanging rock|Roche en surplomb
+Overload potion|Potion de surcharge
+Overpowered cell tile|Tuile de cellule surpuissante
+Overseer's book|Livre du surveillant
+Pagoda Fungus|Champignon pagode
+Painting|Peinture
+Palm|Palmier
+Palm tree|Palmier
+Panning point|Point de panoramique
+Papaya tree|Papayer
+Parasol|Parasol
+Partial fence|Clôture partielle
+Partial ship|Navire partiel
+Party Balloon|Ballon de fête
+Passage|Passage
+Passageway|Passage
+Path of Apmeken|Chemin d'Apmeken
+Path of Crondis|Chemin de Crondis
+Path of Het|Chemin de Het
+Path of Scabaras|Chemin de Scabaras
+Pear tree|Poirier
+Pebbles|Cailloux
+Pedals|Pédales
+Pedestal|Piédestal
+Pedestal space|Espace pour piédestal
+Peephole|Judas
+Pen Door|Porte à stylo
+Penance cave|Grotte de pénitence
+Penance statue|Statue de pénitence
+Pendant|Pendentif
+Pendulum|Pendule
+Pentamid Pile|Pile pentamid
+Perch|Perchoir
+Perch rock|Roche perchoir
+Periscope|Périscope
+Pet feeder space|Espace pour mangeoire pour animaux
+Pet house space|Espace pour niche pour animaux
+Pet list|Liste d'animaux
+Pet list space|Espace pour liste d'animaux
+Petrified mushroom|Champignon pétrifié
+Pew|Banc d'église
+Phantom Muspah Display|Affichage fantôme Muspah
+Pharmakos bush|Buisson Pharmakos
+Pheasant Nest|Nid de faisan
+Phosani's Nightmare Display|Affichage du cauchemar de Phosani
+Phren Roots|Racines de Phren
+Piano|Piano
+Piano stool|Tabouret de piano
+Pickaxe|Pioche
+Pickaxe of the Lost|Pioche des perdus
+Pickaxe stall|Étal de pioches
+Picket fence|Clôture en bois
+Picnic|Pique-nique
+Picnic bench|Banc de pique-nique
+Picnic table|Table de pique-nique
+Picture|Image
+Picture wall|Mur d'images
+Pier|Jetée
+Pigeon|Pigeon
+Pile of Ancient Books|Pile de livres anciens
+Pile of Buckets|Pile de seaux
+Pile of Fish.|Pile de poissons.
+Pile of Fishbowls|Pile de bocaux à poissons
+Pile of Rock|Pile de rochers
+Pile of bricks|Pile de briques
+Pile of canes|Pile de cannes
+Pile of chocolate|Pile de chocolats
+Pile of coal|Pile de charbon
+Pile of equipment|Pile d'équipement
+Pile of fake eggs|Pile de faux œufs
+Pile of fish|Pile de poissons
+Pile of rocks|Pile de rochers
+Pile of rubble|Pile de gravats
+Pillar|Pilier
+Pillar coral|Corail pilier
+Pillars of Zanash|Piliers de Zanash
+Pillow|Oreiller
+Pinball Post|Pinball Post
+Pinboard|Tableau d'affichage
+Pine tree|Pin
+Pineapple|Ananas
+Pineapple Plant|Plante d'ananas
+Pineapple plant|Plante d'ananas
+Pink rose bush patch|Roseraie rose
+Pipe|Pipe
+Pipe machine|Machine à tuyaux
+Pipes|Tuyaux
+Pirate Captain|Capitaine pirate
+Pirate Flag|Drapeau pirate
+Pirate Pete|Pirate Pete
+Pirate Sign|Panneau pirate
+Pirate map|Carte pirate
+Pirate shipwreck|Épave pirate
+Pit|Fosse
+Pitcher plant|Plante carnivore
+Pitfall|Piège
+Plank|Planche
+Plank pile|Pile de planches
+Planks|Planches
+Plant|Plante
+Plant Fossil Display|Exposition de fossiles végétaux
+Plant door|Porte végétale
+Planter|Jardinière
+Plantpot|Pot de fleurs
+Plants|Plantes
+Plaque|Plaque
+Platform|Plateforme
+Play blocks|Blocs de jeu
+Plinth|Socle
+Pluming stand|Support de plomberie
+Plunder Storage|Stockage de butin
+Plushie|Peluche
+Points settings|Paramètres de points
+Poison Ivy bush|Buisson de sumac vénéneux
+Poison crater|Cratère empoisonné
+Poison spill|Déversement de poison
+Pokers|Pokers
+Polar habitat|Habitat polaire
+Pole|Poteau
+Pole-vault|Saut à la perche
+Polishing wheel|Roue de polissage
+Polite notice|Avis poli
+Poll booth|Cabine de vote
+Pond|Étang
+Pool of Dreams|Bassin des rêves
+Pool of Nightmares|Bassin des cauchemars
+Pool of Refreshment|Bassin de rafraîchissement
+Pool of Slime|Bassin de boue
+Pool of blood|Bassin de sang
+Pool of ichor|Bassin d'ichor
+Pool space|Espace de bassin
+Poor Bed|Lit pauvre
+Porcine of Interest Display|Porc d'intérêt Exposition
+Port roberts jail visitors book|Livre d'or de la prison de Port Roberts
+Portal|Portail
+Portal Home|Accueil du portail
+Portal Nexus space|Espace Nexus du portail
+Portal frame|Cadre du portail
+Portal machine|Machine du portail
+Portal of Amlodd|Portail d'Amlodd
+Portal of Cadarn|Portail de Cadarn
+Portal of Champions|Portail des champions
+Portal of Crwys|Portail de Crwys
+Portal of Death|Portail de la mort
+Portal of Hefin|Portail de Hefin
+Portal of Heroes|Portail des héros
+Portal of Iorwerth|Portail d'Iorwerth
+Portal of Ithell|Portail d'Ithell
+Portal of Legends|Portail des légendes
+Portal of Meilyr|Portail de Meilyr
+Portal of Trahaearn|Portail de Trahaearn
+Portal space|Espace portail
+Portcullis|Herse
+Portrait|Portrait
+Portrait space|Espace portrait
+Portraits|Portraits
+Posh bell-pull|Cordon de sonnette chic
+Posh fountain|Fontaine chic
+Post|Poteau
+Poster|Affiche
+Posters & notices|Affiches et avis
+Posts|Poteaux
+Pot|Pot
+Pot of Gold|Pot d'or
+Pot-boiler|Pot-boiler
+Potato|Pomme de terre
+Potato basket|Panier de pommes de terre
+Potato cactus|Cactus pomme de terre
+Potato plant|Plante de pomme de terre
+Potato plants|Plantes de pomme de terre
+Potential fire|Risque d'incendie
+Potion|Potion
+Potion of power table|Table de potion de pouvoir
+Potions|Potions
+Potted fan|Ventilateur en pot
+Potted flower|Fleur en pot
+Potted plant|Plante en pot
+Potter's Wheel|Tour de potier
+Potter's wheel|Tour de potier
+Pottery Oven|Four à poterie
+Pottery oven|Four à poterie
+Powder grey pumpkins|Citrouilles gris poudre
+Power Grid|Réseau électrique
+Power surge|Surtension
+Powerful rapids|Rapides puissants
+Precarious bridge|Pont précaire
+Preform storage|Stockage de préformes
+Preparation Table|Table de préparation
+Pressure Barrel|Baril à pression
+Pressure Lever|Levier à pression
+Pressure machine|Machine à pression
+Pressure pad|Tapis à pression
+Pressure plate|Plaque à pression
+Priest Statue|Statue de prêtre
+Prifddinas Display|Prifddinas Display
+Prison Door|Prison Door
+Prison door|Prison door
+Prison space|Prison space
+Private portal|Private portal
+Prize chest space|Prize chest space
+Produce basket|Produce basket
+Professor's table|Professor's table
+Prop shipwreck|Prop shipwreck
+Protest Banners|Protest Banners
+Puddle|Puddle
+Pump|Pump
+Pump and drain|Pump and drain
+Pump and tub|Pump and tub
+Pumpkin|Pumpkin
+Pumpkin carving table|Pumpkin carving table
+Pumpkin patch|Pumpkin patch
+Pylon|Pylon
+Quest Speedrunning Display|Quest Speedrunning Display
+Quest list|Quest list
+Quest list space|Espace liste de quêtes
+Quetzal nest|Nid de quetzal
+Rabbit hole|Trou de lapin
+Rabbitless hole|Trou sans lapin
+Rachel|Rachel
+Rack|Étagère
+Radiant Vein|Veine rayonnante
+Raft|Radeau
+Raging echoes curtains|Rideaux échos rageurs
+Raging echoes rug|Tapis échos rageurs
+Rail|Rail
+Raised coffin|Cercueil surélevé
+Range|Portée
+Range chimney|Cheminée à portée
+Ranged brazier|Brasero à portée
+Ranging game space|Espace jeu à portée
+Ranging pedestals|Piédestaux à portée
+Rapids?|Rapides ?
+Rare Flowers|Fleurs rares
+Rat|Rat
+Rat trap|Piège à rats
+Rat wheel|Roue à rats
+Rat-hole|Trou de rat
+Recess|Renfoncement
+Recruiting board|Tableau de recrutement
+Recurrent damage|Dégâts récurrents
+Red Star Fungi|Champignons étoiles rouges
+Red Water Sign|Signe d'eau rouge
+Red banner|Bannière rouge
+Red chemical|Produit chimique rouge
+Red door|Porte rouge
+Red flowers|Fleurs rouges
+Red fungi|Champignons rouges
+Red hibiscus|Hibiscus rouge
+Red mist|Brouillard rouge
+Red pumpkins|Citrouilles rouges
+Red rose bush patch|Patch de rosiers rouges
+Red spice|Épice rouge
+Redberry bush|Buisson de baies rouges
+Redwood birdhouse|Nichoir en séquoia
+Redwood fence|Clôture en séquoia
+Redwood slices|Tranches de séquoia
+Redwood totem|Totem en séquoia
+Redwood tree|Séquoia
+Reeds|Roseaux
+Refiner|Raffineur
+Refinery|Raffinerie
+Regal chair|Chaise royale
+Regal table|Table royale
+Reinforced chest|Coffre renforcé
+Reinitialisation Panel|Panneau de réinitialisation
+Rejuvenation pool|Bassin de rajeunissement
+Remnant|Vestige
+Repair bench|Banc de réparation
+Repair space|Espace de réparation
+Repaired Roof|Toit réparé
+Repaired leak|Fuite réparée
+Repaired wall|Mur réparé
+Reset Lever|Levier de réinitialisation
+Resper mushrooms|Champignons Resper
+Restoration pool|Bassin de restauration
+Restraining Table|Table de contention
+Restraining table|Table de contention
+Restraint Table|Table de contention
+Restraint table|Table de contention
+Retort|cornue
+Retorts|Cornues
+Return Orb|Orbe de retour
+Revenant Maledictus Display|Affichage Revenant Maledictus
+Revitalisation pool|Bassin de revitalisation
+Reward Cart|Chariot de récompenses
+Reward Chest|Coffre de récompenses
+Reward chest|Coffre de récompenses
+Reward pool|Bassin de récompenses
+Rewards Chest|Coffre de récompenses
+Rewards Guardian|Gardien des récompenses
+Rewards Niche|Niche de récompenses
+Rewards chest|Coffre de récompenses
+Rickety door|Porte branlante
+Rift|Faille
+Right side of a fireplace|Côté droit d'une cheminée
+Ring of Stones|Cercle de pierres
+Rinsing pool|Bassin de rinçage
+Rio the Parrot|Rio le perroquet
+Ripples|Ondulations
+River|Rivière
+Rock|Roche
+Rock Chair|Fauteuil à bascule
+Rock Formation|Formation rocheuse
+Rock Pile|Tas de pierres
+Rock of Colbansea|Roche de Colbansea
+Rock of Dalgroth|Roche de Dalgroth
+Rock slide|Éboulement
+Rockery|Rocaille
+Rockfall|Chute de pierres
+Rocking chair|Fauteuil à bascule
+Rocking unicorn|Licorne à bascule
+Rockpile|Tas de pierres
+Rocks|Rochers
+Rockslide|Éboulement
+Rocky Ledge|corniche rocheuse
+Rocky handholds|prises rocheuses
+Rocky outcrop|affleurement rocheux
+Rocky shore|rive rocheuse
+Rocky support|support rocheux
+Rocky surface|surface rocheuse
+Rocnar|Rocnar
+Rolled up rug|Tapis enroulé
+Rolled up rugs|Tapis enroulés
+Roof Entrance|Entrée par le toit
+Roof Exit|Sortie par le toit
+Roof edge|Bord du toit
+Roof top beams|Poutres du toit
+Rooftop Agility display|Agilité sur le toit
+Room number|Numéro de chambre
+Root|Racine
+Roots|Racines
+Rope|Corde
+Rope anchor|Ancrage de corde
+Rope bell-pull|Cordon de sonnette
+Rope bridge|Pont de corde
+Rope ladder|Échelle de corde
+Rope swing|Balançoire à corde
+Rope trawling net|Filet de pêche à la corde
+Ropes|Cordes
+Ropeswing|Balançoire à corde
+Rose|Rose
+Rose bush|Rosier
+Rosebush|Rosier
+Rosemary|Romarin
+Roses|Roses
+Rosewood Pyre|Bûcher en bois de rose
+Rosewood cargo hold|Cale en bois de rose
+Rosewood hull|Coque en bois de rose
+Rosewood mast and cotton sails|Mât en bois de rose et voiles en coton
+Rosewood tree|Arbre en bois de rose
+Rotten Apple Pile|Tas de pommes pourries
+Rotten sapling|Jeune arbre pourri
+Rotten village fence|Clôture de village pourrie
+Rotting branch|Branche pourrie
+Rotting leaves|Feuilles pourries
+Rotting log|Bûche pourrie
+Rotting tree|Arbre pourri
+Rough wall|Mur rugueux
+Rough-looking bush|Buisson à l'aspect rugueux
+Round shield|Bouclier rond
+Round table|Table ronde
+Row boat|Barque
+Rowboat|Barque
+Rowboat space|Espace pour barque
+Royal Accord of Twill|Accord royal de Twill
+Royal Wedding Invitation|Invitation au mariage royal
+Royal throne|Trône royal
+Rubber cap mushroom|Champignon à chapeau caoutchouteux
+Rubble|Débris
+Rubble Pile|Tas de débris
+Rug|Tapis
+Rug space|Espace pour tapis
+Ruined Monument|Monument en ruines
+Ruined Pillar|Pilier en ruine
+Ruined stall|Étal en ruine
+Rum Crate|Caisse de rhum
+Rune Essence|Essence runique
+Rune cannon|Canon runique
+Rune case 1|Coffret runique 1
+Rune case 2|Coffret runique 2
+Rune case 3|Coffret runique 3
+Rune case space|Espace pour coffret runique
+Rune dragon|Dragon runique
+Rune helm|Casque runique
+Rune keel|Quille runique
+Rune salvaging hook|Crochet de sauvetage runique
+Rune temple sign|Enseigne du temple runique
+Runestone basalt|Basalte runique
+Runic Altar|Autel runique
+Runic shield generator|Générateur de bouclier runique
+Runite Minor|Runite mineure
+Runite armour|Armure runique
+Runite rocks|Roches runiques
+Runner trap|Piège à coureurs
+Rusted anvil|Enclume rouillée
+Rusty chest|Coffre rouillé
+S.t.a.s.h chart|Carte S.t.a.s.h.
+Sabotaged mooring point|Point d'amarrage saboté
+Sack|Sac
+Sack of grapes|Sac de raisins
+Sack of raisins|Sac de raisins secs
+Sack pile|Pile de sacs
+Sacks|Sacs
+Sacred Bone Burner|Brûleur d'os sacré
+Sacred Forge|Forge sacrée
+Sacred water|Eau sacrée
+Sacrificial Pyre|Bûcher sacrificiel
+Sacrificial boat|Bateau sacrificiel
+Safe|Coffre-fort
+Safe kebbit burrow|Terrier de kebbit sécurisé
+Sailfish|Poisson voilier
+Sailors' Marker|Marqueur de marins
+Sails|Voiles
+Salt Deposit|Gisement de sel
+Saltpetre|Salpêtre
+Salvaging hook|Crochet de sauvetage
+Salvaging station|Station de sauvetage
+Salve Graveyard Portal|Portail du cimetière Salve
+Sample table|Table d'échantillons
+Sand|Sable
+Sand pile|Pile de sable
+Sand pit|Carrière de sable
+Sand storage|Stockage de sable
+Sandstone rocks|Rochers de grès
+Sandstorm|Tempête de sable
+Sandworm castings|Excréments de ver des sables
+Sandy's Coffee Mug|Tasse à café de Sandy
+Sandy's Desk|Bureau de Sandy
+Santa's log|Journal du Père Noël
+Sapling|Jeune arbre
+Saradomin Brazier|Brasero de Saradomin
+Saradomin Portal|Portail de Saradomin
+Saradomin altar|Autel de Saradomin
+Saradomin icon|Icône de Saradomin
+Saradomin staff|Bâton de Saradomin
+Saradomin star|Étoile de Saradomin
+Saradomin symbol|Symbole de Saradomin
+Sarah|Sarah
+Sarcophagus|Sarcophage
+Scabaras statue|Statue de Scabaras
+Scaffold|Échafaud
+Scarecrow|Épouvantail
+Scaregull|Mouette effrayeuse
+Schematic crate|Caisse schématique
+Scimitar Stall|Étal de cimeterres
+Scorched earth|Terre brûlée
+Scorching brazier|Brasero brûlant
+Score board|Tableau d'affichage
+Scoreboard|Tableau d'affichage
+Scrapey Bark Sign|Panneau en écorce de Scrapey
+Scrapey tree|Arbre de Scrapey
+Scratching post space|Espace pour griffoir
+Screen|Écran
+Scroll table|Table à parchemins
+Scrolls|Parchemins
+Scruffy's Grave|Tombe de Scruffy
+Scrying pool|Bassin divinatoire
+Sculpture|Sculpture
+Scuttle|Scuttle
+Seagull Nest|Nid de mouettes
+Seal of Amlodd|Sceau d'Amlodd
+Seal of Cadarn|Sceau de Cadarn
+Seal of Crwys|Sceau de Crwys
+Seal of Hefin|Sceau de Hefin
+Seal of Iorwerth|Sceau d'Iorwerth
+Seal of Ithell|Sceau d'Ithell
+Seal of Meilyr|Sceau de Meilyr
+Seal of Trahaearn|Sceau de Trahaearn
+Seal of the Forgotten|Sceau des Oubliés
+Sealed crate|Caisse scellée
+Seating space|Espace pour s'asseoir
+Seaweed|Algues
+Seaweed Pile|Tas d'algues
+Secret Door|Porte secrète
+Secret entrance|Entrée secrète
+Secure chest|Coffre sécurisé
+Security Barrier|Barrière de sécurité
+Seed Stall|Étal de graines
+Seed table|Table de graines
+Seed vault|Chambre forte de graines
+Seers weathervane|Girouette des voyants
+Seers' Village Portal|Portail du village des voyants
+Senntisten Portal|Portail de Senntisten
+Septic tendrils|Vignes septiques
+Servant's money bag|Sac d'argent du serviteur
+Seven|Sept
+Sewage water|Eaux usées
+Sewer pipe|Tuyau d'égout
+Sewer valve|Vanne d'égout
+Shackle table|Table de chaînes
+Shades of Mort'ton Rework Display|Ombres de Mort'ton Refonte de l'affichage
+Shadow crystal|Cristal d'ombre
+Shadow pool|Bassin d'ombre
+Shantay pass|Col de Shantay
+Sharhai's purse|Bourse de Sharhai
+Shark corpse|Cadavre de requin
+Sharp rock|Roche acérée
+Shattered League Display|Présentoir de la Ligue brisée
+Shaving stand|Support à rasoir
+Shelf|Étagère
+Shelf of thread|Étagère à fils
+Shelf space|Espace d'étagère
+Shelves|Étagères
+Shelves space|Espace d'étagères
+Shield|Bouclier
+Shield Display|Présentoir de bouclier
+Shield display|Présentoir de bouclier
+Shield easel|Chevalet de bouclier
+Shielded statue|Statue protégée
+Shifter corpse|Cadavre de changeant
+Shimmering barrier|Barrière scintillante
+Shimmering field|Champ scintillant
+Shimmering shoal|Banc scintillant
+Shining pool|Bassin brillant
+Ship in a bottle|Bateau en bouteille
+Ship's wheel|Barre à roue
+Shipwrights' Workbench|Établi de charpentier de marine
+Shipyard Portal|Portail du chantier naval
+Shoe box|Boîte à chaussures
+Shooting Star Display|Présentoir d'étoile filante
+Shooting Star Noticeboard|Tableau d'affichage d'étoile filante
+Shop Counter|Comptoir de boutique
+Shop counter|Comptoir de boutique
+Short fence|Clôture courte
+Short plant|Plante courte
+Shortcut|Raccourci
+Shot|Coup de feu
+Shrine|Sanctuaire
+Shrine of Ralos|Sanctuaire de Ralos
+Shrine of Twilight|Sanctuaire du Crépuscule
+Shrivelled plant|Plante flétrie
+Shuttered window|Fenêtre à volets
+Sickle logo|Logo en forme de faucille
+Sign|Panneau
+Sign post|Panneau indicateur
+Signpost|Panneau de signalisation
+Silk stall|Étal de soie
+Silver Chest|Coffre en argent
+Silver rocks|Rochers en argent
+Silver stall|Étal en argent
+Silverlight|Lumière argentée
+Simple arena|Arène simple
+Simple stove|Poêle simple
+Sinclair family beehive|Ruche de la famille Sinclair
+Sinclair family compost heap|Tas de compost de la famille Sinclair
+Sinclair family crest|Armoiries de la famille Sinclair
+Sinclair family fountain|Fontaine de la famille Sinclair
+Sinclair mansion drain|Égout du manoir Sinclair
+Singing Bowl|Bol chantant
+Singing bowl|Bol chantant
+Sinister barrel|Tonneau sinistre
+Sinister chest|Coffre sinistre
+Sink|Évier
+Sink space|Espace évier
+Sir Amik Varze|Sir Amik Varze
+Six|Six
+Skeletal remains|Restes squelettiques
+Skeleton|Squelette
+Skeleton guard|Garde squelette
+Skeleton throne|Trône squelette
+Skotizo display|Présentoir Skotizo
+Skrach Uglogwee|Skrach Uglogwee
+Skroom|Skroom
+Skull slope|Pente crânienne
+Skull torches|Torches crâniennes
+Skulls|Crânes
+Skullshield|Bouclier crânien
+Slab|Dalle
+Slashed bush|Buisson tailladé
+Slashed tapestry|Tapisserie tailladée
+Slayer Helmet display case|Vitrine du casque du tueur
+Slayer's Respite|Répit du tueur
+Sled|Traîneau
+Slight indentations|Légères indentations
+Slightly dark crystal|Cristal légèrement sombre
+Slimy residue|Résidus visqueux
+Slope|Pente
+Slug goo|Bave d'escargot
+Sluice Gate|Vanne
+Small Fossil Display|Petite exposition de fossiles
+Small Plant space 1|Petit espace végétal 1
+Small Plant space 2|Petit espace végétal 2
+Small boat|Petit bateau
+Small box|Petite boîte
+Small box hedge|Petite haie
+Small brazier|Petit brasero
+Small bush|Petit buisson
+Small chest|Petit coffre
+Small crystals|Petits cristaux
+Small fern|Petite fougère
+Small fishing net|Petit filet de pêche
+Small fountain|Petite fontaine
+Small furnace|Petit fourneau
+Small gravestone|Petite pierre tombale
+Small map|Petite carte
+Small orrery|Petit planétaire
+Small oven|Petit four
+Small plant|Petite plante
+Small plant 2|Petite plante 2
+Small shipwreck|Petite épave
+Small statue|Petite statue
+Small storage unit|Petit espace de rangement
+Smashed cage|Cage brisée
+Smashed chair|Chaise brisée
+Smashed table|Table brisée
+Smelly hole|Trou malodorant
+Smelly mushroom|Champignon malodorant
+Smoke|Fumée
+Smoke Cloud|Nuage de fumée
+Smoke Nerve Ending|Terminaison nerveuse enfumée
+Smokey well|Puits enfumé
+Smoky cave|Grotte enfumée
+Snape grass plant|Plante à herbe de Snape
+Snow|Neige
+Snow drift|Dérive de neige
+Snow shark|Requin des neiges
+Snowball pile|Tas de boules de neige
+Snowdrop patch|Parcelle de perce-neige
+Snowdrops|Perce-neige
+Snowfall|Chutes de neige
+Snowman|Bonhomme de neige
+Snowy Bush|Buisson enneigé
+Snowy bird hide|Cachette pour oiseaux enneigée
+Sofa|Canapé
+Soft clay rocks|Rochers d'argile molle
+Soil|Sol
+Solid black door|Porte noire massive
+Solid bronze door|Porte en bronze massif
+Solid gold door|Porte en or massif
+Solid silver door|Porte en argent massif
+Solid steel door|Porte en acier massif
+Sorcerer's Tower Portal|Portail de la tour du sorcier
+Soul Altar|Autel des âmes
+Soul Devourer|Dévoreur d'âmes
+Soul Obelisk|Obélisque des âmes
+Soul Wars Display|Exposition des guerres des âmes
+Soul Wars Portal|Portail des guerres des âmes
+Soul boat|Bateau des âmes
+Soul rift|Faille des âmes
+Space|Espace
+Spade|Pelle
+Sparkling pool|Bassin scintillant
+Spear wall|Mur de lances
+Speartrap|Piège à lances
+Specimen|Spécimen
+Specimen table|Table à spécimens
+Specimen tray|Plateau à spécimens
+Spectator potion|Potion du spectateur
+Spice Rack space|Espace pour étagère à épices
+Spice rack|Étagère à épices
+Spice stall|Étal d'épices
+Spider eggs|Œufs d'araignée
+Spiders' nest|Nid d'araignées
+Spiderwebs|Toiles d'araignée
+Spike|Piquet
+Spike trap|Piège à piquets
+Spiked cage|Cage à piquets
+Spikes|Piquets
+Spikey chain|Chaîne à piquets
+Spin Blades|Lames tournantes
+Spine mushroom|Champignon épineux
+Spinning Machine|Machine à filer
+Spinning blades|Lames tournantes
+Spinning light|Lumière tournante
+Spinning pipe|Tuyau tournant
+Spinning pole|Poteau tournant
+Spinning wheel|Roue à filer
+Spiny bush|Buisson épineux
+Spiny kraken corpse|Cadavre épineux de kraken
+Spirit Angler stats|Statistiques du pêcheur spirituel
+Spirit Tree|Arbre spirituel
+Spirit offerings|Offrandes spirituelles
+Spirit tendrils|Vignes spirituelles
+Spirit tree & fairy ring|Arbre spirituel et cercle de fées
+Spirit tree|Arbre spirituel
+Spit roast|Rôtis à la broche
+Splintered bark|Écorce éclatée
+Spooky Scarecrow|Épouvantail effrayant
+Spooky cauldron|Chaudron effrayant
+Spooky picture|Tableau effrayant
+Spooky wall lamp|Applique murale effrayante
+Spore|Spore
+Spotlight|Projecteur
+Sprouting Roots|Racines germantes
+Sq'irk tree|Arbre Sq'irk
+Square shield|Bouclier carré
+Stack of bricks|Pile de briques
+Stacked Boxes|Boîtes empilées
+Stacked barrels|Tonneaux empilés
+Staff barrel|Tonneau de bâton
+Staff of Bob the Cat|Bâton de Bob le chat
+Staging area steps|Marchepied
+Stagnant Lake|Lac stagnant
+Stagnant fish display|Poisson stagnant
+Stained glass|Vitrail
+Stair Space|Escalier
+Staircase|Escalier
+Stairs|Escaliers
+Stairs down|Escaliers descendants
+Stairs up|Escaliers ascendants
+Stairwell|Cage d'escalier
+Stalactite|Stalactite
+Stalagmites|Stalagmites
+Stall|Étal
+Stand|Support
+Standing Torch|Torche sur pied
+Standing spears|Lances sur pied
+Standing stone|Pierre sur pied
+Standing torch|Torche sur pied
+Stangled Plant|Plante étranglée
+Star chart|Carte du ciel
+Start|Début
+Statue|Statue
+Statue Plinth|Socle de statue
+Statue Space|Espace de statue
+Statue of Atlazora|Statue d'Atlazora
+Statue of Cyrisus|Statue de Cyrisus
+Statue of Dizana|Statue de Dizana
+Statue of Duradel|Statue de Duradel
+Statue of Emperor Imafore|Statue de l'empereur Imafore
+Statue of Freja|Statue de Freja
+Statue of Ghommal|Statue de Ghommal
+Statue of Glarial|Statue de Glarial
+Statue of Guthix|Statue de Guthix
+Statue of Hazelmere|Statue de Hazelmere
+Statue of King Maximus|Statue du roi Maximus
+Statue of Marhuitz|Statue de Marhuitz
+Statue of Prince Itzla|Statue du prince Itzla
+Statue of Queen Zyanyi|Statue de la reine Zyanyi
+Statue of Quoatlos|Statue de Quoatlos
+Statue of Saradomin|Statue de Saradomin
+Statue of Sloane|Statue de Sloane
+Statue of Taur|Statue de Taur
+Statue of Turael|Statue de Turael
+Statue of Xerna|Statue de Xerna
+Statue of Zamorak|Statue de Zamorak
+Statue of a king|Statue d'un roi
+Statue of a queen|Statue d'une reine
+Statue of a warrior|Statue d'un guerrier
+Statue space|Espace pour statue
+Statue steps|Marchepied pour statue
+Statuette in alcove|Statuette dans une alcôve
+Steam Generator|Générateur de vapeur
+Steam Nerve Ending|Terminaison nerveuse à vapeur
+Steam Pump|Pompe à vapeur
+Steam Vent|Évent à vapeur
+Steam generator|Générateur de vapeur
+Steam press|Presse à vapeur
+Steel Chest|Coffre en acier
+Steel cage|Cage en acier
+Steel candlesticks|Chandeliers en acier
+Steel cannon|Canon en acier
+Steel dragon|Dragon en acier
+Steel framed workbench|Établi à cadre en acier
+Steel helm|Casque en acier
+Steel keel|Quille en acier
+Steel range|Gamme en acier
+Steel salvaging hook|Crochet de récupération en acier
+Steel torches|Torches en acier
+Steel-plated door|Porte blindée en acier
+Steep roof|Toit en pente raide
+Steeple|Clocheton
+Stepladder|Escabeau
+Stepping Stone|Pierre de gué
+Stepping stone|Pierre de gué
+Stepping stones|Pierres de gué
+Steps|Marches
+Sticks|Bâtons
+Stile|Échelle
+Stolen Eggs|Œufs volés
+Stolen cabbage|Chou volé
+Stone|Pierre
+Stone Door|Porte en pierre
+Stone Pew|Banc en pierre
+Stone Relief|Relief en pierre
+Stone Staircase|Escalier en pierre
+Stone Tablet|Tablette en pierre
+Stone arch|Arche en pierre
+Stone block|Bloc de pierre
+Stone boat|Bateau en pierre
+Stone bridge|Pont en pierre
+Stone chest|Coffre en pierre
+Stone crate|Caisse en pierre
+Stone crusher|Concasseur de pierres
+Stone door|Porte en pierre
+Stone fireplace|Cheminée en pierre
+Stone of Jas|Pierre de Jas
+Stone pedestal|Piédestal en pierre
+Stone pool|Bassin en pierre
+Stone signpost|Panneau indicateur en pierre
+Stone space|Espace en pierre
+Stone stand|Support en pierre
+Stone table|Table en pierre
+Stone tablet|Tablette en pierre
+Stone wall|Mur en pierre
+Stonepine tree|Pin sylvestre
+Stones|Pierres
+Stool|Tabouret
+Stool hotspot|Point d'intérêt tabouret
+Stop!|Stop !
+Storage bin|Bac de rangement
+Storage crate|Caisse de rangement
+Storage shelves|Étagères de rangement
+Storage space|Espace de rangement
+Storage unit|Unité de rangement
+Storeroom Door|Porte de débarras
+Storm chaser's flag|Drapeau de chasseur de tempêtes
+Stormram|Bélier
+Stove|Poêle
+Stove space|Espace poêle
+Strange Barrier|Barrière étrange
+Strange Bells|Clochettes étranges
+Strange Chest|Coffre étrange
+Strange Egg|Œuf étrange
+Strange Machine|Machine étrange
+Strange Pool|Bassin étrange
+Strange Shell|Coquillage étrange
+Strange Tile|Carreau étrange
+Strange Vine|Vigne étrange
+Strange altar|Autel étrange
+Strange blocks|Blocs étranges
+Strange box|Boîte étrange
+Strange casket|Cercueil étrange
+Strange deposit|Dépôt étrange
+Strange floor|Sol étrange
+Strange grid|Grille étrange
+Strange hole|Trou étrange
+Strange looking stone|Pierre d'aspect étrange
+Strange passage|Passage étrange
+Strange plant|Plante étrange
+Strange pool|Bassin étrange
+Strange rocks|Rochers étranges
+Strange root|Racine étrange
+Strange roots|Racines étranges
+Strange shrine|Sanctuaire étrange
+Strange stone|Pierre étrange
+Strange tablet|Tablette étrange
+Strange vines|Vignes étranges
+Strange wall|Mur étrange
+Strangled Plant|Plante étranglée
+Strangled Tent|Tente étranglée
+Strangled Tree|Arbre étranglé
+Strategy table|Table de stratégie
+Strawberry plant|Plant de fraise
+Streak info|Informations sur les stries
+Strong Barrier|Barrière solide
+Strong Tree|Arbre solide
+Strong cell tile|Carreau cellulaire solide
+Strong rapids|Rapides solides
+Stronghold|Forteresse
+Structural pillar|Pilier structurel
+Struggling sapling|Jeune arbre en difficulté
+Strut|Montant
+Studded Leather|Cuir clouté
+Students' art|Art des étudiants
+Study Desk|Bureau d'étude
+Study desk|Bureau d'étude
+Stuffed swordfish|Espadon empaillé
+Stump|Souche
+Stump chair|Chaise en souche
+Sturdy wooden gate|Porte en bois solide
+Suit of Armour|Armure
+Suit of armour|Armure
+Sulliuscep|Sulliuscep
+Sulphur|Soufre
+Sulphur Vent|Évent de soufre
+Sulphur vent|Évent de soufre
+Summoning Circle|Cercle d'invocation
+Sun Statue|Statue du soleil
+Sunflower|Tournesol
+Sunflowers|Tournesols
+Sunken rowboat|Barque coulée
+Suntrap|Piège à soleil
+Super magic potion|Potion super magique
+Super ranging potion|Potion super longue portée
+Supplies|Fournitures
+Supply chest|Coffre de fournitures
+Supply crates|Caisses de fournitures
+Supply station|Station de ravitaillement
+Support|Support
+Supporting Pillar|Pilier de soutien
+Suspicious carrot scraps|Restes de carottes suspects
+Suspicious eyes|Yeux suspects
+Swamp Boaty|Bateau des marais
+Swamp bubbles|Bulles des marais
+Swamp cruiser's flag|Drapeau du croiseur des marais
+Swamp paste|Pâte des marais
+Swampy lamp|Lampe des marais
+Swampy sink|Évier des marais
+Swaying tree|Arbre qui se balance
+Sweet|Bonbon
+Sweetcorn|Maïs sucré
+Sweetcorn plant|Plante de maïs sucré
+Sweetgrub Mound|Monticule de vers blancs
+Sweetgrub Sign|Panneau de vers blancs
+Sweets|Bonbons
+Swings|Balançoires
+Sword cabinet|Armoire à épées
+Sword case|Étui à épées
+Sword in stone|Épée dans la pierre
+Sword space|Espace pour épée
+Swordshop Sign|Panneau de magasin d'épées
+Symbol|Symbole
+Symbol of life|Symbole de vie
+Table|Table
+Table and till|Table et caisse enregistreuse
+Table hotspot|Point d'intérêt de la table
+Table parts|Pièces de table
+Table saw|Scie à table
+Table space|Espace de table
+Tactical map frame|Cadre de carte tactique
+Tailor's materials|Matériel de tailleur
+Tall Reeds|Grands roseaux
+Tall box hedge|Haie de grandes boîtes
+Tall fancy hedge|Haie fantaisie haute
+Tall mirror|Grand miroir
+Tall plant|Grande plante
+Tall tree|Grand arbre
+Tangle of fishing nets|Enchevêtrement de filets de pêche
+Tangle vine|Vigne enchevêtrée
+Tanning Barrel|Tonneau de tannage
+Tanning line|Ligne de tannage
+Tap|Robinet
+Tapestry|Tapisserie
+Tar barrel|Tonneau de goudron
+Tar buckets|Seaux de goudron
+Target|Cible
+Tarnished chest|Coffre terni
+Tatty toy|Jouet usé
+Te salt rocks|Pierres de sel
+Tea stall|Stand de thé
+Teak altar|Autel en teck
+Teak armchair|Fauteuil en teck
+Teak armour case|Coffre d'armure en teck
+Teak bed|Lit en teck
+Teak birdhouse|Nichoir en teck
+Teak bookcase|Bibliothèque en teck
+Teak cabinet|Armoire en teck
+Teak cape rack|Porte-capes en teck
+Teak cargo hold|Cargo en teck
+Teak chair|Chaise en teck
+Teak chest|Coffre en teck
+Teak clock|Horloge en teck
+Teak cupboard|Armoire en teck
+Teak demon lectern|Pupitre démon en teck
+Teak dining bench|Banc de salle à manger en teck
+Teak display|Présentoir en teck
+Teak drawers|Tiroirs en teck
+Teak dresser|Commode en teck
+Teak eagle lectern|Pupitre aigle en teck
+Teak fancy dress box|Boîte à déguisements en teck
+Teak feeder|Mangeoire en teck
+Teak garden bench|Banc de jardin en teck
+Teak house|Maison en teck
+Teak hull|Coque en teck
+Teak kitchen table|Table de cuisine en teck
+Teak ladder|Échelle en teck
+Teak larder|Garde-manger en teck
+Teak lever|Levier en teck
+Teak magic wardrobe|Armoire magique en teck
+Teak mast and canvas sails|Mât et voiles en teck
+Teak portal|Portail en teck
+Teak prize chest|Coffre à trésor en teck
+Teak scratching post|Griffoir en teck
+Teak shelves|Étagères en teck
+Teak shelves 1|Étagères en teck 1
+Teak shelves 2|Étagères en teck 2
+Teak staircase|Escalier en teck
+Teak table|Table en teck
+Teak telescope|Télescope en teck
+Teak throne|Trône en teck
+Teak toy box|Coffre à jouets en teck
+Teak trapdoor|Trappe en teck
+Teak treasure chest|Coffre au trésor en teck
+Teak tree|Arbre en teck
+Teak wall decoration|Décoration murale en teck
+Teak wardrobe|Armoire en teck
+Tekton's journal|Journal de Tekton
+Telekinetic Teleport|Téléportation télékinétique
+Teleport Platform|Plateforme de téléportation
+Teleport crystal|Cristal de téléportation
+Teleport focus|Focalisateur de téléportation
+Teleport space|Espace de téléportation
+Teleport trap|Piège de téléportation
+Teleportation Device|Dispositif de téléportation
+Teleporter|Téléporteur
+Telescope|Télescope
+Telescope space|Espace télescopique
+Temp Stone 4 Zip|Pierre temporaire 4 Zip
+Temperature gauge|Jauge de température
+Temple Door|Porte du temple
+Temple door|Porte du temple
+Temple wall|Mur du temple
+Tempoross Display|Écran Tempoross
+Tendrils|Vignes
+Tent|Tente
+Tent door|Porte de tente
+Tentacle|Tentacule
+Tentacle pool|Bassin de tentacules
+Terminal|Terminal
+Termites|Termites
+Thana|Thana
+The Cloister Bell|La cloche du cloître
+The Font of Consumption|La source de la consommation
+The Great Expedition|La grande expédition
+The Grotesque Guardians' display|L'affichage des gardiens grotesques
+The Minor Conch|La conque mineure
+The Nightmare of Ashihama Display|L'affichage du cauchemar d'Ashihama
+The Overseer|Le surveillant
+The Sheared Ram|Le bélier tondu
+The desert|Le désert
+The middle of a fireplace|Le milieu d'une cheminée
+Theme space|Espace thématique
+Thick Web|Toile épaisse
+Thick vines|Vignes épaisses
+Thingymajig|Trucs
+Thistle|Chardon
+Thorns|Épines
+Thorny bushes|Buissons épineux
+Thorny hedge|Haie épineuse
+Three|Trois
+Thriving sapling|Jeune arbre florissant
+Throne|Trône
+Throne Room Door|Porte de la salle du trône
+Throne of Weiss|Trône de Weiss
+Throne space|Espace du trône
+Ticket Dispenser|Distributeur de tickets
+Tight Gap|Passage étroit
+Tight-gap|Passage étroit
+Tightrope|Corde raide
+Tile|Carreau
+Till|Caisse
+Timeline|Chronologie
+Tin Bath|Bain d'étain
+Tin ore vein|Veine de minerai d'étain
+Tin rocks|Roches d'étain
+Tinderbox|Amadou
+Tiny briny shrimp|Petite crevette salée
+Tiny storage unit|Petit espace de stockage
+Tip jar|Pot à pourboires
+Tip jar space|Espace pour pot à pourboires
+Toad spawn|Œufs de crapaud
+Toadstool|Champignon vénéneux
+Toadstools|Champignons vénéneux
+Toilet|Toilettes
+Tok-Xil|Tok-Xil
+Tomato plant|Plant de tomate
+Tomb|Tombe
+Tomb Door|Porte de tombe
+Tomb dolmen|Dolmen funéraire
+Tomb doors|Portes de tombe
+Tomb wall|Mur de tombe
+Tombs of Amascut Display|Tombe d'Amascut
+Tombstone|Pierre tombale
+Tool Storage|Rangement d'outils
+Tool space|Espace pour outils
+Tool store 1|Magasin d'outils 1
+Tool store 2|Magasin d'outils 2
+Tool store 3|Magasin d'outils 3
+Tool store 4|Magasin d'outils 4
+Tool store 5|Magasin d'outils 5
+Tools|Outils
+Topiary bush|Bush topiaire
+Topiary hedge|Haie topiaire
+Topiary space|Espace topiaire
+Torch|Torche
+Torches|Torches
+Torn curtains|Rideaux déchirés
+Torture Rack|Chevalet de torture
+Totem|Totem
+Totem Pole|Totem
+Totem pole|Totem
+Totem site|Site totémique
+Tower door|Porte de tour
+Toy Stall|Stand de jouets
+Toy box space|Espace pour boîte à jouets
+Toy bricks|Briques jouets
+Toy corner|Coin jouets
+Toy range|Gamme de jouets
+Toy sink|Évier jouet
+Toy table|Table jouet
+Toy weapons|Armes jouets
+Trahaearn Banner|Bannière Trahaearn
+Trail of chocolate|Traînée de chocolat
+Trailblazer League Display|Présentoir de la Ligue des pionniers
+Trailblazer globe|Globe des pionniers
+Trailblazer rug|Tapis des pionniers
+Training dummy|Mannequin d'entraînement
+Transdimensional notes|Notes transdimensionnelles
+Trap|Piège
+Trap Door|Trappe
+Trap space|Espace piège
+Trapdoor|Trappe
+Trapdoor space|Espace trappe
+Trapdoor table|Table trappe
+Trapdoor tunnel|Tunnel trappe
+Trashed Patch|Patch détruit
+Travel cart|Chariot de voyage
+Trawler net|Filet de chalut
+Treacherous rock|Roche traîtresse
+Treadmill|Tapis roulant
+Treasure Trail Statistics|Statistiques du sentier au trésor
+Treasure chest|Coffre au trésor
+Treasure chest space|Espace coffre au trésor
+Treasure hunt|Chasse au trésor
+Treasure pile|Pile de trésors
+Treasure space|Espace trésor
+Trebuchet|Trébuchet
+Tree|Arbre
+Tree Stump|Souche d'arbre
+Tree branch|Branche d'arbre
+Tree roots|Racines d'arbre
+Tree space|Espace arbre
+Tree stump|Souche d'arbre
+Trees|Arbres
+Trellis|Treillis
+Tribal Statue|Statue tribale
+Trip hammer|Marteau à bascule
+Tripwire|Fil piège
+Troll|Troll
+Troll Stew|Ragoût de troll
+Troll Stronghold Portal|Portail de la forteresse des trolls
+Troll ladder|Échelle de troll
+Trophy case space|Espace vitrine à trophées
+Trophy pedestal|Piédestal à trophées
+Tropical Leaves|Feuilles tropicales
+Tropical palm|Palmier tropical
+Tropical tree|Arbre tropical
+Trough|Auge
+Trumpet|Trompette
+Tube|Tube
+Tulips|Tulipes
+Tumeken statue|Statue de Tumeken
+Tunnel|Tunnel
+Tunnel entrance|Entrée de tunnel
+Tunnel wall|Mur de tunnel
+Twisted Crate|Caisse tordue
+Twisted League Display|Présentoir de la Ligue tordue
+Twisted bush|Buisson tordu
+Two|Deux
+TzHaar statue|Statue TzHaar
+Tzhaar-Ket-Rak Display|Présentoir Tzhaar-Ket-Rak
+Tzkal-Zuk display|Présentoir Tzkal-Zuk
+Ultimate force|Force ultime
+Umbral coral|Corail ombrageux
+Uncharged cells|Cellules non chargées
+Uncooking pot|Marmite non cuite
+Undead combat dummy|Mannequin de combat mort-vivant
+Underwall tunnel|Tunnel sous le mur
+Uneven stone ledges|Corniches en pierre inégales
+Unferth's patch|Patch d'Unferth
+Unicorn|Licorne
+Unicorn's head|Tête de licorne
+Unlocked Ogre chest|Coffre d'ogre déverrouillé
+Unoccupied Cormorant perch|Perchoir de cormoran inoccupé
+Unranked Group Ironman Display|Présentoir Ironman de groupe non classé
+Unstable Altar|Autel instable
+Urn|Urne
+Urt salt rocks|Roches de sel d'Urt
+Ushabti|Oushabti
+Utensil Stall|Étal d'ustensiles
+Utensil cupboard|Armoire à ustensiles
+Valve|Valve
+Vampyre statue|Statue de vampire
+Vanguard Judgement|Jugement de l'avant-garde
+Vanilla plant|Plante de vanille
+Vanity dresser|Coiffeuse
+Varrock Census|Recensement de Varrock
+Varrock Portal|Portail de Varrock
+Vase|Vase
+Vase set|Ensemble de vases
+Vault|Caveau
+Vault Door|Porte de cave
+Veg stall|Étal de légumes
+Vegetable Stall|Étal de légumes
+Vegetable stall|Étal de légumes
+Velvet chair|Chaise en velours
+Velvet round chair|Chaise ronde en velours
+Vent|Ventilation
+Ventriculus opening|Ouverture du ventricule
+Verzik Vitur display|Présentoir Verzik Vitur
+Veteran Flag|Drapeau de vétéran
+Vibrant shoal|Banc vibrant
+Viewer|Visionneuse
+Viewing orb|Orbe de vision
+Village fence|Clôture de village
+Vine|Vigne
+Vine flower|Fleur de vigne
+Vine ladder|Échelle de vigne
+Vine patch|Parcelle de vigne
+Vines|Vignes
+Violet flowers|Fleurs violettes
+Void|Vide
+Volcanic Forge|Forge volcanique
+Volcanic Furnace|Fourneau volcanique
+Volcanic chamber|Chambre volcanique
+Volcanic habitat|Habitat volcanique
+Volcanic sulphur|Soufre volcanique
+Volcanic theme|Thème volcanique
+Volcano Entrance|Entrée du volcan
+Vorkath display|Présentoir Vorkath
+Vorkath's head|Tête de Vorkath
+Vyre Orator|Orateur Vyre
+Vyre well|Puits Vyre
+Waiting Room Door|Porte de la salle d'attente
+Wall|Mur
+Wall Crusher|Broyeur mural
+Wall Pipe|Tuyau mural
+Wall chart|Tableau mural
+Wall chart space|Espace pour tableau mural
+Wall corner|Coin mural
+Wall map|Carte murale
+Wall of flame|Mur de flammes
+Wall opening|Ouverture murale
+Wall safe|Coffre-fort mural
+Wall support|Support mural
+Wallchart|Tableau mural
+Wand rack|Porte-baguettes
+War table|Table de guerre
+Wardrobe|Armoire
+Wardrobe space|Espace armoire
+Warm brazier|Brasero chaud
+Warmhandz' Fire|Feu de Warmhandz
+Warning Sign|Panneau d'avertissement
+Warning sign|Panneau d'avertissement
+Washbasin|Lavabo
+Waste Paper Bin|Corbeille à papier
+Watchtower Middle|Tour de guet centrale
+Water Altar|Autel d'eau
+Water Pool|Bassin d'eau
+Water Pump|Pompe à eau
+Water Sign|Panneau d'eau
+Water Source|Source d'eau
+Water Trough|Abreuvoir
+Water Valve|Vanne d'eau
+Water barrel|Baril d'eau
+Water containers|Conteneurs d'eau
+Water controls|Commandes d'eau
+Water pump|Pompe à eau
+Water rift|Faille d'eau
+Water rune|Rune d'eau
+Water station|Station d'eau
+Water storage|Réservoir d'eau
+Water tank|Réservoir d'eau
+Water tap|Robinet d'eau
+Water valve|Valve d'eau
+Water wheel|Roue à eau
+Waterbirth Island Portal|Portail de l'île de l'accouchement dans l'eau
+Waterfall|Cascade
+Waterfall rocks|Rochers de cascade
+Watering Hole|Point d'eau
+Waterlily|Nénuphar
+Waterlogged book|Livre détrempé
+Watermelons|Pastèques
+Waterpump|Pompe à eau
+Waterwheel|Roue à eau
+Waystone|Pierre de chemin
+Weak Barrier|Barrière fragile
+Weak cell tile|Carreau de cellule fragile
+Weak cells|Cellules fragiles
+Weapon Rack|Râtelier d'armes
+Weapon rack|Râtelier d'armes
+Weapon stall|Étal d'armes
+Weapons|Armes
+Weapons Barrel|Baril d'armes
+Weapons rack|Râtelier d'armes
+Weather vane|Girouette
+Weathered wall|Mur érodé
+Web tunnel|Tunnel de toile d'araignée
+Web|Toile d'araignée
+Weeds|Mauvaises herbes
+Weedy patch|Parcelle envahie par les mauvaises herbes
+Weeping wall|Mur ruisselant
+Weiss Portal|Portail Weiss
+Weiss banner|Bannière Weiss
+Well|Puits
+Well of Voyage|Puits du voyage
+Well stacked rocks|Rochers empilés
+West Ardougne Portal|Portail ouest d'Ardougne
+Wet driftwood|Bois flotté humide
+Whale-fall|Cadavre de baleine
+Wheat|Blé
+Wheelbarrow|Brouette
+Wheelchair|Fauteuil roulant
+Wheely table|Table à roulettes
+Whetstone|Pierre à aiguiser
+Whirlpool|Tourbillon
+Whirlwind|Tourbillon
+White Crystal|Cristal blanc
+White Tree patch|Parcelle d'arbres blancs
+White lily|Nénuphar blanc
+White pumpkins|Citrouilles blanches
+White rose bush patch|Buisson de roses blanches
+White roses|Roses blanches
+Whiteberry bush|Buisson de baies blanches
+Wild mushrooms|Champignons sauvages
+Wildblood Hops|Houblon sauvage
+Wilderness Boss Display|Affichage du boss de la nature sauvage
+Wilderness Ditch|Fossé de la nature sauvage
+Wilderness Obelisk|Obélisque de la nature sauvage
+Wilderness Sign|Panneau de la nature sauvage
+Wilderness Statistics|Statistiques de la nature sauvage
+Wilf|Wilf
+Wilhelm|Wilhelm
+Willow birdhouse|Nichoir en saule
+Willow totem|Totem en saule
+Willow tree|Saule
+Willow's bag|Sac de Willow
+Wilting wheat|Blé fané
+Winch|Treuil
+Winch bucket|Seau de treuil
+Wind catcher|Capteur de vent
+Wind tunnel|Tunnel aérodynamique
+Windchimes|Carillons éoliens
+Window|Fenêtre
+Window space|Espace fenêtre
+Windswept Tree|Arbre balayé par le vent
+Windswept tree|Arbre balayé par le vent
+Wine barrel|Tonneau de vin
+Wine rack|Casiers à vin
+Wine storage|Cave à vin
+Winter's End|Fin de l'hiver
+Wintertodt display|Affichage Wintertodt
+Wintertodt|Wintertodt
+Wintumber tree|Arbre Wintumber
+Wire machine|Machine à fil
+Wish-list|Liste de souhaits
+Witch's charm|Charme de sorcière
+Wizard Statue|Statue de sorcier
+Wizards Mind Bomb|Bombe mentale du sorcier
+Wizards' Tower Portal|Portail de la tour des sorciers
+Woad plant|Plante woad
+Wolf Den|Tanière du loup
+Wolf statue|Statue de loup
+Wood Basket|Panier en bois
+Wood dining table|Table à manger en bois
+Woodcutting stump|Souche de bois
+Wooden Beams|Poutres en bois
+Wooden barricade|Barricade en bois
+Wooden bed|Lit en bois
+Wooden bench|Banc en bois
+Wooden bookcase|Bibliothèque en bois
+Wooden cabinet|Armoire en bois
+Wooden cart|Chariot en bois
+Wooden chair|Chaise en bois
+Wooden crate|Caisse en bois
+Wooden cupboard|Placard en bois
+Wooden defence|Défense en bois
+Wooden doors|Portes en bois
+Wooden drawers|Tiroirs en bois
+Wooden dresser|Commode en bois
+Wooden fence|Clôture en bois
+Wooden hull|Coque en bois
+Wooden larder|Garde-manger en bois
+Wooden mast and linen sails|Mât en bois et voiles en lin
+Wooden platform|Plateforme en bois
+Wooden shelves|Étagères en bois
+Wooden shelves 1|Étagères en bois 1
+Wooden shelves 2|Étagères en bois 2
+Wooden shelves 3|Étagères en bois 3
+Wooden table|Table en bois
+Wooden torches|Torches en bois
+Wooden wardrobe|Armoire en bois
+Wooden workbench|Établi en bois
+Work board|Planche à travail
+Work table|Table à travail
+Workbench|Établi
+Workbench space|Espace d'établi
+World map display|Affichage de la carte du monde
+Wounded fairy|Fée blessée
+Wrath Altar|Autel de la colère
+Wreck|Épave
+Wreck of a Barracuda ship|Épave d'un navire Barracuda
+Wreck of the Balanced Ballast|Épave du Balanced Ballast
+Wreck of the Counterweight|Épave du Counterweight
+Wreck of the Desert Trout|Épave du Desert Trout
+Wreck of the Fearless Fremennik|Épave du Fearless Fremennik
+Wreck of the Floaty Boaty|Épave du Floaty Boaty
+Wreck of the Grandyozenaym|Épave du Grandyozenaym
+Wreck of the Last Song|Épave du Last Song
+Wreck of the Lunar Longship|Épave du Lunar Longship
+Wreck of the Pandemonium II|Épave du Pandemonium II
+Wreck of the Pandemonium III|Épave du Pandemonium III
+Wreck of the Salty Grouper|Épave du Salty Grouper
+Wreck of the Shelled Snail|Épave du Shelled Snail
+Wreck of the Soul Searcher|Épave du Soul Searcher
+Wreckage|Épave
+Wrecked boat|Bateau naufragé
+Xerician Statue|Statue xéricienne
+Xerna's Diadem|Diadème de Xerna
+Yama's throne|Trône de Yama
+Yanille Watchtower Portal|Portail de la tour de guet de Yanille
+Yanillian Hops|Houblon de Yanille
+Yellow Crystal|Cristal jaune
+Yellow door|Porte jaune
+Yellow flowers|Fleurs jaunes
+Yellow orchids|Orchidées jaunes
+Yellow pumpkins|Citrouilles jaunes
+Yellow spice|Épice jaune
+Yellowfin shoal|Banc de thons à nageoires jaunes
+Yew birdhouse|Nichoir en if
+Yew totem|Totem en if
+Yew tree|If
+Yommi tree|Arbre Yommi
+Young tree|Jeune arbre
+Zamorak Portal|Portail de Zamorak
+Zamorak altar|Autel de Zamorak
+Zamorak icon|Icône de Zamorak
+Zamorak symbol|Symbole de Zamorak
+Zamorak's statue|Statue de Zamorak
+Zapper|Zapper
+Zen theme|Thème Zen
+Zero|Zéro
+Zip line|Tyrolienne
+Zipline|Tyrolienne
+Zodiac symbols|Symboles du zodiaque
+Zombie Pirate's Locker|Coffre du pirate zombie
+Zul-Andra teleport|Téléportation Zul-Andra
+Zulrah display|Présentoir Zulrah

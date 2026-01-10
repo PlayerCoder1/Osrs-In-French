@@ -48,4 +48,14 @@ public interface FrenchTranslationConfig extends Config
     {
         return true;
     }
+
+    @ConfigItem(
+            keyName = "translateQuests",
+            name = "Translate quest list",
+            description = "Translate quest list title, quest names, Completed, and Quest Points"
+    )
+    default boolean translateQuests()
+    {
+        return true;
+    }
 }

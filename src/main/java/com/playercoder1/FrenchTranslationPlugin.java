@@ -38,9 +38,7 @@ public class FrenchTranslationPlugin extends Plugin
     private static final String CONTINUE_FR = "Cliquez ici pour continuer";
 
     private static final int CHATLEFT_GROUP = 231;
-
     private static final int CHATRIGHT_GROUP = 217;
-
     private static final int CHATMENU_GROUP = 219;
 
     private static final int CHILD_NAME = 4;
@@ -59,7 +57,6 @@ public class FrenchTranslationPlugin extends Plugin
     }
 
     private final Map<Integer, String> originalItemNames = new HashMap<>();
-
     private final Map<Integer, String> lastWidgetText = new HashMap<>();
 
     @Override
@@ -68,6 +65,8 @@ public class FrenchTranslationPlugin extends Plugin
         FrenchItemTranslations.init();
         FrenchNpcTranslations.init();
         FrenchDialogTranslations.init();
+        FrenchQuestTranslations.init();
+
         lastWidgetText.clear();
         log.info("French Translation started");
     }
@@ -239,7 +238,7 @@ public class FrenchTranslationPlugin extends Plugin
             return;
         }
 
-        if (!config.translateNpcs() && !config.translateItems())
+        if (!config.translateNpcs() && !config.translateItems() && !config.translateQuests())
         {
             return;
         }
@@ -263,17 +262,12 @@ public class FrenchTranslationPlugin extends Plugin
 
     private void translateDialogWidgets()
     {
-
         translateOneDialogWidget(CHATLEFT_GROUP, CHILD_NAME, true);
-
         translateOneDialogWidget(CHATLEFT_GROUP, CHILD_TEXT, false);
-
         translateOneDialogWidget(CHATLEFT_GROUP, CHILD_CONTINUE, false);
 
         translateOneDialogWidget(CHATRIGHT_GROUP, CHILD_NAME, true);
-
         translateOneDialogWidget(CHATRIGHT_GROUP, CHILD_TEXT, false);
-
         translateOneDialogWidget(CHATRIGHT_GROUP, CHILD_CONTINUE, false);
 
         translateChatmenuOptions();
@@ -307,7 +301,6 @@ public class FrenchTranslationPlugin extends Plugin
 
         if (isNameWidget)
         {
-
             if (config.translateNpcs())
             {
                 String frNpc = FrenchNpcTranslations.translateNpcName(visible);
@@ -407,6 +400,36 @@ public class FrenchTranslationPlugin extends Plugin
         final String prev = lastWidgetText.get(id);
         if (rawText.equals(prev))
         {
+            return;
+        }
+
+        final int iface = WidgetUtil.componentToInterface(id);
+
+        if (config.translateQuests() && iface == FrenchQuestTranslations.IFACE_QUESTLIST)
+        {
+
+            String labelOut = FrenchQuestTranslations.translateQuestPanelLabelsRaw(rawText);
+            if (labelOut != null)
+            {
+                widget.setText(labelOut);
+                lastWidgetText.put(id, labelOut);
+                return;
+            }
+
+            String visible = TranslationFileLoader.visibleText(rawText).trim();
+            if (!visible.isEmpty())
+            {
+                String frQuest = FrenchQuestTranslations.translateQuestName(visible);
+                if (frQuest != null)
+                {
+                    String newText = preserveOuterTagsFast(rawText, frQuest);
+                    widget.setText(newText);
+                    lastWidgetText.put(id, newText);
+                    return;
+                }
+            }
+
+            lastWidgetText.put(id, rawText);
             return;
         }
 

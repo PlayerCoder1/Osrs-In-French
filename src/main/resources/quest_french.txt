@@ -1,0 +1,200 @@
+Cook's Assistant|Assistant cuisinier
+Demon Slayer|Tueur de démons
+The Restless Ghost|Le fantôme agité
+Romeo & Juliet|Roméo et Juliette
+Sheep Shearer|Tondeur de moutons
+Shield of Arrav|Bouclier d'Arrav
+Ernest the Chicken|Ernest le poulet
+Vampyre Slayer|Tueur de vampires
+Imp Catcher|Chasseur de diablotins
+Prince Ali Rescue|Sauvetage du prince Ali
+Doric's Quest|Quête de Doric
+Black Knights' Fortress|Forteresse des chevaliers noirs
+Witch's Potion|Potion de sorcière
+The Knight's Sword|Épée du chevalier
+Goblin Diplomacy|Diplomatie gobeline
+Pirate's Treasure|Trésor des pirates
+Rune Mysteries|Mystères runiques
+Misthalin Mystery|Mystère de Misthalin
+The Corsair Curse|La malédiction du corsaire
+X Marks the Spot|X marque l'endroit
+Below Ice Mountain|Sous la montagne de glace
+Tutorial Island|Île du tutoriel
+Druidic Ritual|Rituel druidique
+Lost City|Cité perdue
+Witch's House|Maison de la sorcière
+Merlin's Crystal|Cristal de Merlin
+Heroes' Quest|Quête des héros
+Scorpion Catcher|Chasseur de scorpions
+Family Crest|Armoiries familiales
+Tribal Totem|Totem tribal
+Fishing Contest|Concours de pêche
+Monk's Friend|L'ami du moine
+Temple of Ikov|Temple d'Ikov
+Clock Tower|Tour de l'horloge
+Holy Grail|Saint Graal
+Tree Gnome Village|Village des gnomes des arbres
+Fight Arena|Arène de combat
+Hazeel Cult|Culte de Hazeel
+Sheep Herder|Berger
+Plague City|La ville pestiférée
+Sea Slug|Limace de mer
+Waterfall Quest|Quête de la cascade
+Biohazard|Risque biologique
+Jungle Potion|Potion de la jungle
+The Grand Tree|Le Grand Arbre
+Shilo Village|Village de Shilo
+Underground Pass|Passage souterrain
+Observatory Quest|Quête de l'observatoire
+The Tourist Trap|Le piège à touristes
+Watchtower|Tour de guet
+Dwarf Cannon|Canon nain
+Murder Mystery|Mystère meurtrier
+The Dig Site|Le site de fouilles
+Gertrude's Cat|Le chat de Gertrude
+Legends' Quest|Quête des légendes
+Big Chompy Bird Hunting|Chasse au grand oiseau carnivore
+Elemental Workshop I|Atelier élémentaire I
+Priest in Peril|Prêtre en péril
+Nature Spirit|Esprit de la nature
+Death Plateau|Plateau de la mort
+Troll Stronghold|Forteresse des trolls
+Tai Bwo Wannai Trio|Trio Tai Bwo Wannai
+Regicide|Régicide
+Eadgar's Ruse|La ruse d'Eadgar
+Shades of Mort'ton|Les ombres de Mort'ton
+The Fremennik Trials|Les épreuves des Fremennik
+Horror from the Deep|L'horreur des profondeurs
+Throne of Miscellania|Le trône de Miscellania
+Monkey Madness I|La folie des singes I
+Haunted Mine|La mine hantée
+Troll Romance|Romance troll
+In Search of the Myreque|À la recherche des Myreques
+Creature of Fenkenstrain|La créature de Fenkenstrain
+Roving Elves|Les elfes errants
+Ghosts Ahoy|Fantômes à l'horizon
+One Small Favour|Une petite faveur
+Mountain Daughter|La fille de la montagne
+Between a Rock...|Entre le marteau et l'enclume...
+The Feud|La querelle
+The Golem|Le golem
+Desert Treasure I|Trésor du désert I
+Icthlarin's Little Helper|Le petit assistant d'Icthlarin
+Tears of Guthix|Les larmes de Guthix
+Zogre Flesh Eaters|Les mangeurs de chair zogres
+The Lost Tribe|La tribu perdue
+The Giant Dwarf|Le nain géant
+Recruitment Drive|Campagne de recrutement
+Mourning's End Part I|La fin du deuil, partie I
+Forgettable Tale...|Une histoire oubliable...
+Garden of Tranquillity|Jardin de tranquillité
+A Tail of Two Cats|Une histoire de deux chats
+Wanted!|Recherché !
+Mourning's End Part II|Fin du deuil, partie II
+Rum Deal|Affaire louche
+Shadow of the Storm|L'ombre de la tempête
+Making History|Entrer dans l'histoire
+Ratcatchers|Les chasseurs de rats
+Spirits of the Elid|Les esprits des Elid
+Devious Minds|Esprits retors
+The Hand in the Sand|La main dans le sable
+Enakhra's Lament|La complainte d'Enakhra
+Cabin Fever|Fièvre des cabanes
+Fairytale I - Growing Pains|Conte de fées I - Les douleurs de la croissance
+Recipe for Disaster|Recette pour un désastre
+In Aid of the Myreque|À l'aide des Myreque
+A Soul's Bane|Le fléau d'une âme
+Rag and Bone Man I|Le chiffonnier I
+Swan Song|Le chant du cygne
+Royal Trouble|Problèmes royaux
+Death to the Dorgeshuun|Mort aux Dorgeshuun
+Fairytale II - Cure a Queen|Conte de fées II - Guérir une reine
+Lunar Diplomacy|Diplomatie lunaire
+The Eyes of Glouphrie|Les yeux de Glouphrie
+Darkness of Hallowvale|Les ténèbres de Hallowvale
+The Slug Menace|La menace des limaces
+Elemental Workshop II|Atelier élémentaire II
+My Arm's Big Adventure|La grande aventure de mon bras
+Enlightened Journey|Voyage éclairé
+Eagles' Peak|Le pic des aigles
+Animal Magnetism|Magnétisme animal
+Contact!|Contact !
+Cold War|Guerre froide
+The Fremennik Isles|Les îles Fremennik
+Tower of Life|Tour de la vie
+The Great Brain Robbery|Le grand vol de cerveaux
+What Lies Below|Ce qui se cache en dessous
+Olaf's Quest|La quête d'Olaf
+Another Slice of H.A.M.|Une autre tranche de H.A.M.
+Dream Mentor|Mentor de rêve
+Grim Tales|Contes sinistres
+King's Ransom|La rançon du roi
+Monkey Madness II|La folie des singes II
+Client of Kourend|Client de Kourend
+Rag and Bone Man II|Le chiffonnier II
+Bone Voyage|Bon voyage
+The Queen of Thieves|La reine des voleurs
+The Depths of Despair|Les profondeurs du désespoir
+Dragon Slayer I|Tueur de dragon I
+Dragon Slayer II|Tueur de dragon II
+Tale of the Righteous|Le conte des justes
+A Taste of Hope|Un avant-goût d'espoir
+Making Friends with My Arm|Se faire des amis avec mon bras
+The Forsaken Tower|La tour abandonnée
+The Ascent of Arceuus|L'ascension d'Arceuus
+Song of the Elves|Le chant des elfes
+The Fremennik Exiles|Les exilés fremenniks
+Sins of the Father|Les péchés du père
+A Porcine of Interest|Un porc intéressant
+Getting Ahead|Aller de l'avant
+A Night at the Theatre|Une nuit au théâtre
+A Kingdom Divided|Un royaume divisé
+Land of the Goblins|Le pays des gobelins
+Temple of the Eye|Le temple de l'œil
+Beneath Cursed Sands|Sous les sables maudits
+Sleeping Giants|Les géants endormis
+The Garden of Death|Le jardin de la mort
+Secrets of the North|Les secrets du nord
+Desert Treasure II - The Fallen Empire|Trésor du désert II - L'empire déchu
+The Path of Glouphrie|Le chemin de Glouphrie
+Children of the Sun|Les enfants du soleil
+Defender of Varrock|Le défenseur de Varrock
+Twilight's Promise|La promesse du crépuscule
+At First Light|À la première lueur
+Perilous Moons|Les lunes périlleuses
+The Ribbiting Tale of a Lily Pad Labour Dispute|L'histoire croassante d'un lit de nénuphars Conflit social
+While Guthix Sleeps|Pendant que Guthix dort
+The Heart of Darkness|Le cœur des ténèbres
+Death on the Isle|Mort sur l'île
+Meat and Greet|Viande et accueil
+Ethically Acquired Antiquities|Antiquités acquises de manière éthique
+The Curse of Arrav|La malédiction d'Arrav
+The Final Dawn|L'aube finale
+Shadows of Custodia|Les ombres de Custodia
+Scrambled!|Mélangé !
+Pandemonium|Pandémonium
+Prying Times|Une époque curieuse
+Current Affairs|Actualités
+Troubled Tortugans|Les Tortugans en difficulté
+Alfred Grimhand's Barcrawl|La tournée des bars d'Alfred Grimhand
+Barbarian Training|Entraînement barbare
+Bear Your Soul|Exposez votre âme
+Curse of the Empty Lord|La malédiction du Seigneur vide
+Daddy's Home|Papa est rentré
+The Enchanted Key|La clé enchantée
+Enter the Abyss|Entrez dans l'abîme
+Family Pest|Le fléau familial
+The Frozen Door|La porte gelée
+The General's Shadow|L'ombre du général
+His Faithful Servants|Ses fidèles serviteurs
+Hopespear's Will|La volonté de Hopespear
+In Search of Knowledge|À la recherche de la connaissance
+Into the Tombs|Dans les tombes
+Lair of Tarn Razorlor|Le repaire de Tarn Razorlor
+Mage Arena I|Arène des mages I
+Mage Arena II|Arène des mages II
+Skippy and the Mogres|Skippy et les Mogres
+Vale Totems|Les totems de la vallée
+Members' quests|Quêtes des membres
+Free Quests|Quêtes gratuites
+Miniquests|Mini-quêtes
