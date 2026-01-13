@@ -30,7 +30,7 @@ english|french
 3rd age druidic robe top|Haut de robe druidique du 3e âge
 3rd age druidic staff|Bâton druidique du 3e âge
 3rd age felling axe|Hache d'abattage du 3e âge
-3rd age full helmet|Casque complet du 3e âge
+3rd age full helmet|Heaume du 3e âge
 3rd age kiteshield|Bouclier en forme de cerf-volant du 3e âge
 3rd age longsword|Épée longue du 3e âge
 3rd age mage hat|Chapeau de mage du 3e âge
@@ -105,68 +105,68 @@ achievement diary cape|Cape du journal des réalisations
 achievement diary hood|Capuche du journal des réalisations
 acorn|Gland
 ad coupon|Coupon publicitaire
-adamant 2h sword|Épée à deux mains en adamantium
-adamant arrow|Flèche en adamantite
-adamant arrow pack|Paquet de flèches en adamantium
-adamant arrowtips|Pointes de flèches en adamantite
-adamant axe|Hache en adamantite
-adamant axe head|Tête de hache en adamantite
-adamant battleaxe|Hache de combat en adamantite
-adamant bolts|Flèches en adamantite
-adamant boots|Bottes en adamantite
-adamant brutal|Brutal en adamantium
-adamant cane|Canne en adamantium
-adamant cannon|Canon en adamantium
-adamant cannonball|Boulet de canon en adamantium
-adamant chainbody|Cotte de mailles en adamantium
-adamant chainshot cannonball|Boulet de canon en adamantium
-adamant claws|Griffes en adamantium
-adamant crossbow|Arbalète en adamantium
-adamant dagger|Dague en adamantium
-adamant dart|Fléchette en adamantium
-adamant dart tip|Pointe de fléchette en adamantium
-adamant defender|Défenseur en adamantium
-adamant dragon mask|Masque de dragon en adamantium
-adamant felling axe|Hache d'abattage en adamantium
-adamant fire arrow|Flèche enflammée en adamantium
-adamant full helm|Casque intégral en adamantium
-adamant gloves|Gants en adamantium
-adamant gold-trimmed set|Ensemble en adamantium bordé d'or
-adamant halberd|Hallebarde en adamantium
-adamant hasta|Hasta en adamantium
-adamant helm|Casque en adamantium
-adamant heraldic helm|Casque héraldique en adamantium
-adamant incendiary cannonball|Boulet de canon incendiaire en adamantium
-adamant javelin|Javelot en adamantium
-adamant javelin tips|Pointes de javelot en adamantium
-adamant keel|Quille en adamantium
-adamant keel parts|Pièces de quille en adamantium
-adamant kiteshield|Bouclier cerf-volant en adamantite
-adamant knife|Couteau en adamantite
-adamant longsword|Épée longue en adamantite
-adamant mace|Masse en adamantite
-adamant med helm|Casque moyen en adamantite
-adamant pick head|Tête de pioche en adamantite
-adamant pickaxe|Pioche en adamantite
-adamant platebody|Armure de plaques en adamantium
-adamant platelegs|Jambières en adamantium
-adamant plateskirt|Jupe en adamantium
-adamant salvaging hook|Crochet de sauvetage en adamantium
-adamant scimitar|Cimeterre en adamantium
-adamant seeds|Graines d'adamantium
-adamant set|Ensemble en adamantium
-adamant shield|Bouclier en adamantium
-adamant spear|Lance en adamantite
-adamant sq shield|Bouclier carré en adamantite
-adamant staff of collection|Bâton de collecte en adamantite
-adamant sword|Épée en adamantite
-adamant thrownaxe|Hache de lancer en adamantite
-adamant trimmed set|Ensemble en adamantite taillé
-adamant warhammer|Marteau de guerre en adamantite
-adamantite armour|Armure en adamantite
+adamant 2h sword|Épée à deux mains d'adamante
+adamant arrow|Flèche d'adamante
+adamant arrow pack|Paquet de flèches d'adamante
+adamant arrowtips|Pointes de flèches d'adamante
+adamant axe|Hache d'adamante
+adamant axe head|Tête de hache d'adamante
+adamant battleaxe|Hache de combat d'adamante
+adamant bolts|Carreaux d'adamante
+adamant boots|Bottes d'adamante
+adamant brutal|Brutal d'adamante
+adamant cane|Canne d'adamante
+adamant cannon|Canon d'adamante
+adamant cannonball|Boulet de canon d'adamante
+adamant chainbody|Cotte de mailles d'adamante
+adamant chainshot cannonball|Boulet de canon d'adamante
+adamant claws|Griffes d'adamante
+adamant crossbow|Arbalète d'adamante
+adamant dagger|Dague d'adamante
+adamant dart|Fléchette d'adamante
+adamant dart tip|Pointe de fléchette d'adamante
+adamant defender|Défenseur d'adamante
+adamant dragon mask|Masque de dragon d'adamante
+adamant felling axe|Hache d'abattage d'adamante
+adamant fire arrow|Flèche enflammée d'adamante
+adamant full helm|Heaume d'adamante
+adamant gloves|Gants d'adamante
+adamant gold-trimmed set|Ensemble d'adamante bordé d'or
+adamant halberd|Hallebarde d'adamante
+adamant hasta|Hasta d'adamante
+adamant helm|Barre en adamante
+adamant heraldic helm|Casque héraldique d'adamante
+adamant incendiary cannonball|Boulet de canon incendiaire d'adamante
+adamant javelin|Javelot d'adamante
+adamant javelin tips|Pointes de javelot d'adamante
+adamant keel|Quille en adamante
+adamant keel parts|Pièces de quille en adamante
+adamant kiteshield|Bouclier cerf-volant d'adamante
+adamant knife|Couteau d'adamante
+adamant longsword|Épée longue d'adamante
+adamant mace|Masse d'adamante
+adamant med helm|Casque d'adamante
+adamant pick head|Tête de pioche d'adamante
+adamant pickaxe|Pioche d'adamante
+adamant platebody|Cuirasse d'adamante
+adamant platelegs|Jambières d'adamante
+adamant plateskirt|Jupe d'adamante
+adamant salvaging hook|Crochet de sauvetage d'adamante
+adamant scimitar|Cimeterre d'adamante
+adamant seeds|Graines d'adamante
+adamant set|Ensemble d'adamante
+adamant shield|Bouclier d'adamante
+adamant spear|Lance d'adamante
+adamant sq shield|Bouclier carré d'adamante
+adamant staff of collection|Bâton de collecte d'adamante
+adamant sword|Épée d'adamante
+adamant thrownaxe|Hache de lancer d'adamante
+adamant trimmed set|Ensemble d'adamante taillé
+adamant warhammer|Marteau de guerre d'adamante
+adamantite armour|Armure d'adamante
 adamantite bar|Barre d'adamantite
-adamantite limbs|Membres en adamantite
-adamantite nails|Clous en adamantite
+adamantite limbs|Branches d'adamante
+adamantite nails|Clous d'adamante
 adamantite ore|Minerai d'adamantite
 adamantite ore fragment|Fragment de minerai d'adamantite
 address form|Formulaire d'adresse
@@ -321,7 +321,7 @@ ancient dragonhide set|Ancien ensemble en peau de dragon
 ancient effigy|Ancienne effigie
 ancient emblem|Ancien emblème
 ancient essence|Ancienne essence
-ancient full helm|Ancien casque intégral
+ancient full helm|Heaume ancien
 ancient globe|Ancien globe
 ancient godsword|Ancienne épée divine
 ancient gorilla greegree|Ancien gorille greegree
@@ -347,7 +347,7 @@ ancient page 1|Page ancienne 1
 ancient page 2|Page ancienne 2
 ancient page 3|Page ancienne 3
 ancient page 4|Page ancienne 4
-ancient platebody|Plate-corps ancienne
+ancient platebody|Cuirasse ancienne
 ancient platelegs|Jambes de plate ancienne
 ancient plateskirt|Jupe ancienne
 ancient relic|Relique ancienne
@@ -478,7 +478,7 @@ ardougne cloak 2|Cape d'Ardougne 2
 ardougne cloak 3|Cape d'Ardougne 3
 ardougne cloak 4|Cape d'Ardougne 4
 ardougne knight helm|Casque de chevalier d'Ardougne
-ardougne knight platebody|Plastron de chevalier d'Ardougne
+ardougne knight platebody|Cuirasse de chevalier d'Ardougne
 ardougne knight platelegs|Jambières de chevalier d'Ardougne
 ardougne knight tabard|Tabard de chevalier d'Ardougne
 ardougne max cape|Cape max d'Ardougne
@@ -505,7 +505,7 @@ armadyl d'hide body|Corps en cuir Armadyl
 armadyl d'hide boots|Bottes en cuir Armadyl
 armadyl d'hide shield|Bouclier en cuir Armadyl
 armadyl dragonhide set|Ensemble en cuir de dragon Armadyl
-armadyl full helm|Casque intégral Armadyl
+armadyl full helm|Heaume Armadyl
 armadyl godsword|Épée divine Armadyl
 armadyl godsword ornament kit|Kit d'ornement pour épée divine d'Armadyl
 armadyl halo|Halo d'Armadyl
@@ -518,7 +518,7 @@ armadyl page 2|Page d'Armadyl 2
 armadyl page 3|Page Armadyl 3
 armadyl page 4|Page Armadyl 4
 armadyl pendant|Pendentif Armadyl
-armadyl platebody|Plate-corps Armadyl
+armadyl platebody|Cuirasse Armadyl
 armadyl platelegs|Jambières Armadyl
 armadyl plateskirt|Jupe Armadyl
 armadyl robe legs|Jambes de robe Armadyl
@@ -672,7 +672,7 @@ bandos d'hide body|Corps en cuir de Bandos
 bandos d'hide boots|Bottes en cuir de Bandos
 bandos d'hide shield|Bouclier en cuir de Bandos
 bandos dragonhide set|Ensemble en cuir de dragon de Bandos
-bandos full helm|Casque intégral de Bandos
+bandos full helm|Heaume de Bandos
 bandos godsword|Épée divine de Bandos
 bandos godsword ornament kit|Kit d'ornements pour épée divine de Bandos
 bandos halo|Aura de Bandos
@@ -683,7 +683,7 @@ bandos page 1|Page 1 de Bandos
 bandos page 2|Page 2 de Bandos
 bandos page 3|Page 3 de Bandos
 bandos page 4|Page 4 de Bandos
-bandos platebody|Plastron de Bandos
+bandos platebody|Cuirasse de Bandos
 bandos platelegs|Jambières de Bandos
 bandos plateskirt|Jupe de Bandos
 bandos robe legs|Jambes de robe de Bandos
@@ -710,7 +710,7 @@ barbarian rod|Baguette barbare
 barbarian skills|Compétences barbares
 barbarian teleport|Téléportation barbare
 barbed arrow|Flèche barbelée
-barbed bolts|Flèches barbelées
+barbed bolts|Carreaux barbelées
 barcrawl card|Carte Barcrawl
 bark|Écorce
 bark sample|Échantillon d'écorce
@@ -903,7 +903,7 @@ black elegant legs|Jambes élégantes noires
 black elegant shirt|Chemise élégante noire
 black felling axe|Hache de bûcheron noire
 black flowers|Fleurs noires
-black full helm|Casque intégral noir
+black full helm|Heaume noir
 black gloves|Gants noirs
 black goblin mail|Cotte de mailles gobeline noire
 black gold-trimmed set|Ensemble noir bordé d'or
@@ -933,7 +933,7 @@ black necklace|Collier noir
 black partyhat|Chapeau de fête noir
 black pick head|Tête de pioche noire
 black pickaxe|Pioche noire
-black platebody|Plate-forme noire
+black platebody|Cuirasse noire
 black platelegs|Jambières noires
 black plateskirt|Jupe en plaques noire
 black prism|Prisme noir
@@ -1146,9 +1146,9 @@ blunt axe|Hache émoussée
 blunt scimitars|Cimeterres émoussés
 blurberry special|Spécial Blurberry
 blurite bar|Barre de blurite
-blurite bolts|Flèches en blurite
+blurite bolts|Carreaux en blurite
 blurite crossbow|Arbalète en blurite
-blurite limbs|Membres en blurite
+blurite limbs|Branches en blurite
 blurite ore|Minerai de blurite
 blurite sword|Épée en blurite
 board game piece|Pion de jeu de société
@@ -1393,8 +1393,8 @@ broken compass|Boussole cassée
 broken crab claw|Pince de crabe cassée
 broken crab shell|Carapace de crabe cassée
 broken device|Appareil cassé
-broken dragon hasta|Haste de dragon cassée
-broken dragon hook|Crochet de dragon cassé
+broken dragon hasta|Haste draconique cassée
+broken dragon hook|Crochet draconique cassé
 broken egg|Œuf cassé
 broken fishing rod|Canne à pêche cassée
 broken gingerbread|Pain d'épices cassé
@@ -1420,7 +1420,7 @@ bronze axe|Hache en bronze
 bronze axe head|Tête de hache en bronze
 bronze bar|Barre en bronze
 bronze battleaxe|Hache de combat en bronze
-bronze bolts|Flèches en bronze
+bronze bolts|Carreaux en bronze
 bronze boots|Bottes en bronze
 bronze brutal|Brutal en bronze
 bronze cannon|Canon en bronze
@@ -1439,7 +1439,7 @@ bronze feather|Plume en bronze
 bronze felling axe|Hache d'abattage en bronze
 bronze fire arrow|Flèche incendiaire en bronze
 bronze fist flag|Drapeau en bronze
-bronze full helm|Casque intégral en bronze
+bronze full helm|Heaume en bronze
 bronze gloves|Gants en bronze
 bronze gold-trimmed set|Ensemble en bronze orné d'or
 bronze halberd|Hallebarde en bronze
@@ -1458,7 +1458,7 @@ bronze key purple|Clé en bronze violette
 bronze key red|Clé en bronze rouge
 bronze kiteshield|Bouclier en bronze
 bronze knife|Couteau en bronze
-bronze limbs|Membres en bronze
+bronze limbs|Branches en bronze
 bronze locks|Serrures en bronze
 bronze longsword|Épée longue en bronze
 bronze mace|Masse en bronze
@@ -1726,7 +1726,7 @@ castle sketch 1|Croquis du château 1
 castle sketch 2|Croquis du château 2
 castle sketch 3|Croquis du château 3
 castle wars arrow|Flèche des guerres du château
-castle wars bolts|Flèches des guerres du château
+castle wars bolts|Carreaux des guerres du château
 castle wars bracelet|Bracelet des guerres du château
 castle wars supply crate|Caisse de ravitaillement des guerres du château
 castle wars ticket|Billet des guerres du château
@@ -1888,9 +1888,9 @@ clay|Argile
 clay attack stone|Pierre d'attaque en argile
 clay fireplace|Cheminée en argile
 clay head|Tête en argile
-clean full helm|Casque intégral propre
+clean full helm|Heaume propre
 clean necklace|Collier propre
-clean platebody|Plastron propre
+clean platebody|Cuirasse propre
 clean platelegs|Jambières propres
 cleaning cloth|Chiffon de nettoyage
 clear liquid|Liquide transparent
@@ -2057,7 +2057,7 @@ corrupted body|Corps corrompu
 corrupted bow|Arc corrompu
 corrupted bowstring|Cordage d'arc corrompu
 corrupted dark bow|Arc noir corrompu
-corrupted dragon claws|Griffes de dragon corrompues
+corrupted dragon claws|Griffes draconique corrompues
 corrupted dust|Poussière corrompue
 corrupted escape crystal|Cristal d'évasion corrompu
 corrupted halberd|Hallebarde corrompue
@@ -2072,7 +2072,7 @@ corrupted orb|Orbe corrompu
 corrupted ore|Minerai corrompu
 corrupted paddlefish|Poisson-spatule corrompu
 corrupted pickaxe|Pioche corrompue
-corrupted platebody|Plateforme corrompue
+corrupted platebody|Cuirasse corrompue
 corrupted platelegs|Jambes en plaques corrompues
 corrupted plateskirt|Jupe en plaques corrompue
 corrupted sceptre|Sceptre corrompu
@@ -2081,8 +2081,8 @@ corrupted shards|Éclats corrompus
 corrupted shark|Requin corrompu
 corrupted spike|Pique corrompue
 corrupted staff|Bâton corrompu
-corrupted statius's full helm|Casque intégral corrompu de Statius
-corrupted statius's platebody|Plastron corrompu de Statius
+corrupted statius's full helm|Heaume corrompu de Statius
+corrupted statius's platebody|Cuirasse corrompu de Statius
 corrupted statius's platelegs|Jambières corrompues de Statius
 corrupted teleport crystal|Cristal de téléportation corrompu
 corrupted tumeken's shadow|Ombre corrompue de Tumeken
@@ -2320,7 +2320,7 @@ crystal armour seed|Graine d'armure de cristal
 crystal axe|Hache de cristal
 crystal ball|Boule de cristal
 crystal blessing|Bénédiction de cristal
-crystal body|Corps de cristal
+crystal body|Plastron de cristal
 crystal bow|Arc de cristal
 crystal charm|Charme de cristal
 crystal chime|Carillon de cristal
@@ -2522,7 +2522,7 @@ decorative armour|Armure décorative
 decorative blood|Sang décoratif
 decorative boots|Bottes décoratives
 decorative emblem|Emblème décoratif
-decorative full helm|Casque intégral décoratif
+decorative full helm|Heaume décoratif
 decorative helm|Casque décoratif
 decorative pipe|Pipe décorative
 decorative rock|Roche décorative
@@ -2598,9 +2598,9 @@ diamond|Diamant
 diamond amulet|Amulette en diamant
 diamond bauble|Boule en diamant
 diamond bolt tips|Pointes de flèches en diamant
-diamond bolts|Flèches en diamant
+diamond bolts|Carreaux en diamant
 diamond bracelet|Bracelet en diamant
-diamond dragon bolts|Flèches de dragon en diamant
+diamond dragon bolts|Carreaux draconiques en diamant
 diamond key|Clé en diamant
 diamond necklace|Collier en diamant
 diamond ring|Bague en diamant
@@ -2700,97 +2700,97 @@ double eye patch|Cache-œil double
 double helix|Double hélice
 dr banikan|Dr Banikan
 draconic visage|Visage draconique
-dragon 2h sword|Épée à deux mains dragon
-dragon armour set|Ensemble d'armure dragon
-dragon arrow|Flèche de dragon
-dragon arrowtips|Pointes de flèches de dragon
-dragon axe|Hache de dragon
-dragon axe head|Tête de hache de dragon
-dragon bar|Barre de dragon
-dragon battleaxe|Hache de combat de dragon
+dragon 2h sword|Épée à deux mains draconique
+dragon armour set|Ensemble d'armure draconique
+dragon arrow|Flèche draconique
+dragon arrowtips|Pointes de flèches draconique
+dragon axe|Hache draconique
+dragon axe head|Tête de hache draconique
+dragon bar|Barre draconique
+dragon battleaxe|Hache de combat draconique
 dragon bitter|Bière dragon
-dragon bolts|Flèches de dragon
+dragon bolts|Carreaux draconiques
 dragon bonemeal|Farine d'os de dragon
 dragon bones|Os de dragon
 dragon boots|Bottes de dragon
-dragon boots ornament kit|Kit de décoration pour bottes de dragon
+dragon boots ornament kit|Kit de décoration pour bottes draconique
 dragon candle dagger|Couteau à bougie dragon
-dragon cane|Canne dragon
-dragon cannon|Canon dragon
-dragon cannon barrel|Canon dragon
-dragon cannon schematic|Schéma du canon dragon
-dragon cannonball|Boulet de canon dragon
-dragon chainbody|Cotte de mailles de dragon
-dragon chainbody ornament kit|Kit de décoration pour cotte de mailles de dragon
-dragon chainshot cannonball|Boulet de canon Dragon Chain Shot
-dragon claws|Griffes de dragon
-dragon claws ornament kit|Kit de décoration pour griffes de dragon
-dragon crossbow|Arbalète de dragon
-dragon dagger|Dague dragon
-dragon dart|Fléchette dragon
-dragon dart tip|Pointe de fléchette dragon
-dragon defender|Défenseur dragon
-dragon defender ornament kit|Kit d'ornements défenseur dragon
+dragon cane|Canne draconique
+dragon cannon|Baril de canon draconique
+dragon cannon barrel|Canon draconique
+dragon cannon schematic|Schéma du canon draconique
+dragon cannonball|Boulet de canon draconique
+dragon chainbody|Cotte de mailles draconique
+dragon chainbody ornament kit|Kit de décoration pour cotte de mailles draconique
+dragon chainshot cannonball|Boulet de canon draconique Chain Shot
+dragon claws|Griffes draconiques
+dragon claws ornament kit|Kit de décoration pour griffes draconiques
+dragon crossbow|Arbalète draconique
+dragon dagger|Dague draconique
+dragon dart|Fléchette draconique
+dragon dart tip|Pointe de fléchette draconique
+dragon defender|Défenseur draconique
+dragon defender ornament kit|Kit d'ornements défenseur draconique
 dragon egg|Œuf de dragon
-dragon felling axe|Hache d'abattage dragon
-dragon fire arrow|Flèche de feu dragon
-dragon full helm|Casque intégral dragon
-dragon full helm ornament kit|Kit d'ornements casque intégral dragon
-dragon gloves|Gants de dragon
-dragon halberd|Hallebarde de dragon
-dragon harpoon|Harpon de dragon
-dragon hasta|Hasta de dragon
-dragon helm|Casque dragon
-dragon helm schematic|Schéma du casque dragon
+dragon felling axe|Hache d'abattage draconique
+dragon fire arrow|Flèche de feu draconique
+dragon full helm|Heaume draconique
+dragon full helm ornament kit|Kit d'ornements Heaume draconique
+dragon gloves|Gants draconique
+dragon halberd|Hallebarde draconique
+dragon harpoon|Harpon draconique
+dragon hasta|Hasta draconique
+dragon helm|Casque draconique
+dragon helm schematic|Schéma du casque draconique
 dragon hunter crossbow|Arbalète chasseur de dragon
 dragon hunter lance|Lance chasseur de dragon
 dragon hunter wand|Baguette chasseur de dragon
 dragon impling jar|Pot impling dragon
-dragon incendiary cannonball|Boulet incendiaire dragon
+dragon incendiary cannonball|Boulet incendiaire draconique
 dragon inn tankard|Chope d'auberge dragon
-dragon javelin|Javelot dragon
-dragon javelin tips|Pointes de javelot dragon
-dragon keel|Quille dragon
-dragon keel parts|Pièces de quille dragon
-dragon keel schematic|Schéma de quille dragon
-dragon key|Clé dragon
-dragon key piece|Morceau de clé dragon
-dragon kiteshield|Bouclier cerf-volant dragon
-dragon kiteshield ornament kit|Kit d'ornements pour bouclier cerf-volant dragon
-dragon knife|Couteau dragon
-dragon legs/skirt ornament kit|Kit d'ornements pour jambes/jupe dragon
-dragon limbs|Membres dragon
-dragon longsword|Épée longue dragon
-dragon longsword imbue scroll|Parchemin d'imprégnation d'épée longue dragon
-dragon mace|Masse dragon
-dragon mace imbue scroll|Parchemin d'imprégnation de masse dragon
-dragon med helm|Casque moyen dragon
-dragon metal lump|Morceau de métal dragon
-dragon metal shard|Éclat de métal dragon
-dragon metal sheet|Feuille de métal dragon
-dragon metal slice|Tranche de métal dragon
-dragon nails|Clous dragon
+dragon javelin|Javelot draconique
+dragon javelin tips|Pointes de javelot draconique
+dragon keel|Quille draconique
+dragon keel parts|Pièces de quille draconique
+dragon keel schematic|Schéma de quille draconique
+dragon key|Clé draconique
+dragon key piece|Morceau de clé draconique
+dragon kiteshield|Bouclier cerf-volant draconique
+dragon kiteshield ornament kit|Kit d'ornements pour bouclier cerf-volant draconique
+dragon knife|Couteau draconique
+dragon legs/skirt ornament kit|Kit d'ornements pour jambes/jupe draconique
+dragon limbs|Branches draconique
+dragon longsword|Épée longue draconique
+dragon longsword imbue scroll|Parchemin d'imprégnation d'épée longue draconique
+dragon mace|Masse draconique
+dragon mace imbue scroll|Parchemin d'imprégnation de masse draconique
+dragon med helm|Casque draconique
+dragon metal lump|Morceau de métal draconique
+dragon metal shard|Éclat de métal draconique
+dragon metal sheet|Feuille de métal draconique
+dragon metal slice|Tranche de métal draconique
+dragon nails|Clous draconique
 dragon necklace|Collier dragon
-dragon pickaxe|Pioche de dragon
-dragon pickaxe upgrade kit|Kit d'amélioration de la pioche de dragon
-dragon platebody|Plate-forme de dragon
-dragon platebody ornament kit|Kit d'ornement pour plate-forme de dragon
-dragon platelegs|Jambières de dragon
-dragon plateskirt|Jupe de dragon
-dragon salvaging hook|Crochet de récupération dragon
-dragon salvaging hook schematic|Schéma du crochet de récupération dragon
-dragon scale dust|Poussière d'écaille de dragon
-dragon scimitar|Cimeterre dragon
-dragon scimitar ornament kit|Kit d'ornements pour cimeterre dragon
-dragon spear|Lance dragon
-dragon sq shield|Bouclier carré dragon
-dragon sq shield ornament kit|Kit d'ornements bouclier carré dragon
-dragon staff of collection|Bâton dragon de collection
-dragon sword|Épée dragon
-dragon thrownaxe|Hache de lancer dragon
-dragon token|Jeton dragon
-dragon warhammer|Marteau de guerre dragon
-dragon warhammer ornament kit|Kit d'ornements marteau de guerre dragon
+dragon pickaxe|Pioche  draconique
+dragon pickaxe upgrade kit|Kit d'amélioration de la pioche draconique
+dragon platebody|Cuirasse draconique
+dragon platebody ornament kit|Kit d'ornement pour cuirasse draconique
+dragon platelegs|Jambières draconique
+dragon plateskirt|Jupe draconique
+dragon salvaging hook|Crochet de récupération draconique
+dragon salvaging hook schematic|Schéma du crochet de récupération draconique
+dragon scale dust|Poussière d'écaille draconique
+dragon scimitar|Cimeterre draconique
+dragon scimitar ornament kit|Kit d'ornements pour cimeterre draconique
+dragon spear|Lance draconique
+dragon sq shield|Bouclier carré draconique
+dragon sq shield ornament kit|Kit d'ornements bouclier carré draconique
+dragon staff of collection|Bâton draconique de collection
+dragon sword|Épée draconique
+dragon thrownaxe|Hache de lancer draconique
+dragon token|Jeton draconique
+dragon warhammer|Marteau de guerre draconique
+dragon warhammer ornament kit|Kit d'ornements marteau de guerre draconique
 dragonbone necklace|Collier en os de dragon
 dragonfire shield|Bouclier de feu de dragon
 dragonfire ward|Protection de feu de dragon
@@ -2803,14 +2803,14 @@ dragonstone|Pierre de dragon
 dragonstone amulet|Amulette en pierre de dragon
 dragonstone armour set|Ensemble d'armure en pierre de dragon
 dragonstone bolt tips|Pointes de flèches en pierre de dragon
-dragonstone bolts|Flèches en pierre de dragon
+dragonstone bolts|Carreaux en pierre de dragon
 dragonstone boots|Bottes en pierre de dragon
 dragonstone bracelet|Bracelet en pierre de dragon
-dragonstone dragon bolts|Flèches dragon en pierre de dragon
-dragonstone full helm|Casque intégral en pierre de dragon
+dragonstone dragon bolts|Carreaux dragon en pierre de dragon
+dragonstone full helm|Heaume en pierre de dragon
 dragonstone gauntlets|Gantelets en pierre de dragon
 dragonstone key|Clé en pierre de dragon
-dragonstone platebody|Plastron en pierre de dragon
+dragonstone platebody|Cuirasse en pierre de dragon
 dragonstone platelegs|Jambières en pierre de dragon
 dragonstone ring|Bague en pierre de dragon
 drakan's medallion|Médaillon de Drakan
@@ -2959,7 +2959,7 @@ egg priest robe top|Haut de robe de prêtre en forme d'œuf
 egg whisk|Fouet en forme d'œuf
 eggnappin' sack|Sac à œufs
 eggnog|Lait de poule
-eggshell platebody|Plateau en coquille d'œuf
+eggshell platebody|Cuirasse en coquille d'œuf
 eggshell platelegs|Jambes en coquille d'œuf
 egniol potion|Potion Egniol
 ekeleshuun key|Clé Ekeleshuun
@@ -2996,7 +2996,7 @@ elias' message|Message d'Elias
 elidinis' broken ward|Protection brisée d'Elidinis
 elidinis' ward|Protection d'Elidinis
 elite black full helm|Casque noir d'élite
-elite black platebody|Plastron noir d'élite
+elite black platebody|Cuirasse noir d'élite
 elite black platelegs|Jambières noires d'élite
 elite calamity breeches|Culotte d'élite calamité
 elite calamity chest|Coffre élite calamité
@@ -3025,9 +3025,9 @@ embertailed jerboa|Jerboa à queue de braise
 emerald|Émeraude
 emerald amulet|Amulette d'émeraude
 emerald bolt tips|Pointes de flèches d'émeraude
-emerald bolts|Flèches d'émeraude
+emerald bolts|Carreaux d'émeraude
 emerald bracelet|Bracelet émeraude
-emerald dragon bolts|Flèches dragon émeraude
+emerald dragon bolts|Carreaux dragon émeraude
 emerald key|Clé émeraude
 emerald lantern|Lanterne émeraude
 emerald lens|Lentille émeraude
@@ -3201,7 +3201,7 @@ fairy mushroom|Champignon de fée
 fairy ring|Anneau de fées
 fake beak|Faux bec
 fake beard|Fausse barbe
-fake dragon hasta|Fausse lance de dragon
+fake dragon hasta|Fausse lance draconique
 fake man|Faux homme
 falador shield 1|Bouclier de Falador 1
 falador shield 2|Bouclier de Falador 2
@@ -3603,14 +3603,14 @@ gilded display|Présentoir doré
 gilded dragonhide set|Ensemble en cuir de dragon doré
 gilded dresser|Commode dorée
 gilded four-poster|Lit à baldaquin doré
-gilded full helm|Casque intégral doré
+gilded full helm|Heaume doré
 gilded hasta|Hasta doré
 gilded kiteshield|Bouclier en forme de cerf-volant doré
 gilded magic wardrobe|Armoire magique dorée
 gilded med helm|Casque médiéval doré
 gilded mounted head display|Tête montée dorée
 gilded pickaxe|Pioche dorée
-gilded platebody|Plateforme dorée
+gilded platebody|Cuirasse dorée
 gilded platelegs|Jambières dorées
 gilded plateskirt|Jupe dorée
 gilded portal nexus|Nœud de portail doré
@@ -3946,7 +3946,7 @@ ground thistle|Chardon moulu
 ground tooth|Dent moulue
 group ironman bracers|Brassards d'ironman de groupe
 group ironman helm|Casque d'ironman de groupe
-group ironman platebody|Plastron de groupe Ironman
+group ironman platebody|Cuirasse de groupe Ironman
 group ironman platelegs|Jambières de groupe Ironman
 growth potion|Potion de croissance
 grubby key|Clé sale
@@ -3985,7 +3985,7 @@ gurtob's fabric roll|Rouleau de tissu de Gurtob
 guthan's armour set|Ensemble d'armure de Guthan
 guthan's chainskirt|Jupe en mailles de Guthan
 guthan's helm|Casque de Guthan
-guthan's platebody|Plastron de Guthan
+guthan's platebody|Cuirasse de Guthan
 guthan's warspear|Lance de guerre de Guthan
 guthix armour set|Ensemble d'armure de Guthix
 guthix balance|Balance de Guthix
@@ -3999,7 +3999,7 @@ guthix d'hide body|Corps en peau de Guthix
 guthix d'hide boots|Bottes en peau de Guthix
 guthix d'hide shield|Bouclier en peau de Guthix
 guthix dragonhide set|Ensemble en peau de dragon de Guthix
-guthix full helm|Casque intégral de Guthix
+guthix full helm|Heaume de Guthix
 guthix halo|Halo de Guthix
 guthix icon|Icône de Guthix
 guthix kiteshield|Bouclier cerf-volant de Guthix
@@ -4011,7 +4011,7 @@ guthix page 1|Guthix page 1
 guthix page 2|Guthix page 2
 guthix page 3|Guthix page 3
 guthix page 4|Guthix page 4
-guthix platebody|Plastron de Guthix
+guthix platebody|Cuirasse de Guthix
 guthix platelegs|Jambières de Guthix
 guthix plateskirt|Jupe de Guthix
 guthix rest|Repos de Guthix
@@ -4084,13 +4084,13 @@ hard hat|Casque de chantier
 hard hidey hole|Cachette solide
 hard leather|Cuir dur
 hard leather shield|Bouclier en cuir dur
-hardcore group ironman bracers|Brassards de ferman hardcore
-hardcore group ironman helm|Casque de ferman hardcore
-hardcore group ironman platebody|Plastron de ferman hardcore
-hardcore group ironman platelegs|Jambières de ferman hardcore
-hardcore ironman helm|Casque de ferman hardcore
-hardcore ironman platebody|Plastron de ferman hardcore
-hardcore ironman platelegs|Jambières de ferman hardcore
+hardcore group ironman bracers|Brassards de ironman hardcore
+hardcore group ironman helm|Casque de ironman hardcore
+hardcore group ironman platebody|Cuirasse de ironman hardcore
+hardcore group ironman platelegs|Jambières de ironman hardcore
+hardcore ironman helm|Casque de ironman hardcore
+hardcore ironman platebody|Cuirasse de ironman hardcore
+hardcore ironman platelegs|Jambières de ironman hardcore
 hardleather body|Corps en cuir dur
 hardleather gloves|Gants en cuir dur
 hardy gout tuber|Tubercule résistant à la goutte
@@ -4406,73 +4406,73 @@ irit leaf|Feuille d'Irit
 irit potion|Potion d'Irit
 irit seed|Graine d'Irit
 irit tar|Goudron d'Irit
-iron 2h sword|Épée à deux mains en fer
-iron arrow|Flèche en fer
-iron arrowtips|Pointes de flèches en fer
-iron axe|Hache en fer
-iron axe head|Tête de hache en fer
+iron 2h sword|Épée à deux mains de fer
+iron arrow|Flèche de fer
+iron arrowtips|Pointes de flèches de fer
+iron axe|Hache de fer
+iron axe head|Tête de hache de fer
 iron bar|Barre de fer
-iron battleaxe|Hache de combat en fer
-iron bolts|Boulons en fer
-iron boots|Bottes en fer
-iron brutal|Brutal en fer
-iron cannon|Canon en fer
-iron cannonball|Boulet de canon en fer
-iron chainbody|Cotte de mailles en fer
-iron chainshot cannonball|Boulet de canon en fer
-iron claws|Griffes en fer
-iron crossbow|Arbalète en fer
-iron dagger|Dague en fer
-iron dart|Fléchette en fer
-iron dart tip|Pointe de fléchette en fer
-iron defender|Bouclier en fer
-iron dragon mask|Masque de dragon en fer
-iron felling axe|Hache d'abattage en fer
-iron fire arrow|Flèche enflammée en fer
-iron full helm|Casque intégral en fer
-iron gloves|Gants en fer
-iron gold-trimmed set|Ensemble en fer avec bordure dorée
-iron halberd|Hallebarde en fer
-iron hasta|Hasta en fer
-iron helm|Casque en fer
-iron incendiary cannonball|Boulet incendiaire en fer
-iron javelin|Javelot en fer
-iron javelin tips|Pointes de javelot en fer
-iron keel|Quille en fer
-iron keel parts|Pièces de quille en fer
-iron key|Clé en fer
-iron kiteshield|Bouclier en fer
-iron knife|Couteau en fer
-iron limbs|Membres en fer
-iron longsword|Épée longue en fer
-iron mace|Masse en fer
-iron med helm|Casque en fer
-iron nails|Clous en fer
+iron battleaxe|Hache de combat de fer
+iron bolts|Boulons de fer
+iron boots|Bottes de fer
+iron brutal|Brutal de fer
+iron cannon|Canon de fer
+iron cannonball|Boulet de canon de fer
+iron chainbody|Cotte de mailles de fer
+iron chainshot cannonball|Boulet de canon de fer
+iron claws|Griffes de fer
+iron crossbow|Arbalète de fer
+iron dagger|Dague de fer
+iron dart|Fléchette de fer
+iron dart tip|Pointe de fléchette de fer
+iron defender|Bouclier de fer
+iron dragon mask|Masque de dragon de fer
+iron felling axe|Hache d'abattage de fer
+iron fire arrow|Flèche enflammée de fer
+iron full helm|Heaume de fer
+iron gloves|Gants de fer
+iron gold-trimmed set|Ensemble de fer avec bordure dorée
+iron halberd|Hallebarde de fer
+iron hasta|Hasta de fer
+iron helm|Casque de fer
+iron incendiary cannonball|Boulet incendiaire de fer
+iron javelin|Javelot de fer
+iron javelin tips|Pointes de javelot de fer
+iron keel|Quille de fer
+iron keel parts|Pièces de quille de fer
+iron key|Clé de fer
+iron kiteshield|Bouclier de fer
+iron knife|Couteau de fer
+iron limbs|Branches de fer
+iron longsword|Épée longue de fer
+iron mace|Masse de fer
+iron med helm|Casque de fer
+iron nails|Clous de fer
 iron ore|Minerai de fer
 iron ore fragment|Fragment de minerai de fer
 iron oxide|Oxyde de fer
-iron pick head|Tête de pioche en fer
-iron pickaxe|Pioche en fer
-iron platebody|Plastron en fer
-iron platelegs|Jambières en fer
-iron plateskirt|Jupe en fer
-iron railings|Balustrade en fer
-iron salvaging hook|Crochet de récupération en fer
-iron scimitar|Cimeterre en fer
-iron set|Ensemble en fer
+iron pick head|Tête de pioche de fer
+iron pickaxe|Pioche de fer
+iron platebody|Cuirasse de fer
+iron platelegs|Jambières de fer
+iron plateskirt|Jupe de fer
+iron railings|Balustrade de fer
+iron salvaging hook|Crochet de récupération de fer
+iron scimitar|Cimeterre de fer
+iron set|Ensemble de fer
 iron sheet|Feuille de fer
-iron sickle|Faucille en fer
-iron spear|Lance en fer
-iron spit|Broche en fer
-iron sq shield|Bouclier carré en fer
-iron staff of collection|Bâton de collecte en fer
-iron sword|Épée en fer
-iron thrownaxe|Hache de jet en fer
+iron sickle|Faucille de fer
+iron spear|Lance de fer
+iron spit|Broche de fer
+iron sq shield|Bouclier carré de fer
+iron staff of collection|Bâton de collecte de fer
+iron sword|Épée de fer
+iron thrownaxe|Hache de jet de fer
 iron trimmed set|Ensemble garni de fer
-iron warhammer|Marteau de guerre en fer
-ironman helm|Casque d'homme de fer
-ironman platebody|Plastron d'homme de fer
-ironman platelegs|Jambières d'homme de fer
+iron warhammer|Marteau de guerre de fer
+ironman helm|Casque d'ironman
+ironman platebody|Cuirasse d'ironman
+ironman platelegs|Jambières d'ironman
 ironwood blowpipe|Sarbacane en bois de fer
 ironwood cargo hold|Cale en bois de fer
 ironwood hull|Coque en bois de fer
@@ -4500,9 +4500,9 @@ jad slippers|Pantoufles en jad
 jade|Jade
 jade amulet|Amulette en jade
 jade bolt tips|Pointes de flèches en jade
-jade bolts|Flèches de jade
+jade bolts|Carreaux de jade
 jade bracelet|Bracelet de jade
-jade dragon bolts|Flèches de dragon de jade
+jade dragon bolts|Carreaux draconique de jade
 jade machete|Machette de jade
 jade necklace|Collier de jade
 jade ring|Bague de jade
@@ -4719,11 +4719,11 @@ lantern lens|Lentille de lanterne
 larch blowpipe|Sarbacane en mélèze
 larch logs|Bûches de mélèze
 larch plank|Planche de mélèze
-large adamant keel parts|Grandes pièces de quille en adamantium
+large adamant keel parts|Grandes pièces de quille d'adamante
 large bronze keel parts|Grandes pièces de quille en bronze
 large camphor hull parts|Grandes pièces de coque en camphre
 large cog|Grande roue dentée
-large dragon keel parts|Grandes pièces de quille de dragon
+large dragon keel parts|Grandes pièces de quille draconique
 large egg|Grand œuf
 large enriched bone|Grand os enrichi
 large fossilised limbs|Grands membres fossilisés
@@ -4757,7 +4757,7 @@ large salvage|Grande récupération
 large snowball|Grande boule de neige
 large spade|Grande bêche
 large statue|Grande statue
-large steel keel parts|Grandes pièces de quille en acier
+large steel keel parts|Grandes pièces de quille d'acier
 large storage unit|Grand meuble de rangement
 large teak bed|Grand lit en teck
 large teak hull parts|Grands morceaux de coque en teck
@@ -5127,9 +5127,9 @@ manta ray|Raie manta
 manta ray fin|Aileron de raie manta
 manta ray skin|Peau de raie manta
 manual|Manuel
-maoma's full helm|Casque intégral de Maoma
+maoma's full helm|Heaume de Maoma
 maoma's great helm|Grand casque de Maoma
-maoma's med helm|Heaume moyen de Maoma
+maoma's med helm|Casque de Maoma
 map part|Partie de carte
 map piece|Pièce de carte
 map scrap|Morceau de carte
@@ -5188,9 +5188,9 @@ masori armour set|Ensemble d'armure Masori
 masori assembler|Assembleur Masori
 masori assembler max cape|Cape maximale de l'assembleur Masori
 masori assembler max hood|Capuche maximale de l'assembleur Masori
-masori body|Corps Masori
+masori body|Plastron Masori
 masori chainskirt|Jupe-chaîne Masori
-masori chaps|Chaps Masori
+masori chaps|Jambières Masori
 masori chestplate|Plastron Masori
 masori crafting kit|Kit d'artisanat Masori
 masori headdress|Coiffe Masori
@@ -5309,66 +5309,66 @@ mist battlestaff|Bâton de combat brumeux
 mist rune|Rune de brume
 mith grapple|Grappin en mithril
 mith grapple tip|Pointe de grappin en mithril
-mithril 2h sword|Épée à deux mains en mithril
-mithril armour|Armure en mithril
-mithril arrow|Flèche en mithril
-mithril arrowtips|Pointes de flèches en mithril
-mithril axe|Hache en mithril
-mithril axe head|Tête de hache en mithril
-mithril bar|Barre en mithril
-mithril battleaxe|Hache de combat en mithril
-mithril bolts|Flèches en mithril
-mithril boots|Bottes en mithril
-mithril brutal|Brutal en mithril
-mithril cannon|Canon en mithril
-mithril cannonball|Boulet de canon en mithril
-mithril chainbody|Cotte de mailles en mithril
-mithril chainshot cannonball|Boulet de canon en mithril
-mithril claws|Griffes en mithril
-mithril crossbow|Arbalète en mithril
-mithril dagger|Dague en mithril
-mithril dart|Fléchette en mithril
-mithril dart tip|Pointe de fléchette en mithril
-mithril defender|Bouclier en mithril
-mithril dragon mask|Masque de dragon en mithril
-mithril felling axe|Hache en mithril
-mithril fire arrow|Flèche enflammée en mithril
-mithril full helm|Casque intégral en mithril
-mithril gloves|Gants en mithril
-mithril gold-trimmed set|Ensemble en mithril bordé d'or
-mithril halberd|Hallebarde en mithril
-mithril hasta|Haste en mithril
-mithril helm|Casque en mithril
-mithril incendiary cannonball|Boulet de canon incendiaire en mithril
-mithril javelin|Javelot en mithril
-mithril javelin tips|Pointes de javelot en mithril
-mithril keel|Quille en mithril
-mithril keel parts|Pièces de quille en mithril
-mithril kiteshield|Bouclier en mithril
-mithril knife|Couteau en mithril
-mithril limbs|Membres en mithril
-mithril longsword|Épée longue en mithril
-mithril mace|Masse en mithril
-mithril med helm|Casque en mithril
-mithril nails|Clous en mithril
+mithril 2h sword|Épée à deux mains de mithril
+mithril armour|Armure de mithril
+mithril arrow|Flèche de mithril
+mithril arrowtips|Pointes de flèches de mithril
+mithril axe|Hache de mithril
+mithril axe head|Tête de hache de mithril
+mithril bar|Barre de mithril
+mithril battleaxe|Hache de combat de mithril
+mithril bolts|Carreaux de mithril
+mithril boots|Bottes de mithril
+mithril brutal|Brutal de mithril
+mithril cannon|Canon de mithril
+mithril cannonball|Boulet de canon de mithril
+mithril chainbody|Cotte de mailles de mithril
+mithril chainshot cannonball|Boulet de canon de mithril
+mithril claws|Griffes de mithril
+mithril crossbow|Arbalète de mithril
+mithril dagger|Dague de mithril
+mithril dart|Fléchette de mithril
+mithril dart tip|Pointe de fléchette de mithril
+mithril defender|Bouclier de mithril
+mithril dragon mask|Masque de dragon de mithril
+mithril felling axe|Hache de mithril
+mithril fire arrow|Flèche enflammée de mithril
+mithril full helm|Heaume de mithril
+mithril gloves|Gants de mithril
+mithril gold-trimmed set|Ensemble de mithril bordé d'or
+mithril halberd|Hallebarde de mithril
+mithril hasta|Haste de mithril
+mithril helm|Barre en mithril
+mithril incendiary cannonball|Boulet de canon incendiaire de mithril
+mithril javelin|Javelot de mithril
+mithril javelin tips|Pointes de javelot de mithril
+mithril keel|Quille de mithril
+mithril keel parts|Pièces de quille de mithril
+mithril kiteshield|Bouclier de mithril
+mithril knife|Couteau de mithril
+mithril limbs|Branches de mithril
+mithril longsword|Épée longue de mithril
+mithril mace|Masse de mithril
+mithril med helm|Casque de mithril
+mithril nails|Clous de mithril
 mithril ore|Minerai de mithril
 mithril ore fragment|Fragment de minerai de mithril
-mithril pick head|Tête de pioche en mithril
-mithril pickaxe|Pioche en mithril
-mithril platebody|Plateforme en mithril
-mithril platelegs|Jambières en mithril
-mithril plateskirt|Écran en mithril
+mithril pick head|Tête de pioche de mithril
+mithril pickaxe|Pioche de mithril
+mithril platebody|Cuirasse de mithril
+mithril platelegs|Jambières de mithril
+mithril plateskirt|Tassette de mithril
 mithril salvaging hook|Crochet de récupération en mithril
-mithril scimitar|Cimeterre en mithril
+mithril scimitar|Cimeterre de mithril
 mithril seeds|Graines en mithril
-mithril set|Ensemble en mithril
-mithril spear|Lance en mithril
-mithril sq shield|Bouclier carré en mithril
-mithril staff of collection|Bâton de collecte en mithril
-mithril sword|Épée en mithril
-mithril thrownaxe|Hache de lancer en mithril
-mithril trimmed set|Ensemble en mithril taillé
-mithril warhammer|Marteau de guerre en mithril
+mithril set|Ensemble de mithril
+mithril spear|Lance de mithril
+mithril sq shield|Bouclier carré de mithril
+mithril staff of collection|Bâton de collecte de mithril
+mithril sword|Épée de mithril
+mithril thrownaxe|Hache de lancer de mithril
+mithril trimmed set|Ensemble de mithril taillé
+mithril warhammer|Marteau de guerre de mithril
 mixalot|Mixalot
 mixed blast|Explosion mixte
 mixed blizzard|Blizzard mixte
@@ -5662,7 +5662,7 @@ nutcracker staff|Bâton de casse-noisettes
 nutcracker top|Haut de casse-noisettes
 nutcracker trousers|Pantalon de casse-noisettes
 oak altar|Autel en chêne
-oak and steel cage|Cage en chêne et en acier
+oak and steel cage|Cage en chêne et d'acier
 oak armchair|Fauteuil en chêne
 oak armour case|Coffre à armure en chêne
 oak bed|Lit en chêne
@@ -5728,10 +5728,10 @@ oak wall decoration|Décoration murale en chêne
 oak wardrobe|Armoire en chêne
 oak workbench|Établi en chêne
 oathplate armour set|Ensemble d'armure en plaques jurées
-oathplate chest|Coffre en plaques jurées
-oathplate helm|Casque en plaques jurées
-oathplate legs|Jambières en plaques jurées
-oathplate shards|Éclats en plaques jurées
+oathplate chest|Cuirasse du serment
+oathplate helm|Heaume du serment
+oathplate legs|Jambières du serment
+oathplate shards|Éclats d'armure du serment
 obelisk|Obélisque
 observatory lens|Lentille d'observatoire
 obsidian amulet|Amulette d'obsidienne
@@ -5740,7 +5740,7 @@ obsidian cape|Cape d'obsidienne
 obsidian decorative bench|Banc décoratif d'obsidienne
 obsidian fence|Clôture d'obsidienne
 obsidian helmet|Casque d'obsidienne
-obsidian platebody|Plastron d'obsidienne
+obsidian platebody|Cuirasse d'obsidienne
 obsidian platelegs|Jambières d'obsidienne
 occult altar|Autel occulte
 occult necklace|Collier occulte
@@ -5821,18 +5821,18 @@ onions|Oignons
 onyx|Onyx
 onyx amulet|Amulette en onyx
 onyx bolt tips|Pointes de flèches en onyx
-onyx bolts|Flèches en onyx
+onyx bolts|Carreaux en onyx
 onyx bracelet|Bracelet en onyx
-onyx dragon bolts|Flèches dragon en onyx
+onyx dragon bolts|Carreaux draconiques en onyx
 onyx key|Clé en onyx
 onyx necklace|Collier en onyx
 onyx ring|Bague en onyx
 opal|Opale
 opal amulet|Amulette en opale
 opal bolt tips|Pointes de flèches en opale
-opal bolts|Flèches en opale
+opal bolts|Carreaux en opale
 opal bracelet|Bracelet en opale
-opal dragon bolts|Flèches dragon en opale
+opal dragon bolts|Carreaux draconiques en opale
 opal machete|Machete opale
 opal necklace|Collier opale
 opal ring|Bague opale
@@ -5963,7 +5963,7 @@ pear tree sapling|Jeune poirier
 pearl barbarian rod|Canne de barbare en perle
 pearl bolt tips|Pointes de boulons en perle
 pearl bolts|Boulons en perle
-pearl dragon bolts|Boulons de dragon en perle
+pearl dragon bolts|Boulons draconique en perle
 pearl fishing rod|Canne à pêche en perle
 pearl fly fishing rod|Canne à pêche à la mouche en perle
 pegasian boots|Bottes pégasiennes
@@ -6065,8 +6065,8 @@ pink robe bottoms|Bas de robe rose
 pink robe top|Haut de robe rose
 pink rose seed|Graine de rose rose
 pink skirt|Jupe rose
-pink stained full helm|Casque intégral teinté rose
-pink stained platebody|Plastron teinté rose
+pink stained full helm|Heaume teinté rose
+pink stained platebody|Cuirasse teinté rose
 pink stained platelegs|Jambes teintées roses
 pink sweets|Bonbons roses
 pipe|Pipe
@@ -6337,9 +6337,9 @@ rada's blessing 4|Bénédiction de Rada 4
 rada's census|Recensement de Rada
 rada's journey|Voyage de Rada
 radiant fibre|Fibre radieuse
-radiant oathplate chest|Coffre à plaques de serment radieuses
-radiant oathplate helm|Casque à plaques de serment radieuses
-radiant oathplate legs|Jambières à plaques de serment radieuses
+radiant oathplate chest|Cuirasse radieuse du serment
+radiant oathplate helm|Heaume radieux du serment
+radiant oathplate legs|Jambières radieuses du serment
 radiant pearl|Perle radieuse
 radimus notes|Notes de Radimus
 raging echoes adamant trophy|Trophée adamantin des échos rageurs
@@ -6349,7 +6349,7 @@ raging echoes bronze trophy|Trophée de bronze des échos rageurs
 raging echoes cane|Canne des échos rageurs
 raging echoes curtains|Rideaux des échos rageurs
 raging echoes death scroll|Parchemin de mort des échos rageurs
-raging echoes dragon trophy|Trophée de dragon des échos rageurs
+raging echoes dragon trophy|Trophée draconique des échos rageurs
 raging echoes hat|Chapeau des échos déchaînés
 raging echoes iron trophy|Trophée en fer des échos déchaînés
 raging echoes mithril trophy|Trophée en mithril des échos déchaînés
@@ -6389,11 +6389,11 @@ ranarr potion|Potion Ranarr
 ranarr seed|Graine Ranarr
 ranarr weed|Herbe Ranarr
 rancid turkey|Dinde rance
-range|Gamme
-ranged dolmen|Dolmen à distance
-ranger boots|Bottes de ranger
-ranger gloves|Gants de ranger
-ranger hat|Chapeau de ranger
+range|Fourneaux
+ranged dolmen|Dolmen d'archerie
+ranger boots|Bottes du ranger
+ranger gloves|Gants du ranger
+ranger hat|Chapeau du ranger
 ranger path starter kit|Kit de démarrage pour sentier de ranger
 rangers' tights|Collants de ranger
 rangers' tunic|Tunique de ranger
@@ -6545,7 +6545,7 @@ red crab meat|Viande de crabe rouge
 red crab paste|Pâte de crabe rouge
 red crystal|Cristal rouge
 red d'hide body|Corps en peau rouge
-red d'hide chaps|Chaps en peau rouge
+red d'hide chaps|Jambière en peau rouge
 red d'hide shield|Bouclier en peau rouge
 red d'hide vambraces|Vambraces en peau rouge
 red destabiliser|Déstabilisateur rouge
@@ -6818,9 +6818,9 @@ rubium splinters|Éclats de rubium
 ruby|Rubis
 ruby amulet|Amulette en rubis
 ruby bolt tips|Pointes de flèches en rubis
-ruby bolts|Flèches en rubis
+ruby bolts|Carreaux en rubis
 ruby bracelet|Bracelet en rubis
-ruby dragon bolts|Flèches de dragon en rubis
+ruby dragon bolts|Carreaux draconiques en rubis
 ruby harvest|Récolte de rubis
 ruby harvest mix|Mélange de récolte de rubis
 ruby key|Clé rubis
@@ -6870,12 +6870,12 @@ rune dust|Poussière runique
 rune essence|Essence runique
 rune felling axe|Hache d'abattage runique
 rune fire arrow|Flèche de feu runique
-rune full helm|Casque intégral runique
+rune full helm|Heaume runique
 rune gloves|Gants runiques
 rune gold-trimmed set|Ensemble runique bordé d'or
 rune halberd|Hallebarde runique
 rune hasta|Haste runique
-rune helm|Casque runique
+rune helm|Barre runique
 rune heraldic helm|Casque héraldique runique
 rune incendiary cannonball|Boulet de canon incendiaire runique
 rune javelin|Javelot runique
@@ -6886,11 +6886,11 @@ rune kiteshield|Bouclier cerf-volant runique
 rune knife|Couteau runique
 rune longsword|Épée longue runique
 rune mace|Masse runique
-rune med helm|Casque runique moyen
+rune med helm|Casque runique
 rune nails|Clous runiques
 rune pick head|Tête de pioche runique
 rune pickaxe|Pioche runique
-rune platebody|Plastron runique
+rune platebody|Cuirasse runique
 rune platelegs|Jambières runiques
 rune plateskirt|Jupe runique
 rune pouch|Pochette runique
@@ -6916,9 +6916,9 @@ runescroll of bloodbark|Parchemin runique d'écorce sanglante
 runescroll of swampbark|Parchemin runique d'écorce marécageuse
 runite armour|Armure runique
 runite bar|Barre runique
-runite bolts|Flèches runiques
-runite crossbow|Arbalète en runite
-runite limbs|Branches en runite
+runite bolts|Carreaux runiques
+runite crossbow|Arbalète runique
+runite limbs|Branches runique
 runite ore|Minerai de runite
 runite ore fragment|Fragment de minerai de runite
 runner boots|Bottes de coureur
@@ -6985,8 +6985,8 @@ sanfew serum|Sérum Sanfew
 sanguine dust|Poussière sanguine
 sanguine ornament kit|Kit d'ornements sanguins
 sanguine scythe of vitur|Faux sanguine de vitur
-sanguine torva full helm|Casque intégral sanguine torva
-sanguine torva platebody|Plastron sanguine torva
+sanguine torva full helm|Heaume sanguin torva
+sanguine torva platebody|Cuirasse sanguine torva
 sanguine torva platelegs|Jambières sanguines torva
 sanguinesti staff|Bâton Sanguinesti
 santa boots|Bottes du Père Noël
@@ -7001,9 +7001,9 @@ santa's seal|Sceau du Père Noël
 sapphire|Saphir
 sapphire amulet|Amulette en saphir
 sapphire bolt tips|Pointes de flèches en saphir
-sapphire bolts|Flèches en saphir
+sapphire bolts|Carreaux en saphir
 sapphire bracelet|Bracelet en saphir
-sapphire dragon bolts|Flèches dragon en saphir
+sapphire dragon bolts|Carreaux draconiques en saphir
 sapphire glacialis|Saphir glacialis
 sapphire glacialis mix|Mélange de saphir glacialis
 sapphire key|Clé en saphir
@@ -7025,7 +7025,7 @@ saradomin d'hide body|Armure en peau de Saradomin
 saradomin d'hide boots|Bottes en peau de Saradomin
 saradomin d'hide shield|Bouclier en peau de Saradomin
 saradomin dragonhide set|Ensemble en peau de dragon de Saradomin
-saradomin full helm|Casque intégral de Saradomin
+saradomin full helm|Heaume de Saradomin
 saradomin godsword|Épée divine de Saradomin
 saradomin godsword ornament kit|Kit d'ornements pour épée divine de Saradomin
 saradomin halo|Halo de Saradomin
@@ -7040,7 +7040,7 @@ saradomin page 1|Page 1 de Saradomin
 saradomin page 2|Page 2 de Saradomin
 saradomin page 3|Page 3 de Saradomin
 saradomin page 4|Page 4 de Saradomin
-saradomin platebody|Plastron de Saradomin
+saradomin platebody|Cuirasse de Saradomin
 saradomin platelegs|Jambières de Saradomin
 saradomin plateskirt|Jupe de Saradomin
 saradomin robe legs|Jambes de robe de Saradomin
@@ -7211,9 +7211,9 @@ shattered cannon ornament kit|Kit d'ornements de canon brisé
 shattered gingerbread|Pain d'épices brisé
 shattered hood|Capuche brisée
 shattered relic hunter|Ensemble d'armure de chasseur de reliques brisées
-shattered relics adamant trophy|Trophée d'adamantium de reliques brisées
+shattered relics adamant trophy|Trophée en adamante de reliques brisées
 shattered relics bronze trophy|Trophée de bronze de reliques brisées
-shattered relics dragon trophy|Trophée de dragon de reliques brisées
+shattered relics dragon trophy|Trophée draconique de reliques brisées
 shattered relics iron trophy|Trophée de fer de reliques brisées
 shattered relics mithril trophy|Trophée de mithril de reliques brisées
 shattered relics mystic ornament kit|Kit d'ornements mystiques de reliques brisées
@@ -7238,14 +7238,14 @@ shayzien journal|Journal Shayzien
 shayzien medpack|Trousse de secours Shayzien
 shayzien pine logs|Bûches de pin Shayzien
 shayzien pine plank|Planche de pin Shayzien
-shayzien platebody|Plastron Shayzien
+shayzien platebody|Cuirasse Shayzien
 shayzien scarf|Écharpe Shayzien
 shayzien supply boots|Bottes de ravitaillement Shayzien
 shayzien supply crate|Caisse de ravitaillement Shayzien
 shayzien supply gloves|Gants de ravitaillement Shayzien
 shayzien supply greaves|Grèves de ravitaillement Shayzien
 shayzien supply helm|Casque de ravitaillement Shayzien
-shayzien supply platebody|Armure de plates fournie par Shayzien
+shayzien supply platebody|Cuirasse fournie par Shayzien
 shayzien supply set|Ensemble fourni par Shayzien
 shears|Cisailles
 shed key|Clé de la bergerie
@@ -7379,7 +7379,7 @@ silly jester hat|Chapeau de bouffon
 silly jester tights|Collants de bouffon
 silly jester top|Haut de bouffon
 silver bar|Lingot d'argent
-silver bolts|Flèches en argent
+silver bolts|Carreaux en argent
 silver book|Livre en argent
 silver bottle|Bouteille en argent
 silver coffin|Cercueil en argent
@@ -7572,7 +7572,7 @@ snakeskin|Peau de serpent
 snakeskin bandana|Bandana en peau de serpent
 snakeskin body|Corps en peau de serpent
 snakeskin boots|Bottes en peau de serpent
-snakeskin chaps|Chaps en peau de serpent
+snakeskin chaps|Jambières en peau de serpent
 snakeskin shield|Bouclier en peau de serpent
 snakeskin vambraces|Vambraces en peau de serpent
 snakeweed mixture|Mélange d'herbes de serpent
@@ -7677,7 +7677,7 @@ spinach roll|Rouleau d'épinards
 spined armour set|Ensemble d'armure à pointes
 spined body|Corps à pointes
 spined boots|Bottes à pointes
-spined chaps|Chaps à pointes
+spined chaps|Jambières à pointes
 spined gloves|Gants à pointes
 spined helm|Casque à pointes
 spined kraken ink sac|Sac d'encre de kraken à pointes
@@ -7767,8 +7767,8 @@ starjump|Saut stellaire
 starter bow|Arc de départ
 starter staff|Bâton de départ
 starter sword|Épée de départ
-statius's full helm|Casque intégral de Statius
-statius's platebody|Plastron de Statius
+statius's full helm|Heaume de Statius
+statius's platebody|Cuirasse de Statius
 statius's platelegs|Jambières de Statius
 statius's warhammer|Marteau de guerre de Statius
 statuette|Statuette
@@ -7778,82 +7778,82 @@ steam nerve|Nerf à vapeur
 steam rune|Rune à vapeur
 steam staff upgrade kit|Kit d'amélioration du bâton à vapeur
 steamforge brew|Bière Steamforge
-steel 2h sword|Épée à deux mains en acier
-steel arrow|Flèche en acier
-steel arrowtips|Pointes de flèches en acier
-steel axe|Hache en acier
-steel axe head|Tête de hache en acier
-steel bar|Barre en acier
-steel battleaxe|Hache de combat en acier
-steel bolts|Flèches en acier
-steel boots|Bottes en acier
-steel brutal|Brutal en acier
-steel cage|Cage en acier
-steel candlesticks|Chandeliers en acier
-steel cannon|Canon en acier
-steel cannonball|Boulet de canon en acier
-steel chainbody|Chaîne en acier
-steel chainshot cannonball|Boulet de canon à chaîne en acier
-steel claws|Griffes en acier
-steel coffin|Cercueil en acier
-steel crossbow|Arbalète en acier
-steel dagger|Dague en acier
-steel dart|Fléchette en acier
-steel dart tip|Pointe de fléchette en acier
-steel defender|Défenseur en acier
-steel dragon|Dragon en acier
-steel dragon mask|Masque de dragon en acier
-steel felling axe|Hache d'abattage en acier
-steel fire arrow|Flèche de feu en acier
-steel framed workbench|Établi à cadre en acier
-steel full helm|Casque intégral en acier
-steel gauntlets|Gantelets en acier
-steel gloves|Gants en acier
-steel gold-trimmed set|Ensemble en acier avec bordure dorée
-steel halberd|Hallebarde en acier
-steel hasta|Hasta en acier
-steel helm|Casque en acier
-steel heraldic helm|Casque héraldique en acier
-steel incendiary cannonball|Boulet de canon incendiaire en acier
-steel javelin|Javelot en acier
-steel javelin tips|Pointes de javelot en acier
-steel keel|Quille en acier
-steel keel parts|Pièces de quille en acier
-steel key|Clé en acier
-steel key black|Clé en acier noire
-steel key brown|Clé en acier marron
-steel key crimson|Clé en acier cramoisie
-steel key purple|Clé en acier violette
-steel key red|Clé en acier rouge
-steel key ring|Porte-clés en acier
-steel kiteshield|Bouclier en acier
-steel knife|Couteau en acier
-steel limbs|Membres en acier
-steel locks|Serrures en acier
-steel longsword|Épée longue en acier
-steel mace|Masse en acier
-steel med helm|Casque moyen en acier
-steel nails|Clous en acier
-steel pick head|Tête de pioche en acier
-steel pickaxe|Pioche en acier
-steel platebody|Plateforme en acier
-steel platelegs|Jambières en acier
-steel plateskirt|Jupe en acier
-steel range|Gamme en acier
-steel ring|Anneau en acier
-steel salvaging hook|Crochet de récupération en acier
-steel scimitar|Cimeterre en acier
-steel set|Ensemble en acier
-steel spear|Lance en acier
-steel sq shield|Bouclier carré en acier
-steel staff of collection|Bâton de collecte en acier
-steel studs|Clous en acier
-steel sword|Épée en acier
-steel thrownaxe|Hache de jet en acier
-steel torches|Torches en acier
-steel trimmed set|Ensemble garni en acier
-steel warhammer|Marteau de guerre en acier
-steel-plated door|Porte blindée en acier
+steel 2h sword|Épée à deux mains d'acier
+steel arrow|Flèche d'acier
+steel arrowtips|Pointes de flèches d'acier
+steel axe|Hache d'acier
+steel axe head|Tête de hache d'acier
+steel bar|Barre d'acier
+steel battleaxe|Hache de combat d'acier
+steel bolts|Carreaux d'acier
+steel boots|Bottes d'acier
+steel brutal|Brutal d'acier
+steel cage|Cage d'acier
+steel candlesticks|Chandeliers d'acier
+steel cannon|Canon d'acier
+steel cannonball|Boulet de canon d'acier
+steel chainbody|Chaîne d'acier
+steel chainshot cannonball|Boulet de canon à chaîne d'acier
+steel claws|Griffes d'acier
+steel coffin|Cercueil d'acier
+steel crossbow|Arbalète d'acier
+steel dagger|Dague d'acier
+steel dart|Fléchette d'acier
+steel dart tip|Pointe de fléchette d'acier
+steel defender|Défenseur d'acier
+steel dragon|Dragon d'acier
+steel dragon mask|Masque de dragon d'acier
+steel felling axe|Hache d'abattage d'acier
+steel fire arrow|Flèche de feu d'acier
+steel framed workbench|Établi à cadre d'acier
+steel full helm|Heaume d'acier
+steel gauntlets|Gantelets d'acier
+steel gloves|Gants d'acier
+steel gold-trimmed set|Ensemble d'acier avec bordure dorée
+steel halberd|Hallebarde d'acier
+steel hasta|Hasta d'acier
+steel helm|Barre d'acier
+steel heraldic helm|Casque héraldique d'acier
+steel incendiary cannonball|Boulet de canon incendiaire d'acier
+steel javelin|Javelot d'acier
+steel javelin tips|Pointes de javelot d'acier
+steel keel|Quille d'acier
+steel keel parts|Pièces de quille d'acier
+steel key|Clé d'acier
+steel key black|Clé d'acier noire
+steel key brown|Clé d'acier marron
+steel key crimson|Clé d'acier cramoisie
+steel key purple|Clé d'acier violette
+steel key red|Clé d'acier rouge
+steel key ring|Porte-clés d'acier
+steel kiteshield|Bouclier d'acier
+steel knife|Couteau d'acier
+steel limbs|Branches d'acier
+steel locks|Serrures d'acier
+steel longsword|Épée longue d'acier
+steel mace|Masse d'acier
+steel med helm|Casque d'acier
+steel nails|Clous d'acier
+steel pick head|Tête de pioche d'acier
+steel pickaxe|Pioche d'acier
+steel platebody|Cuirasse d'acier
+steel platelegs|Jambières d'acier
+steel plateskirt|Jupe d'acier
+steel range|Gamme d'acier
+steel ring|Anneau d'acier
+steel salvaging hook|Crochet de récupération d'acier
+steel scimitar|Cimeterre d'acier
+steel set|Ensemble d'acier
+steel spear|Lance d'acier
+steel sq shield|Bouclier carré d'acier
+steel staff of collection|Bâton de collecte d'acier
+steel studs|Clous d'acier
+steel sword|Épée d'acier
+steel thrownaxe|Hache de jet d'acier
+steel torches|Torches d'acier
+steel trimmed set|Ensemble garni d'acier
+steel warhammer|Marteau de guerre d'acier
+steel-plated door|Porte blindée d'acier
 stethoscope|Stéthoscope
 stew|Ragoût
 stick|Bâton
@@ -7992,7 +7992,7 @@ sunken locket|Médaillon englouti
 sunken rum|Rhum englouti
 sunlight antelope antler|Corne d'antilope ensoleillée
 sunlight antelope fur|Fourrure d'antilope ensoleillée
-sunlight antler bolts|Flèches en corne ensoleillée
+sunlight antler bolts|Carreaux en corne ensoleillée
 sunlight moth|Papillon de soleil
 sunlight moth mix|Mélange de papillons de nuit ensoleillés
 sunlight moth wing|Aile de papillon de nuit ensoleillé
@@ -8381,9 +8381,9 @@ top hat & monocle|Chapeau haut-de-forme et monocle
 top of sceptre|Sommet du sceptre
 topaz amulet|Amulette en topaze
 topaz bolt tips|Pointes de flèches en topaze
-topaz bolts|Flèches en topaze
+topaz bolts|Carreaux en topaze
 topaz bracelet|Bracelet en topaze
-topaz dragon bolts|Flèches dragon en topaze
+topaz dragon bolts|Carreaux draconiques en topaze
 topaz necklace|Collier en topaze
 topaz ring|Bague en topaze
 topiary bush|Bush topiaire
@@ -8416,8 +8416,8 @@ tortugan shield|Bouclier tortugan
 tortugan vessel|Vase tortugan
 torture ornament kit|Kit d'ornements de torture
 torva armour set|Ensemble d'armure torva
-torva full helm|Casque intégral torva
-torva platebody|Plastron Torva
+torva full helm|Heaume torva
+torva platebody|Cuirasse Torva
 torva platelegs|Jambières Torva
 totem|Totem
 touch paper|Mèche
@@ -8440,7 +8440,7 @@ trailblazer banner|Bannière Trailblazer
 trailblazer boots|Bottes de pionnier
 trailblazer bronze trophy|Trophée de bronze de pionnier
 trailblazer cane|Canne de pionnier
-trailblazer dragon trophy|Trophée de dragon de pionnier
+trailblazer dragon trophy|Trophée draconique de pionnier
 trailblazer globe|Globe de pionnier
 trailblazer graceful ornament kit|Kit d'ornements gracieux de pionnier
 trailblazer harpoon|Harpon de pionnier
@@ -8449,7 +8449,7 @@ trailblazer iron trophy|Trophée en fer Trailblazer
 trailblazer mithril trophy|Trophée en mithril Trailblazer
 trailblazer pickaxe|Pioche Trailblazer
 trailblazer relic hunter|Ensemble d'armure de chasseur de reliques Trailblazer
-trailblazer reloaded adamant trophy|Trophée d'adamantium Trailblazer reloaded
+trailblazer reloaded adamant trophy|Trophée d'adamante Trailblazer reloaded
 trailblazer reloaded alchemy scroll|Parchemin d'alchimie Trailblazer reloaded
 trailblazer reloaded banner|Bannière Trailblazer reloaded
 trailblazer reloaded blowpipe ornament kit|Kit d'ornements pour sarbacane Trailblazer reloaded
@@ -8457,7 +8457,7 @@ trailblazer reloaded boots|Bottes Trailblazer reloaded
 trailblazer reloaded bronze trophy|Trophée de bronze Trailblazer reloaded
 trailblazer reloaded bulwark ornament kit|Kit d'ornements de rempart Trailblazer reloaded
 trailblazer reloaded death scroll|Parchemin de mort Trailblazer reloaded
-trailblazer reloaded dragon trophy|Trophée de dragon Trailblazer reloaded
+trailblazer reloaded dragon trophy|Trophée draconique Trailblazer reloaded
 trailblazer reloaded headband|Bandeau Trailblazer reloaded
 trailblazer reloaded home teleport scroll|Parchemin de téléportation vers la maison Trailblazer reloaded
 trailblazer reloaded iron trophy|Trophée de fer Trailblazer reloaded
@@ -8575,7 +8575,7 @@ twisted bronze trophy|Trophée de bronze tordu
 twisted buckler|Bouclier tordu
 twisted cane|Canne tordue
 twisted coat|Manteau tordu
-twisted dragon trophy|Trophée de dragon tordu
+twisted dragon trophy|Trophée draconique tordu
 twisted extract|Extrait tordu
 twisted hat|Chapeau tordu
 twisted horns|Cornes tordues
@@ -8610,7 +8610,7 @@ ugthanki dung|Fumier d'Ugthanki
 ugthanki kebab|Kebab d'Ugthanki
 ugthanki meat|Viande d'Ugthanki
 ultimate ironman helm|Casque d'Ironman ultime
-ultimate ironman platebody|Plastron d'Ironman ultime
+ultimate ironman platebody|Cuirasse d'Ironman ultime
 ultimate ironman platelegs|Jambières d'Ironman ultime
 ultor icon|Icône Ultor
 ultor ring|Bague Ultor
@@ -8958,11 +8958,11 @@ white logs|Bûches blanches
 white longsword|Épée longue blanche
 white mace|Masse blanche
 white magic staff|Bâton de magie blanc
-white med helm|Casque blanc moyen
+white med helm|Casque blanc
 white partyhat|Chapeau de fête blanc
 white pearl|Perle blanche
 white pearl seed|Graine de perle blanche
-white platebody|Plateforme blanche
+white platebody|Cuirasse blanche
 white platelegs|Jambière blanche
 white plateskirt|Jupe blanche
 white pumpkin|Citrouille blanche
@@ -9198,7 +9198,7 @@ zamorak d'hide body|Corps en peau de Zamorak
 zamorak d'hide boots|Bottes en peau de Zamorak
 zamorak d'hide shield|Bouclier en peau de Zamorak
 zamorak dragonhide set|Ensemble en peau de dragon de Zamorak
-zamorak full helm|Casque intégral de Zamorak
+zamorak full helm|Heaume de Zamorak
 zamorak godsword|Épée divine de Zamorak
 zamorak godsword ornament kit|Kit d'ornements pour épée divine de Zamorak
 zamorak halo|Halo de Zamorak
@@ -9216,7 +9216,7 @@ zamorak page 1|Zamorak page 1
 zamorak page 2|Zamorak page 2
 zamorak page 3|Zamorak page 3
 zamorak page 4|Zamorak page 4
-zamorak platebody|Plastron de Zamorak
+zamorak platebody|Cuirasse de Zamorak
 zamorak platelegs|Jambières de Zamorak
 zamorak plateskirt|Jupe de Zamorak
 zamorak robe legs|Jambes de robe de Zamorak
@@ -9306,13 +9306,13 @@ Achey Tree stump|Souche d'arbre douloureux
 Achievement diary display|Affichage du journal des réalisations
 Acid blood|Sang acide
 Acidic miasma|Miasme acide
-Adamant cannon|Canon adamantin
-Adamant helm|Casque adamantin
-Adamant keel|Quille adamantine
-Adamant ore vein|Veine de minerai adamantin
-Adamant salvaging hook|Crochet de récupération adamantin
-Adamantite armour|Armure en adamantite
-Adamantite rocks|Roches en adamantite
+Adamant cannon|Canon en adamante
+Adamant helm|Barre en adamante
+Adamant keel|Quille en adamante
+Adamant ore vein|Veine de minerai d'adamante
+Adamant salvaging hook|Crochet de récupération en adamante
+Adamantite armour|Armure d'adamante
+Adamantite rocks|Roches d'adamante
 Advanced arena|Arène avancée
 Advanced chum station|Station d'appât avancée
 Adventure log space|Espace pour le journal d'aventure
@@ -9775,7 +9775,7 @@ Bronze Chest|Coffre en bronze
 Bronze Door|Porte en bronze
 Bronze axe|Hache en bronze
 Bronze cannon|Canon en bronze
-Bronze helm|Casque en bronze
+Bronze helm|Barre en bronze
 Bronze keel|Quille en bronze
 Bronze pickaxe|Pioche en bronze
 Bronze salvaging hook|Crochet de sauvetage en bronze
@@ -10337,7 +10337,7 @@ Dragon bitter|Dragon Bitter
 Dragon cannon|Canon dragon
 Dragon egg|Œuf de dragon
 Dragon forge|Forge dragon
-Dragon helm|Casque dragon
+Dragon helm|Barre dragon
 Dragon keel|Quille dragon
 Dragon salvaging hook|Crochet de sauvetage dragon
 Dragon scales|Écailles de dragon
@@ -11011,12 +11011,12 @@ Invocation Board|Tableau d'invocation
 Iorwerth Banner|Bannière d'Iorwerth
 Iron Winch|Treuil en fer
 Iron cannon|Canon en fer
-Iron helm|Casque en fer
+Iron helm|Barre en fer
 Iron keel|Quille en fer
 Iron ore vein|Veine de minerai de fer
-Iron pickaxe|Pioche en fer
+Iron pickaxe|Pioche de fer
 Iron railings|Balustrades en fer
-Iron rocks|Rochers en fer
+Iron rocks|Rochers de fer
 Iron salvaging hook|Crochet de récupération en fer
 Ironman & Ultimate Ironwoman|Ironman et Ultimate Ironwoman
 Ironwood Pyre|Bûcher en bois de fer
@@ -11433,10 +11433,10 @@ Mine cart sign|Panneau de chariot de mine
 Minecart|Chariot de mine
 Mirror|Miroir
 Miscellanians|Divers
-Mithril armour|Armure en mithril
+Mithril armour|Armure de mithril
 Mithril cannon|Canon en mithril
 Mithril door|Porte en mithril
-Mithril helm|Casque en mithril
+Mithril helm|Barre en mithril
 Mithril keel|Quille en mithril
 Mithril ore vein|Veine de minerai de mithril
 Mithril rocks|Roches de mithril
@@ -11549,7 +11549,7 @@ Novice Flag|Drapeau de novice
 Noxifer|Noxifer
 Noxious tendrils|Vignes toxiques
 Oak altar|Autel en chêne
-Oak and steel cage|Cage en chêne et en acier
+Oak and steel cage|Cage en chêne et d'acier
 Oak armchair|Fauteuil en chêne
 Oak armour case|Coffre en chêne
 Oak bed|Lit en chêne
@@ -12088,7 +12088,7 @@ Rune case 2|Coffret runique 2
 Rune case 3|Coffret runique 3
 Rune case space|Espace pour coffret runique
 Rune dragon|Dragon runique
-Rune helm|Casque runique
+Rune helm|Barre runique
 Rune keel|Quille runique
 Rune salvaging hook|Crochet de sauvetage runique
 Rune temple sign|Enseigne du temple runique
@@ -12335,7 +12335,7 @@ Solid black door|Porte noire massive
 Solid bronze door|Porte en bronze massif
 Solid gold door|Porte en or massif
 Solid silver door|Porte en argent massif
-Solid steel door|Porte en acier massif
+Solid steel door|Porte d'acier massif
 Sorcerer's Tower Portal|Portail de la tour du sorcier
 Soul Altar|Autel des âmes
 Soul Devourer|Dévoreur d'âmes
@@ -12456,13 +12456,13 @@ Steam press|Presse à vapeur
 Steel Chest|Coffre en acier
 Steel cage|Cage en acier
 Steel candlesticks|Chandeliers en acier
-Steel cannon|Canon en acier
-Steel dragon|Dragon en acier
-Steel framed workbench|Établi à cadre en acier
-Steel helm|Casque en acier
-Steel keel|Quille en acier
-Steel range|Gamme en acier
-Steel salvaging hook|Crochet de récupération en acier
+Steel cannon|Canon d'acier
+Steel dragon|Dragon d'acier
+Steel framed workbench|Établi à cadre d'acier
+Steel helm|Barre d'acier
+Steel keel|Quille d'acier
+Steel range|Fourneau en acier
+Steel salvaging hook|Crochet de récupération d'acier
 Steel torches|Torches en acier
 Steel-plated door|Porte blindée en acier
 Steep roof|Toit en pente raide

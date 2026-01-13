@@ -693,7 +693,7 @@ Be wary of the deathslide - you must hang by your teeth, and if your strength is
 Bring the stick back to the werewolf waiting at the end of the death slide to get your agility bonus.|Ramenez le bâton au loup-garou qui attend à la fin du toboggan de la mort pour obtenir votre bonus d'agilité.
 I will throw your stick as soon as you jump onto the first stone.|Je lancerai votre bâton dès que vous sauterez sur la première pierre.
 Grrr - you don't belong in here, human!|Grrr - tu n'as rien à faire ici, humain !
-FETCH!!!!!|APPORTEZ-LE !!!!
+FETCH!!!!!|VA CHERCHER !!!!
 Why didn't you hand the stick over?!!?|Pourquoi ne m'avez-vous pas donné le bâton ? !!?
 He doesn't look like he wants to talk right now.|Il n'a pas l'air d'avoir envie de parler pour le moment.
 Have you brought the stick yet?|Tu as apporté le bâton ?
@@ -15584,7 +15584,7 @@ Oh definitely! Did you find a new type of fossil?!|Oh, bien sûr ! Avez-vous tro
 Not quite... I'd like you to stop rare fossils showing up on the island.|Pas tout à fait... J'aimerais que vous empêchiez les fossiles rares d'apparaître sur l'île.
 Oh..., I can do that for you, if you really want me to.|Oh... Je peux le faire pour vous, si vous le souhaitez vraiment.
 So be it, I'll spread the word, rare fossils won't drop for you anymore. Come back to me if you change your mind.|Qu'il en soit ainsi, je vais passer le mot, les fossiles rares ne vous apparaîtront plus. Revenez me voir si vous changez d'avis.
-Actually, I've changed my mind, I'll keep collecting them.|En fait, j'ai changé d'avis, je vais continuer à les collectionner.
+Actually, I've changed my mind, I'll keep collecting them.|En fait, j'ai changé d'avis, je vais continuer à les ramasser.
 Oh wonderful! Rare fossils are so hard to find, I'd hate for you to miss out on one.|Oh, merveilleux ! Les fossiles rares sont si difficiles à trouver, je ne voudrais pas que vous en manquiez un.
 So you've changed your mind then? I knew you would, who can resists the hidden knowledge found in rare fossils?|Vous avez donc changé d'avis ? Je savais que vous le feriez, qui peut résister à la connaissance cachée que renferment les fossiles rares ?
 Yes I know, can you just do it for me.|Oui, je sais, mais pouvez-vous simplement le faire pour moi ?
@@ -19743,8 +19743,8 @@ Gurtob is da bestest jubbly hunter in all of da seas. No one surpass Gurtob.|Gur
 Boatsies? Jubblies? Skill test? What's going on here.|Marins ? Jubblies ? Test d'habileté ? Que se passe-t-il ici ?
 I'll take it from here, Gurt.|Je m'en occupe, Gurt.
 Dis... Sorry, this corner of the Shrouded Ocean is where we Barracudas like to challenge ourselves to a fun Barracuda Trial called the Jubbly Jive.|Ce... Désolé, c'est dans ce coin de l'océan voilé que nous, les Barracudas, aimons nous lancer un défi amusant appelé le Jubbly Jive.
-While he may not look it, Gurtob here is actually an expert sailor and trial master for the Barracudas.|Même s'il n'en a pas l'air, Gurtob est en fait un marin expert et un maître d'épreuve pour les Barracudas.
-An ogre is a trial master for the Barracudas? That's surprising.|Un ogre est maître d'épreuve pour les Barracudas ? C'est surprenant.
+While he may not look it, Gurtob here is actually an expert sailor and trial master for the Barracudas.|Même s'il n'en a pas l'air, Gurtob est en fait un marin expert et un maître d'épreuves pour les Barracudas.
+An ogre is a trial master for the Barracudas? That's surprising.|Un ogre est maître d'épreuves pour les Barracudas ? C'est surprenant.
 Not at all! He may be rough around the edges and difficult to understand at times, but he's a fantastic sailor and that's the only thing us Barracudas care about.|Pas du tout ! Il est peut-être un peu rude et difficile à comprendre parfois, mais c'est un marin fantastique et c'est la seule chose qui nous importe, à nous les Barracudas.
 I see. So what do I do here? What's the challenge?|Je vois. Alors, qu'est-ce que je dois faire ici ? Quel est le défi à relever ?
 Creatures talk... talk... long. Go da fastest, grab da toadies, throw da toadies, trick da jubblies, eat da jubblies. Dat's it.|Les créatures parlent... parlent... longtemps. Allez le plus vite possible, attrapez les crapauds, lancez les crapauds, trompez les jubblies, mangez les jubblies. C'est tout.
@@ -19815,9 +19815,9 @@ Of course you can! There's a bunch of trial masters like Gurtob scattered across
 Do you have any tips or tricks for me?|Avez-vous des conseils ou des astuces à me donner ?
 Do I have any rewards to claim?|Ai-je des récompenses à réclamer ?
 Gurtob no have re... rewa... prize for creature.|Gurtob n'a pas de récompense pour la créature.
-Gurtob hands you a trial reward: Fetid key.|Gurtob vous remet une récompense d'essai : une clé fétide.
-Gurtob hands you a trial reward: Captured wind mote.|Gurtob vous remet une récompense d'essai : une particule de vent capturée.
-Gurtob hands you a trial reward: Gurtob's fabric roll.|Gurtob vous remet une récompense d'essai : Rouleau de tissu de Gurtob.
+Gurtob hands you a trial reward: Fetid key.|Gurtob vous remet une récompense d'épreuve : une clé fétide.
+Gurtob hands you a trial reward: Captured wind mote.|Gurtob vous remet une récompense d'épreuve : une particule de vent capturée.
+Gurtob hands you a trial reward: Gurtob's fabric roll.|Gurtob vous remet une récompense d'esépreuve : Rouleau de tissu de Gurtob.
 Das all re... rewa... prize Gurtob has for creature.|C'est tout ce que Gurtob a comme récompense pour la créature.
 You go away! Busy eatin' da jubblies. Come back when belly full.|Va-t'en ! Je suis occupé à manger des jubblies. Reviens quand tu auras le ventre plein.
 The Sailing skill is not currently available.|La compétence Navigation n'est actuellement pas disponible.
@@ -19998,13 +19998,13 @@ Elven ships are not constructed from wood and metal, but are instead sung and wo
 The process is incredibly intimate and time consuming. Each ship created represents not just our goddess, but also the individual who brought it into existence.|Le processus est incroyablement intime et prend beaucoup de temps. Chaque navire créé représente non seulement notre déesse, mais aussi la personne qui l'a fait naître.
 Like all Barracuda Trials, the Gwenith Glide exists to push your sailing skills to the limit. However, it also acts as an opportunity to honour not just those that died here, but also the ships themselves.|Comme toutes les épreuves Barracuda, le Gwenith Glide existe pour pousser vos compétences de navigation à leurs limites. Cependant, il sert également d'occasion pour honorer non seulement ceux qui sont morts ici, mais aussi les navires eux-mêmes.
 So what is it that I need to do within the trial?|Alors, que dois-je faire dans le cadre de cette épreuve ?
-My name is Gwyna of the Hefin Clan. I'm a trial master for the Barracudas and I provide guidance and counsel to those who attempt this trial, the Gwenith Glide.|Je m'appelle Gwyna, du clan Hefin. Je suis maître d'épreuve pour les Barracudas et j'offre des conseils et des recommandations à ceux qui tentent cette épreuve, la Gwenith Glide.
+My name is Gwyna of the Hefin Clan. I'm a trial master for the Barracudas and I provide guidance and counsel to those who attempt this trial, the Gwenith Glide.|Je m'appelle Gwyna, du clan Hefin. Je suis maître d'épreuves pour les Barracudas et j'offre des conseils et des recommandations à ceux qui tentent cette épreuve, la Gwenith Glide.
 It is my job to see that those who died here are honoured and that the sanctity of the course is upheld.|Mon travail consiste à veiller à ce que ceux qui sont morts ici soient honorés et à ce que le caractère sacré du parcours soit préservé.
 Do those goals ever conflict? I'm not sure how the sanctity of the course is upheld as sailors race around the place.|Ces objectifs sont-ils parfois contradictoires ? Je ne vois pas très bien comment le caractère sacré du parcours peut être préservé alors que des marins font la course dans les environs.
 I appreciate your concern, but you need not worry. Respect for the dead can be upheld in many ways. All who take on the trial have my blessing to proceed as they wish.|Je comprends votre inquiétude, mais vous n'avez pas à vous inquiéter. Le respect des morts peut être maintenu de nombreuses façons. Tous ceux qui se lancent dans l'épreuve ont ma bénédiction pour procéder comme ils le souhaitent.
 The organisation is a collection of like-minded individuals interested in furthering their own expertise and knowledge of sailing.|L'organisation est un regroupement de personnes partageant les mêmes idées et souhaitant approfondir leurs connaissances et leur expertise en matière de navigation.
 We're open to all with the spirit and patience to learn this delicate and precise skill.|Nous sommes ouverts à tous ceux qui ont l'esprit et la patience nécessaires pour apprendre cette technique délicate et précise.
-Of course you can, but you'll have to prove yourself first. There are other trial masters like me across the seas. You'll need to overcome our trials to earn your place among us.|Bien sûr que vous pouvez, mais vous devrez d'abord faire vos preuves. Il existe d'autres maîtres d'essai comme moi à travers les mers. Vous devrez surmonter nos épreuves pour gagner votre place parmi nous.
+Of course you can, but you'll have to prove yourself first. There are other trial masters like me across the seas. You'll need to overcome our trials to earn your place among us.|Bien sûr que vous pouvez, mais vous devrez d'abord faire vos preuves. Il existe d'autres maîtres d'épreuves comme moi à travers les mers. Vous devrez les surmonter pour gagner votre place parmi nous.
 Guess she can't hear me from over here.|Je suppose qu'elle ne peut pas m'entendre d'ici.
 We are the righteous ones in his eyes alone.|Nous sommes les justes à ses yeux.
 Let them not infest our cities and towns...|Ne les laissons pas infester nos villes et nos villages...
@@ -26820,8 +26820,8 @@ Can you tell me about the Tempor Tantrum?|Pouvez-vous me parler du Tempor Tantru
 Well, you see, there's value in sailors with skills like ours. Most common folk would avoid the storm, but that takes time, and as them merchants say, 'time is money.'|Eh bien, voyez-vous, les marins qui possèdent des compétences comme les nôtres ont une grande valeur. La plupart des gens éviteraient la tempête, mais cela prend du temps, et comme le disent les marchands, « le temps, c'est de l'argent ».
 That's where we come in! Those merchant folk sail up to the south end of the storm, drop off their shipments to one of our boats down there and we make sure it gets up to the Pandemonium!|C'est là que nous intervenons ! Ces marchands naviguent jusqu'à l'extrémité sud de la tempête, déposent leurs marchandises sur l'un de nos bateaux là-bas et nous nous assurons qu'elles arrivent jusqu'au Pandemonium !
 And what do I need to do during the trial?|Et que dois-je faire pendant l'épreuve ?
-The name's Ralph, Rum-Dashed Ralph. I'm a trial master for the Barracudas and I've been tasked with overseeing our operation over here by Storm Tempor.|Je m'appelle Ralph, Ralph le Rum-Dashed. Je suis maître d'essai pour les Barracudas et j'ai été chargé de superviser nos opérations ici, à Storm Tempor.
-Are there any benefits to being a trial master?|Y a-t-il des avantages à être maître d'essai ?
+The name's Ralph, Rum-Dashed Ralph. I'm a trial master for the Barracudas and I've been tasked with overseeing our operation over here by Storm Tempor.|Je m'appelle Ralph, Ralph le Rum-Dashed. Je suis maître d'épreuves pour les Barracudas et j'ai été chargé de superviser nos opérations ici, à Storm Tempor.
+Are there any benefits to being a trial master?|Y a-t-il des avantages à être maître d'épreuves ?
 Plenty! Nothing brings a smile to my face quite like seeing a young budding sailor work at their skills and prove themselves capable of overcoming the storm.|Beaucoup ! Rien ne me fait plus plaisir que de voir un jeune marin en herbe travailler ses compétences et prouver qu'il est capable de surmonter la tempête.
 Not to mention, the free rum recovered while doing the trial doesn't go amiss either!|Sans oublier que le rhum gratuit récupéré pendant l'épreuve n'est pas pour déplaire non plus !
 What about those that fail?|Et ceux qui échouent ?
@@ -26832,9 +26832,9 @@ Haha! That's the spirit! Of course you can, but only once you prove yourself in 
 Fourth, keep your sails trimmed to gain even more speed. This aint no shipwreck salvaging. Go fast or go home!|Quatrièmement, gardez vos voiles bien tendues pour gagner encore plus de vitesse. Ce n'est pas une opération de sauvetage d'épave. Allez vite ou rentrez chez vous !
 Finally, watch out for those rocks. Hitting them will kill all of your boats momentum immediately.|Enfin, faites attention aux rochers. Si vous les heurtez, votre bateau perdra immédiatement toute sa vitesse.
 Sorry, but I don't have anything for you at the moment.|Désolé, mais je n'ai rien pour vous pour le moment.
-Rum-dashed Ralph hands you a trial reward: Stormy key.|Ralph le Rum-dashed vous remet une récompense d'essai : une clé Stormy.
-Rum-dashed Ralph hands you a trial reward: Barrel stand.|Ralph le Rhumique vous remet une récompense d'essai : un support à tonneau.
-Rum-dashed Ralph hands you a trial reward: Ralph's fabric roll.|Ralph le Rhumique vous remet une récompense d'essai : un rouleau de tissu de Ralph.
+Rum-dashed Ralph hands you a trial reward: Stormy key.|Ralph le Rum-dashed vous remet une récompense d'épreuve : une clé Stormy.
+Rum-dashed Ralph hands you a trial reward: Barrel stand.|Ralph le Rhumique vous remet une récompense d'épreuve : un support à tonneau.
+Rum-dashed Ralph hands you a trial reward: Ralph's fabric roll.|Ralph le Rhumique vous remet une récompense d'épreuve : un rouleau de tissu de Ralph.
 That's everything I have for you. Good luck in future trials!|C'est tout ce que j'ai pour vous. Bonne chance pour vos prochains essais !
 Woah, look at you go out there! You really surprised me with your mastery! A shark rank well earned.|Waouh, regardez-moi ça ! Vous m'avez vraiment surpris par votre maîtrise ! Vous méritez bien votre rang de requin.
 Thanks! I wasn't sure I was going to make it in time.|Merci ! Je n'étais pas sûr d'y arriver à temps.
@@ -31628,7 +31628,7 @@ But of course. If you're lucky enough to obtain a pet during a League, it will a
 This means that if you lose it somehow you can talk to me and I'll give it back to you. Insurance and reclaiming is all free of charge.|Cela signifie que si vous le perdez d'une manière ou d'une autre, vous pouvez m'en parler et je vous le rendrai. L'assurance et la récupération sont entièrement gratuites.
 Additionally, each pet you obtain will be transferred to the next League. I'll take good care of it until you're ready to reclaim it.|De plus, chaque animal que vous obtenez sera transféré à la Ligue suivante. Je m'en occuperai jusqu'à ce que vous soyez prêt à le récupérer.
 Come back to me once you have some pets and you can view your collection. Now, is there anything else you need from me?|Revenez me voir une fois que vous aurez des animaux de compagnie et vous pourrez voir votre collection. Y a-t-il autre chose que je puisse faire pour vous ?
-Do I have any League items to collect?|Ai-je des objets de Ligue à collectionner ?
+Do I have any League items to collect?|Ai-je des objets de Ligue à récupérer ?
 Can you help me smash vials?|Pouvez-vous m'aider à briser des fioles ?
 With all of my power, this is something I can manage. You will now automatically smash vials.|Avec tous mes pouvoirs, c'est quelque chose que je peux faire. Vous allez maintenant briser automatiquement les fioles.
 With all of my power, this is something I can manage. You will no longer smash vials automatically.|Avec tous mes pouvoirs, c'est quelque chose que je peux faire. Vous ne briserez plus automatiquement les fioles.
@@ -31768,7 +31768,7 @@ You'll also get League-to-League rewards based on your League Rank.|Vous recevre
 Finally, I plan to recognise the first heroes to complete particular activities.|Enfin, je prévois de récompenser les premiers héros à avoir accompli certaines activités.
 You can view the entire list of activities, as well as whether or not someone has completed them, on the board beside me.|Vous pouvez consulter la liste complète des activités, ainsi que savoir si quelqu'un les a accomplies ou non, sur le tableau à côté de moi.
 Return to me once you have some pets and you'll be able to view your collection. Is there anything else you wish to know?|Revenez me voir une fois que vous aurez des familiers et vous pourrez voir votre collection. Y a-t-il autre chose que vous souhaitiez savoir ?
-Do I have any items to collect?|Ai-je des objets à collectionner ?
+Do I have any items to collect?|Ai-je des objets à récupérer ?
 It doesn't look like you need any League items right now. I'll be here if you ever do.|Il ne semble pas que vous ayez besoin d'objets de ligue pour le moment. Je serai là si jamais vous en avez besoin.
 Much has changed since the world was shattered. This time, I thought I'd turn the clock back and allow you to Trailblaze once more.|Beaucoup de choses ont changé depuis que le monde a été détruit. Cette fois-ci, j'ai pensé remonter le temps et vous permettre de faire à nouveau figure de pionnier.
 You must participate as an Iron Man. This means you stand alone and cannot trade with other participants.|Vous devez participer en tant qu'Iron Man. Cela signifie que vous êtes seul et que vous ne pouvez pas échanger avec les autres participants.
@@ -33466,11 +33466,11 @@ Hi! My name's [player name].|Salut ! Je m'appelle [nom du joueur].
 Do I look like I care? To me you're just another newcomer who thinks they're ready to fight.|Est-ce que j'ai l'air de m'en soucier ? Pour moi, vous n'êtes qu'un nouveau venu de plus qui pense être prêt à se battre.
 I am Vannaka, the greatest swordsman alive, and I'm here to teach you the basics of combat. Let's get started by teaching you to wield a weapon.|Je suis Vannaka, le plus grand épéiste vivant, et je suis ici pour vous enseigner les bases du combat. Commençons par vous apprendre à manier une arme.
 Let's get started by teaching you to wield a weapon.|Commençons par t'apprendre à manier une arme.
-Very good, but that little butter knife isn't going to protect you much. Let's get you something a bit better. Once you're properly equipped we can move on to some actual combat.|Très bien, mais ce petit couteau à beurre ne te protégera pas beaucoup. Trouvons-toi quelque chose de mieux. Une fois que tu seras correctement équipé, nous pourrons passer au combat réel.
+Very good, but that little butter knife isn't going to protect you much. Let's get you something a bit better. Once you're properly equipped we can move on to some actual combat.|Très bien, mais ce petit couteau à beurre ne te protégera pas beaucoup. Trouvons-toi quelque chose de mieux. Une fois que tu seras correctement équipé, nous pourrons passer au vrai combat.
 The combat instructor gives you a bronze sword and a wooden shield.|L'instructeur de combat te donne une épée en bronze et un bouclier en bois.
 Let's get you equipped.|Équipons-toi.
 You should check out the combat interface.|Tu devrais jeter un œil à l'interface de combat.
-Time for some actual combat! Head into the pen and kill one of those rats.|C'est l'heure du combat réel ! Entrez dans l'enclos et tuez l'un de ces rats.
+Time for some actual combat! Head into the pen and kill one of those rats.|C'est l'heure d'un vrai combat ! Entrez dans l'enclos et tuez l'un de ces rats.
 I did it! I killed a giant rat!|J'ai réussi ! J'ai tué un rat géant !
 I saw. You seem better at this than I thought. Now that you have grasped basic swordplay, let's move on.|Je l'ai vu. Vous semblez plus doué que je ne le pensais. Maintenant que vous maîtrisez les bases du maniement de l'épée, passons à la suite.
 Next up we have ranged attacking. With this you can kill foes from a distance. With ranged, you'll be able to attack the rats without entering the pit meaning they won't be able to fight back.|Nous allons maintenant passer aux attaques à distance. Elles vous permettent de tuer vos ennemis sans vous approcher d'eux. Grâce à elles, vous pourrez attaquer les rats sans entrer dans l'enclos, ce qui signifie qu'ils ne pourront pas riposter.
