@@ -11,7 +11,7 @@ Prince Ali Rescue|Sauvetage du prince Ali
 Doric's Quest|Quête de Doric
 Black Knights' Fortress|Forteresse des chevaliers noirs
 Witch's Potion|Potion de sorcière
-The Knight's Sword|Épée du chevalier
+The Knight's Sword|L'épée du chevalier
 Goblin Diplomacy|Diplomatie gobeline
 Pirate's Treasure|Trésor des pirates
 Rune Mysteries|Mystères runiques
@@ -24,9 +24,9 @@ Druidic Ritual|Rituel druidique
 Lost City|Cité perdue
 Witch's House|Maison de la sorcière
 Merlin's Crystal|Cristal de Merlin
-Heroes' Quest|Quête des héros
+Heroes' Quest|La quête du héros
 Scorpion Catcher|Chasseur de scorpions
-Family Crest|Armoiries familiales
+Family Crest|Armoiries de famille
 Tribal Totem|Totem tribal
 Fishing Contest|Concours de pêche
 Monk's Friend|L'ami du moine
@@ -52,7 +52,7 @@ Dwarf Cannon|Canon nain
 Murder Mystery|Mystère meurtrier
 The Dig Site|Le site de fouilles
 Gertrude's Cat|Le chat de Gertrude
-Legends' Quest|Quête des légendes
+Legends' Quest|La quête des légendes
 Big Chompy Bird Hunting|Chasse au grand oiseau carnivore
 Elemental Workshop I|Atelier élémentaire I
 Priest in Peril|Prêtre en péril
@@ -63,7 +63,7 @@ Tai Bwo Wannai Trio|Trio Tai Bwo Wannai
 Regicide|Régicide
 Eadgar's Ruse|La ruse d'Eadgar
 Shades of Mort'ton|Les ombres de Mort'ton
-The Fremennik Trials|Les épreuves des Fremennik
+The Fremennik Trials|Les épreuves Fremennik
 Horror from the Deep|L'horreur des profondeurs
 Throne of Miscellania|Le trône de Miscellania
 Monkey Madness I|La folie des singes I
@@ -98,10 +98,10 @@ Ratcatchers|Les chasseurs de rats
 Spirits of the Elid|Les esprits des Elid
 Devious Minds|Esprits retors
 The Hand in the Sand|La main dans le sable
-Enakhra's Lament|La complainte d'Enakhra
-Cabin Fever|Fièvre des cabanes
-Fairytale I - Growing Pains|Conte de fées I - Les douleurs de la croissance
-Recipe for Disaster|Recette pour un désastre
+Enakhra's Lament|Les lamentations d'Enakhra
+Cabin Fever|Ohé, moussaillon !
+Fairytale I - Growing Pains|Conte de fées I - Rien ne pousse
+Recipe for Disaster|Diner presque parfait
 In Aid of the Myreque|À l'aide des Myreque
 A Soul's Bane|Le fléau d'une âme
 Rag and Bone Man I|Le chiffonnier I
@@ -114,16 +114,16 @@ The Eyes of Glouphrie|Les yeux de Glouphrie
 Darkness of Hallowvale|Les ténèbres de Hallowvale
 The Slug Menace|La menace des limaces
 Elemental Workshop II|Atelier élémentaire II
-My Arm's Big Adventure|La grande aventure de mon bras
-Enlightened Journey|Voyage éclairé
+My Arm's Big Adventure|La grande aventure de MonBras
+Enlightened Journey|Voyage illuminé
 Eagles' Peak|Le pic des aigles
 Animal Magnetism|Magnétisme animal
 Contact!|Contact !
 Cold War|Guerre froide
 The Fremennik Isles|Les îles Fremennik
 Tower of Life|Tour de la vie
-The Great Brain Robbery|Le grand vol de cerveaux
-What Lies Below|Ce qui se cache en dessous
+The Great Brain Robbery|Le grand casse des cerveaux
+What Lies Below|Ce qui se cache dessous
 Olaf's Quest|La quête d'Olaf
 Another Slice of H.A.M.|Une autre tranche de H.A.M.
 Dream Mentor|Mentor de rêve
@@ -139,7 +139,7 @@ Dragon Slayer I|Tueur de dragon I
 Dragon Slayer II|Tueur de dragon II
 Tale of the Righteous|Le conte des justes
 A Taste of Hope|Un avant-goût d'espoir
-Making Friends with My Arm|Se faire des amis avec mon bras
+Making Friends with My Arm|Se faire des amis avec MonBras
 The Forsaken Tower|La tour abandonnée
 The Ascent of Arceuus|L'ascension d'Arceuus
 Song of the Elves|Le chant des elfes
@@ -162,16 +162,16 @@ Defender of Varrock|Le défenseur de Varrock
 Twilight's Promise|La promesse du crépuscule
 At First Light|À la première lueur
 Perilous Moons|Les lunes périlleuses
-The Ribbiting Tale of a Lily Pad Labour Dispute|L'histoire croassante d'un lit de nénuphars Conflit social
-While Guthix Sleeps|Pendant que Guthix dort
+The Ribbiting Tale of a Lily Pad Labour Dispute|L'histoire croassante du conflit social d'un lit de nénuphars 
+While Guthix Sleeps|Pendant le sommeil de Guthix
 The Heart of Darkness|Le cœur des ténèbres
-Death on the Isle|Mort sur l'île
-Meat and Greet|Viande et accueil
-Ethically Acquired Antiquities|Antiquités acquises de manière éthique
+Death on the Isle|Meurtre sur l'île
+Meat and Greet|Accueil de viandards
+Ethically Acquired Antiquities|Antiquités acquises de manière totalement éthique
 The Curse of Arrav|La malédiction d'Arrav
 The Final Dawn|L'aube finale
 Shadows of Custodia|Les ombres de Custodia
-Scrambled!|Mélangé !
+Scrambled!|Brouillé !
 Pandemonium|Pandémonium
 Prying Times|Une époque curieuse
 Current Affairs|Actualités
@@ -190,7 +190,7 @@ His Faithful Servants|Ses fidèles serviteurs
 Hopespear's Will|La volonté de Hopespear
 In Search of Knowledge|À la recherche de la connaissance
 Into the Tombs|Dans les tombes
-Lair of Tarn Razorlor|Le repaire de Tarn Razorlor
+Lair of Tarn Razorlor|Le repère de Tarn Razorlor
 Mage Arena I|Arène des mages I
 Mage Arena II|Arène des mages II
 Skippy and the Mogres|Skippy et les Mogres
