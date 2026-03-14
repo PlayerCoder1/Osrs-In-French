@@ -45,10 +45,14 @@ public class FrenchTranslationPlugin extends Plugin
     private static final int CHILD_CONTINUE = 5;
     private static final int CHILD_TEXT = 6;
 
-    @Inject private Client client;
-    @Inject private ClientThread clientThread;
+    @Inject
+    private Client client;
 
-    @Inject private FrenchTranslationConfig config;
+    @Inject
+    private ClientThread clientThread;
+
+    @Inject
+    private FrenchTranslationConfig config;
 
     @Provides
     FrenchTranslationConfig provideConfig(ConfigManager configManager)
@@ -58,6 +62,7 @@ public class FrenchTranslationPlugin extends Plugin
 
     private final Map<Integer, String> originalItemNames = new HashMap<>();
     private final Map<Integer, String> lastWidgetText = new HashMap<>();
+    private final Map<Integer, String> lastWidgetName = new HashMap<>();
 
     @Override
     protected void startUp()
@@ -66,8 +71,10 @@ public class FrenchTranslationPlugin extends Plugin
         FrenchNpcTranslations.init();
         FrenchDialogTranslations.init();
         FrenchQuestTranslations.init();
+        FrenchTutorialIslandTranslations.init();
 
         lastWidgetText.clear();
+        lastWidgetName.clear();
         log.info("French Translation started");
     }
 
@@ -84,6 +91,7 @@ public class FrenchTranslationPlugin extends Plugin
                 }
                 originalItemNames.clear();
                 lastWidgetText.clear();
+                lastWidgetName.clear();
             }
             catch (Exception ex)
             {
@@ -212,7 +220,10 @@ public class FrenchTranslationPlugin extends Plugin
 
     private static String stripCombatLevelSuffix(String s)
     {
-        if (s == null) return null;
+        if (s == null)
+        {
+            return null;
+        }
         return s.replaceAll("\\s*\\(level-\\d+\\)$", "");
     }
 
@@ -227,6 +238,7 @@ public class FrenchTranslationPlugin extends Plugin
         if (config.translateDialogs())
         {
             translateDialogWidgets();
+            translateTutorialChatboxWidgets();
         }
     }
 
@@ -238,7 +250,7 @@ public class FrenchTranslationPlugin extends Plugin
             return;
         }
 
-        if (!config.translateNpcs() && !config.translateItems() && !config.translateQuests())
+        if (!config.translateNpcs() && !config.translateItems() && !config.translateQuests() && !config.translateDialogs())
         {
             return;
         }
@@ -271,6 +283,61 @@ public class FrenchTranslationPlugin extends Plugin
         translateOneDialogWidget(CHATRIGHT_GROUP, CHILD_CONTINUE, false);
 
         translateChatmenuOptions();
+    }
+
+    private void translateTutorialChatboxWidgets()
+    {
+        Widget chatboxRoot = client.getWidget(IFACE_CHATBOX, 0);
+        if (chatboxRoot != null)
+        {
+            translateTutorialOnlyTree(chatboxRoot);
+        }
+    }
+
+    private void translateTutorialOnlyTree(Widget widget)
+    {
+        if (widget == null || widget.isHidden())
+        {
+            return;
+        }
+
+        String rawText = widget.getText();
+        if (rawText != null && !rawText.isEmpty())
+        {
+            String fr = FrenchTutorialIslandTranslations.translateRawWidgetText(rawText);
+            if (fr != null)
+            {
+                widget.setText(fr);
+                lastWidgetText.put(widget.getId(), fr);
+            }
+        }
+
+        Widget[] kids = widget.getDynamicChildren();
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateTutorialOnlyTree(w);
+            }
+        }
+
+        kids = widget.getStaticChildren();
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateTutorialOnlyTree(w);
+            }
+        }
+
+        kids = widget.getNestedChildren();
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateTutorialOnlyTree(w);
+            }
+        }
     }
 
     private void translateOneDialogWidget(int groupId, int childId, boolean isNameWidget)
@@ -375,17 +442,36 @@ public class FrenchTranslationPlugin extends Plugin
         }
 
         translateWidgetTextIfChanged(widget);
+        translateWidgetNameIfChanged(widget);
 
         Widget[] kids;
 
         kids = widget.getDynamicChildren();
-        if (kids != null) for (Widget w : kids) translateGeneralWidgetTree(w);
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateGeneralWidgetTree(w);
+            }
+        }
 
         kids = widget.getStaticChildren();
-        if (kids != null) for (Widget w : kids) translateGeneralWidgetTree(w);
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateGeneralWidgetTree(w);
+            }
+        }
 
         kids = widget.getNestedChildren();
-        if (kids != null) for (Widget w : kids) translateGeneralWidgetTree(w);
+        if (kids != null)
+        {
+            for (Widget w : kids)
+            {
+                translateGeneralWidgetTree(w);
+            }
+        }
     }
 
     private void translateWidgetTextIfChanged(Widget widget)
@@ -405,9 +491,19 @@ public class FrenchTranslationPlugin extends Plugin
 
         final int iface = WidgetUtil.componentToInterface(id);
 
+        if (config.translateDialogs() && FrenchTutorialIslandTranslations.isTutorialIslandInterface(iface))
+        {
+            String frTutorial = FrenchTutorialIslandTranslations.translateRawWidgetText(rawText);
+            if (frTutorial != null)
+            {
+                widget.setText(frTutorial);
+                lastWidgetText.put(id, frTutorial);
+                return;
+            }
+        }
+
         if (config.translateQuests() && iface == FrenchQuestTranslations.IFACE_QUESTLIST)
         {
-
             String labelOut = FrenchQuestTranslations.translateQuestPanelLabelsRaw(rawText);
             if (labelOut != null)
             {
@@ -464,6 +560,37 @@ public class FrenchTranslationPlugin extends Plugin
         }
     }
 
+    private void translateWidgetNameIfChanged(Widget widget)
+    {
+        final String rawName = widget.getName();
+        if (rawName == null || rawName.isEmpty())
+        {
+            return;
+        }
+
+        final int id = widget.getId();
+        final String prev = lastWidgetName.get(id);
+        if (rawName.equals(prev))
+        {
+            return;
+        }
+
+        final int iface = WidgetUtil.componentToInterface(id);
+
+        if (config.translateDialogs() && FrenchTutorialIslandTranslations.isTutorialIslandInterface(iface))
+        {
+            String frTutorial = FrenchTutorialIslandTranslations.translateRawWidgetText(rawName);
+            if (frTutorial != null)
+            {
+                widget.setName(frTutorial);
+                lastWidgetName.put(id, frTutorial);
+                return;
+            }
+        }
+
+        lastWidgetName.put(id, rawName);
+    }
+
     private static String preserveOuterTagsFast(String original, String replacement)
     {
         if (original == null)
@@ -481,7 +608,10 @@ public class FrenchTranslationPlugin extends Plugin
         while (i < original.length() && original.charAt(i) == '<')
         {
             int end = original.indexOf('>', i);
-            if (end == -1) break;
+            if (end == -1)
+            {
+                break;
+            }
 
             String tag = original.substring(i, end + 1);
             if (tag.startsWith("</"))
@@ -498,10 +628,16 @@ public class FrenchTranslationPlugin extends Plugin
         while (j > 0)
         {
             int start = original.lastIndexOf('<', j - 1);
-            if (start == -1) break;
+            if (start == -1)
+            {
+                break;
+            }
 
             int end = original.indexOf('>', start);
-            if (end == -1) break;
+            if (end == -1)
+            {
+                break;
+            }
 
             String tag = original.substring(start, end + 1);
             if (!tag.startsWith("</"))
@@ -521,4 +657,3 @@ public class FrenchTranslationPlugin extends Plugin
         return pre + replacement + post;
     }
 }
-
